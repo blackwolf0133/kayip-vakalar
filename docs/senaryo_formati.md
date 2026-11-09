@@ -31,3 +31,15 @@ Ses: Gemini (tek istek), müzik: sentetik gerilim uğultusu, kapanış kartı "D
 ## Paylaşım metni
 `caption`: kanca + 1-2 cümle + TEK çağrı "Her akşam yeni bir dosya için takip et 🗂️". Etiketler TAM 5, sonuncusu #kayıpvakalar.
 Motor sona yapay zekâ notunu kendisi ekler.
+
+## Haftalık trend raporu (last30days)
+Her pazartesi blackwolf0133/cop-adamla-tarih deposundaki "Trend araştırma" iş akışı son 30 günün trendlerini 6 kanal için tarar
+(YouTube, Reddit vb.; SCRAPECREATORS anahtarı varsa Instagram ve TikTok da). Yeni bölüm yazmadan önce en yeni raporu oku:
+
+```bash
+TAG=$(gh api "repos/blackwolf0133/cop-adamla-tarih/releases?per_page=20" --jq '[.[]|select(.tag_name|startswith("trend-"))][0].tag_name')
+ID=$(gh api "repos/blackwolf0133/cop-adamla-tarih/releases/tags/$TAG" --jq '.assets[]|select(.name=="kayip.md").id')
+gh api -H "Accept: application/octet-stream" "repos/blackwolf0133/cop-adamla-tarih/releases/assets/$ID" > /tmp/trend.md
+```
+Bu kanalın dosyası: **kayip.md**. Rapordaki tutan kanca kalıplarını, konu açılarını ve formatları kendi kurallarımıza uyarlayarak kullan;
+başka içerik üreticilerinin metnini, videosunu ya da hikâyesini kopyalama. Rapor yoksa ya da eskiyse (14 günden eski) bu adımı atla.
