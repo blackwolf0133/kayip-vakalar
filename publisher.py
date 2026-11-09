@@ -88,7 +88,7 @@ def _wait_container(host, container_id, token, timeout=900):
 
 
 HESAP = os.environ.get("IG_USERNAME", "kayip.vakalar").strip().lstrip("@").lower()
-VARSAYILAN_KIMLIK = os.environ.get("IG_KIMLIK", "")   # @kayip.vakalar Instagram kimliği (bağlantı testiyle bulunur)
+VARSAYILAN_KIMLIK = os.environ.get("IG_KIMLIK", "17841469827899238")   # @kayip.vakalar Instagram kimliği
 
 
 def _kullanici_adi(uid, token, mode):
