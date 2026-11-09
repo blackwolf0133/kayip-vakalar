@@ -9,7 +9,7 @@ Ses: Gemini (tek istek), müzik: sentetik gerilim uğultusu, kapanış kartı "D
   "scenes": [
     {"text": "Ekranda ve seste geçen Türkçe cümle(ler).", "prompt": "English scene description", "yer": "Yer, Ülke · Yıl", "sis": 0.3}
   ],
-  "caption": "1-2 cümle kanca + bilgi ...\n\nHer gece yeni bir dosya için takip et 🗂️",
+  "caption": "1-2 cümle kanca + bilgi ...\n\nHer akşam yeni bir dosya için takip et 🗂️",
   "hashtags": ["#konu", "#gizemliolaylar", "#...", "#...", "#kayıpvakalar"]
 }
 ```
@@ -29,5 +29,5 @@ Ses: Gemini (tek istek), müzik: sentetik gerilim uğultusu, kapanış kartı "D
 - "rain/storm/snow/night/candle/lantern/forest" gibi kelimeler hareket efektlerini (yağmur, kar, ışık) açar.
 
 ## Paylaşım metni
-`caption`: kanca + 1-2 cümle + TEK çağrı "Her gece yeni bir dosya için takip et 🗂️". Etiketler TAM 5, sonuncusu #kayıpvakalar.
+`caption`: kanca + 1-2 cümle + TEK çağrı "Her akşam yeni bir dosya için takip et 🗂️". Etiketler TAM 5, sonuncusu #kayıpvakalar.
 Motor sona yapay zekâ notunu kendisi ekler.

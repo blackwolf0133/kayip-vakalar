@@ -1,9 +1,9 @@
-# Hazır olan sıradaki dosyayı Instagram'a Reel olarak paylaşır (her gece ~22:00; yedek: Claude alarmı ~21:56).
+# Hazır olan sıradaki dosyayı Instagram'a Reel olarak paylaşır (her akşam ~20:00; yedek: Claude alarmı 19:52).
 name: Günlük paylaşım
 
 on:
   schedule:
-    - cron: "52 18 * * *"    # 21:52 Türkiye
+    - cron: "48 16 * * *"    # 19:48 Türkiye (paylaşım ~20:00; yedek: Claude alarmı 19:52)
   workflow_dispatch:
     inputs:
       zorla:

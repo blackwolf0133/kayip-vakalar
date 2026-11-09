@@ -181,7 +181,7 @@ def end_card(ep, k):
     f1 = font(84)
     d.text(((W - d.textlength(t1, font=f1)) / 2, 760), t1, font=f1, fill=c(RED))
     f2 = font(46)
-    t2 = ep.get("son_alt", "Yeni dosya her gece 22:00")
+    t2 = ep.get("son_alt", "Yeni dosya her akşam 20:00")
     d.text(((W - d.textlength(t2, font=f2)) / 2, 890), t2, font=f2, fill=c(WHITE))
     f3 = font(42)
     d.text(((W - d.textlength(HANDLE, font=f3)) / 2, 1000), HANDLE, font=f3, fill=c((150, 152, 165)))

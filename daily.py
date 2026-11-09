@@ -1,4 +1,4 @@
-"""Kayıp Vakalar (@kayip.vakalar) - günlük otomasyon (her gece 22:00).
+"""Kayıp Vakalar (@kayip.vakalar) - günlük otomasyon (her akşam 20:00).
 
 Akış: 'Hazırla' iş akışı sıradaki bölümü önceden üretir (hazir-<id> sürümüne koyar),
 'Günlük paylaşım' iş akışı hazır olan ilk bölümü Instagram'a yükler.
@@ -101,7 +101,7 @@ def cmd_pick_prepare(_):
 
 def cmd_pick_publish(_):
     hour_tr = (dt.datetime.utcnow() + dt.timedelta(hours=3)).hour
-    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and not (21 <= hour_tr < 24):
+    if os.environ.get("GITHUB_EVENT_NAME") == "schedule" and not (19 <= hour_tr < 23):
         print(f"Zamanlayıcı geç tetiklendi (TR saat {hour_tr}), gece paylaşımı yapılmıyor.")
         set_output("id", "")
         return
