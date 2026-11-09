@@ -1,0 +1,56 @@
+{
+ "id": "003",
+ "slug": "dyatlov",
+ "title": "Dyatlov Geçidi",
+ "seed": 303,
+ "scenes": [
+  {
+   "text": "Dokuz deneyimli dağcı, gecenin ortasında çadırlarını içeriden keserek dışarı kaçtı. Çoğunun ayağında bot yoktu.",
+   "prompt": "A torn canvas tent half buried in snow on a bare mountain slope at night, moonlight, blowing snow, nobody around",
+   "yer": "Ural Dağları, Rusya · 1959",
+   "sis": 0.2
+  },
+  {
+   "text": "Ocak 1959. Igor Dyatlov liderliğindeki on üniversiteli, kuzey Urallarda zorlu bir kayak yolculuğuna çıktı.",
+   "prompt": "A group of young skiers in 1950s winter clothing with large backpacks crossing a snowy pine forest in pale daylight, seen from behind"
+  },
+  {
+   "text": "Biri yolda hastalanıp geri döndü. Bu karar onun hayatını kurtaracaktı.",
+   "prompt": "A lone young man on skis turning back on a snowy trail while a line of distant skiers continues uphill into the mist",
+   "sis": 0.3
+  },
+  {
+   "text": "1 Şubat akşamı, Holat Syahl dağının çıplak yamacında çadır kurdular. Dağın yerel dildeki adı: Ölü Dağ.",
+   "prompt": "Skiers setting up a long canvas tent on a flat cut in the snow on an exposed bare mountain slope at dusk, cold wind"
+  },
+  {
+   "text": "Haftalar sonra kurtarma ekibi çadırı buldu. İçeriden kesilmişti. Botlar ve yiyecekler hâlâ içerideydi.",
+   "prompt": "Rescuers in 1950s winter clothing standing near a collapsed snow-covered canvas tent on a mountain slope, grey daylight"
+  },
+  {
+   "text": "Dokuzunun da hayatını kaybettiği anlaşıldı. İzler yokuş aşağı, ormana doğru gidiyordu.",
+   "prompt": "A line of footprints in deep snow leading downhill toward a dark forest edge at dawn, no people"
+  },
+  {
+   "text": "Yıllarca uzaylılar, gizli silahlar, kar adamı konuşuldu. Bunların hiçbiri kanıtlanamadı.",
+   "prompt": "Strange faint orange lights in a dark night sky above snowy mountains, eerie atmosphere"
+  },
+  {
+   "text": "2021'de iki İsviçreli bilim insanı bir model yayımladı: Çadır için kazılan kar, saatler sonra küçük bir çığı tetiklemiş olabilir. Rusya'nın resmî incelemesi de çığ dedi.",
+   "prompt": "A dark painting of a slab of snow sliding down a gentle slope toward a small tent at night, cross-section view of the snow layers"
+  },
+  {
+   "text": "Ama herkes ikna olmadı. O gece o çadırda tam olarak ne yaşandı, hâlâ tartışılıyor. Dosya hâlâ açık.",
+   "prompt": "A single tall cedar tree on a snowy slope at night under cold stars, wind blowing snow",
+   "sis": 0.3
+  }
+ ],
+ "caption": "1959'da dokuz genç dağcı, çadırlarını içeriden keserek karlı geceye kaçtı. Neden? 60 yıldır tartışılıyor. 🏔️\n\nBu videoda hayatını kaybeden dokuz kişiyi saygıyla anıyoruz.\n\nHer gece yeni bir dosya için takip et 🗂️",
+ "hashtags": [
+  "#dyatlov",
+  "#uraldağları",
+  "#gizemliolaylar",
+  "#çözülemeyengizemler",
+  "#kayıpvakalar"
+ ]
+}

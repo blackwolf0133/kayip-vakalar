@@ -1,0 +1,57 @@
+{
+ "id": "001",
+ "slug": "mary_celeste",
+ "title": "Mary Celeste",
+ "seed": 101,
+ "scenes": [
+  {
+   "text": "Okyanusun ortasında bir gemi buldular. Yelkenleri açıktı. Ama gemide tek bir insan yoktu.",
+   "prompt": "A 19th-century two-masted brigantine sailing ship drifting alone on a grey stormy Atlantic ocean, partly torn sails, nobody on deck, low clouds and sea mist",
+   "yer": "Atlantik Okyanusu · 1872",
+   "sis": 0.3
+  },
+  {
+   "text": "Aralık 1872. Dei Gratia gemisinin tayfaları, Azor Adaları açıklarında başıboş sürüklenen bir gemi gördü: Mary Celeste.",
+   "prompt": "Sailors in 19th-century wool coats on the deck of a wooden sailing ship looking through a brass telescope at a distant ship on the horizon, overcast cold light"
+  },
+  {
+   "text": "İki saat izlediler. Güvertede kimse görünmüyordu. Sonunda birkaç adam küçük bir sandalla gemiye çıktı.",
+   "prompt": "A small wooden rowing boat with three sailors approaching the dark hull of an abandoned sailing ship on choppy grey sea, mist"
+  },
+  {
+   "text": "Gemi batmıyordu. Ambarda altı aylık yiyecek, tayfaların eşyaları, kaptanın kitapları duruyordu.",
+   "prompt": "Dim interior of a 19th-century ship captain's cabin, wooden sea chests, books on a shelf, an unlit oil lamp, belongings neatly in place, cold grey daylight from a small round window"
+  },
+  {
+   "text": "Ama tek filika yoktu. Geminin arkasından, ucu kopmuş bir halat denizde sürükleniyordu.",
+   "prompt": "A frayed rope hanging from the stern of an old wooden sailing ship and trailing in dark rough water, empty wooden davits where a lifeboat should be, stormy sky"
+  },
+  {
+   "text": "Gemide on kişi vardı. Kaptan Briggs, eşi, iki yaşındaki kızları ve yedi tayfa. Hiçbiri bir daha görülmedi.",
+   "prompt": "An empty wooden ship deck in thick fog, a woman's shawl draped over a small wooden chair, a coiled rope, no people",
+   "sis": 0.45
+  },
+  {
+   "text": "Yıllar sonra Sherlock Holmes'un yazarı bu olaydan bir hikâye yazdı. Masada sıcak çay vardı, dedi. Bu bir uydurma; gerçek kayıtlarda yok.",
+   "prompt": "A Victorian writer's desk at night with an inkwell, a quill pen, a candle and handwritten manuscript pages, dark study room",
+   "sicak": true
+  },
+  {
+   "text": "Kanıtlanan şu: Gemi sağlamdı, filika eksikti, dokuz alkol fıçısı boştu. En güçlü açıklama, sızan alkol buharından korkup gemiyi terk ettikleri.",
+   "prompt": "Rows of old wooden barrels in a dark ship cargo hold, faint vapor in the air, a single lantern glow, seawater on the floor"
+  },
+  {
+   "text": "Ama o küçük filikaya ne oldu, kimse bilmiyor. Dosya hâlâ açık.",
+   "prompt": "A tiny empty lifeboat alone on a vast dark ocean under heavy storm clouds at dusk, seen from far away",
+   "sis": 0.35
+  }
+ ],
+ "caption": "1872'de okyanusun ortasında sağlam bir gemi bulundu. Yiyecekler yerindeydi, eşyalar yerindeydi. Ama gemideki 10 kişiden hiçbiri yoktu. 🕯️\n\nKanıtlanan, efsane ve hâlâ çözülemeyen kısmı videoda.\n\nHer gece yeni bir dosya için takip et 🗂️",
+ "hashtags": [
+  "#maryceleste",
+  "#gizemliolaylar",
+  "#hayaletgemi",
+  "#çözülemeyengizemler",
+  "#kayıpvakalar"
+ ]
+}

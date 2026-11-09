@@ -1,0 +1,57 @@
+{
+ "id": "002",
+ "slug": "flannan",
+ "title": "Flannan Feneri",
+ "seed": 202,
+ "scenes": [
+  {
+   "text": "Bir deniz feneri bir gece söndü. İçindeki üç adam bir daha hiç görülmedi.",
+   "prompt": "A lonely stone lighthouse on a rocky cliff island at night in a violent storm, its lamp dark, huge waves crashing below",
+   "yer": "Flannan Adaları, İskoçya · 1900",
+   "sis": 0.25
+  },
+  {
+   "text": "15 Aralık 1900. Fırtınalı bir gecede adanın yanından geçen bir gemi, fenerin yanmadığını fark etti.",
+   "prompt": "A small steamship at night on a rough dark sea passing a black rocky island with an unlit lighthouse, rain"
+  },
+  {
+   "text": "Kötü hava yüzünden yardım gemisi adaya ancak 26 Aralık'ta varabildi. Kimse onları karşılamaya çıkmadı.",
+   "prompt": "A small steam ship approaching a rocky island landing with stone steps cut into the cliff, grey winter sea, nobody waiting on the landing"
+  },
+  {
+   "text": "Yedek bekçi Joseph Moore tek başına yukarı tırmandı. Lambalar temizlenmiş, yağları doldurulmuştu.",
+   "prompt": "A man in a heavy dark 1900s wool coat climbing steep stone steps toward a white lighthouse alone in strong wind, overcast"
+  },
+  {
+   "text": "Ama içeride kimse yoktu. Üç yağmurluktan ikisi eksikti. Biri askıda öylece asılı duruyordu.",
+   "prompt": "A single yellow oilskin raincoat hanging on a hook in a dim empty stone corridor of an old lighthouse, cold grey light from a small window"
+  },
+  {
+   "text": "Bekçiler James Ducat, Thomas Marshall ve Donald MacArthur'dı. Adayı karış karış aradılar. Hiçbir iz yoktu.",
+   "prompt": "Distant men with oil lanterns searching windswept rocky cliffs of a small treeless island at dusk, seen from far away",
+   "sis": 0.3
+  },
+  {
+   "text": "Sonra korku dolu notlarla dolu bir günlük ortaya çıktı. Ama araştırmalar bu notların sonradan uydurulduğunu gösterdi.",
+   "prompt": "An old leather logbook lying open on a wooden table by candlelight in a dark stone room, inked pages, a quill",
+   "sicak": true
+  },
+  {
+   "text": "Kanıtlanan şu: Batı iskelesi fırtınada ağır hasar görmüştü. Resmî rapora göre adamlar dev bir dalgaya kapıldı.",
+   "prompt": "A damaged iron crane and broken railings on a stone landing at the foot of a sea cliff, enormous storm waves crashing over it"
+  },
+  {
+   "text": "Ama üçüncü adam neden yağmurluğunu almadan fırtınaya çıktı? Dosya hâlâ açık.",
+   "prompt": "A lighthouse on a cliff seen from the sea at dusk behind a towering wave, sea mist",
+   "sis": 0.35
+  }
+ ],
+ "caption": "1900'de İskoçya'da bir deniz feneri söndü. Yardım gelene kadar 11 gün geçti ve üç bekçiden hiçbiri bulunamadı. Askıda tek bir yağmurluk kalmıştı. 🌊\n\nHer gece yeni bir dosya için takip et 🗂️",
+ "hashtags": [
+  "#flannan",
+  "#denizfeneri",
+  "#gizemliolaylar",
+  "#çözülemeyengizemler",
+  "#kayıpvakalar"
+ ]
+}
