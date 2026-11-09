@@ -6,13 +6,13 @@
  "scenes": [
   {
    "text": "Bir deniz feneri bir gece söndü. İçindeki üç adam bir daha hiç görülmedi.",
-   "prompt": "A lonely stone lighthouse on a rocky cliff island at night in a violent storm, its lamp dark, huge waves crashing below",
+   "prompt": "A lonely stone lighthouse on a rocky cliff island at night in a violent storm, the lighthouse is completely dark with no light at all, black unlit lantern room, huge waves crashing below",
    "yer": "Flannan Adaları, İskoçya · 1900",
    "sis": 0.25
   },
   {
    "text": "15 Aralık 1900. Fırtınalı bir gecede adanın yanından geçen bir gemi, fenerin yanmadığını fark etti.",
-   "prompt": "A small steamship at night on a rough dark sea passing a black rocky island with an unlit lighthouse, rain"
+   "prompt": "A small steamship with glowing portholes at night on a rough dark sea passing a black rocky island, on the island a completely dark lighthouse with no light at all, rain"
   },
   {
    "text": "Kötü hava yüzünden yardım gemisi adaya ancak 26 Aralık'ta varabildi. Kimse onları karşılamaya çıkmadı.",
