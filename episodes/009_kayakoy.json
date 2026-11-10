@@ -1,0 +1,59 @@
+{
+ "id": "009",
+ "slug": "kayakoy",
+ "title": "Kayaköy",
+ "seed": 9177,
+ "scenes": [
+  {
+   "text": "Bir köyün altı binden fazla insanı aynı yıl evini bıraktı. Yüzlerce taş ev hâlâ sahibini bekliyor.",
+   "prompt": "Hundreds of roofless stone houses covering a pine-dotted hillside at dusk, empty windows, silent abandoned village, warm fading light then cold shadow",
+   "yer": "Kayaköy, Türkiye · 1923",
+   "sis": 0.2
+  },
+  {
+   "text": "Fethiye'nin hemen yanında, kayalık bir yamaçta kurulmuş bir köy. Eski adı Levissi, bugünkü adı Kayaköy.",
+   "prompt": "A Mediterranean valley with a stone village climbing a rocky hillside, olive trees and pines, seen from far away in soft evening light"
+  },
+  {
+   "text": "Burada Rum Ortodoks aileler yaşıyordu. İki kilise, şapeller, dar taş sokaklar.",
+   "prompt": "A narrow stone-paved alley between old stone houses with wooden shutters, a small chapel bell tower in the distance, evening light",
+   "sicak": true
+  },
+  {
+   "text": "1923'te nüfus mübadelesi geldi. Köyün Hristiyanları Yunanistan'a gönderildi.",
+   "prompt": "Families with bundles and mules seen from far behind walking down a hillside path away from a stone village, dusty road, grey sky"
+  },
+  {
+   "text": "Yunanistan'dan gelen göçmenler buraya yerleştirildi. Ama yamaçtaki taş evler eski kalabalığına bir daha hiç kavuşmadı.",
+   "prompt": "An old stone house doorway with a weathered wooden door left ajar, an empty room inside, dust in a beam of light"
+  },
+  {
+   "text": "1957'de büyük Fethiye depremi geldi. Son kalanlar da köyü terk etti.",
+   "prompt": "Cracked stone walls and fallen roofs of an abandoned hillside village after an earthquake, dust in the air, overcast sky",
+   "sis": 0.25
+  },
+  {
+   "text": "Ona hayalet köy diyorlar. Ama buradaki hayaletler doğaüstü değil. Bunlar, gitmek zorunda kalanların boş bıraktığı evler.",
+   "prompt": "An empty roofless church interior with faded painted walls and an open sky above, moonlight, wind moving dry grass",
+   "sis": 0.35
+  },
+  {
+   "text": "Kanıtlanan şu: Köy bugün koruma altında bir ören yeri. Louis de Bernières'in romanı Kanatsız Kuşlar da buradan ilham aldı.",
+   "say": "Kanıtlanan şu: Köy bugün koruma altında bir ören yeri. Lui dö Börniyer'in romanı Kanatsız Kuşlar da buradan ilham aldı.",
+   "prompt": "A quiet overgrown stone path through the ruined village at dawn, wild flowers among the stones, soft mist"
+  },
+  {
+   "text": "Sen olsan, bir daha dönemeyeceğin evinin kapısını kilitler miydin? Dosya hâlâ açık.",
+   "prompt": "A rusted old iron key lying on a worn stone doorstep of a ruined house at dusk, empty village behind",
+   "sicak": true
+  }
+ ],
+ "caption": "Bir köyün altı binden fazla insanı aynı yıl evini bıraktı. Bugün yüzlerce taş ev boş duruyor. 🏚️\n\nSen olsan, bir daha dönemeyeceğin evinin kapısını kilitler miydin?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+ "hashtags": [
+  "#kayaköy",
+  "#fethiye",
+  "#hayaletköy",
+  "#terkedilmişyerler",
+  "#kayıpvakalar"
+ ]
+}

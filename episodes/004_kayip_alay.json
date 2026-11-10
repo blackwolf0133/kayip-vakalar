@@ -1,0 +1,57 @@
+{
+ "id": "004",
+ "slug": "kayip_alay",
+ "title": "Buluta Giren Tabur",
+ "seed": 4127,
+ "scenes": [
+  {
+   "text": "Yüzlerce asker bir bulutun içine yürüdü. Bulut kalktı. Geride kimse yoktu. En azından, öyle anlatıldı.",
+   "prompt": "A long column of First World War soldiers seen from far behind marching up a dry scrubby hillside into a single low dense loaf-shaped white cloud sitting on the ground, hazy summer light",
+   "yer": "Anafartalar, Türkiye · 1915",
+   "sis": 0.4
+  },
+  {
+   "text": "12 Ağustos 1915. Gelibolu'da bir İngiliz taburu, Anafartalar ovasında taarruza kalktı.",
+   "prompt": "Dry Gallipoli plain at Suvla in August 1915, distant British infantry in khaki advancing through dusty scrub and olive trees under a hazy sun, smoke on the horizon"
+  },
+  {
+   "text": "İçlerinde Kral'ın Sandringham malikânesinden gelen bir bölük vardı. Başlarında 54 yaşındaki Yüzbaşı Frank Beck.",
+   "prompt": "An older British army captain in a 1915 khaki uniform and peaked cap seen from behind, standing among young soldiers before an advance, hazy dry hills ahead"
+  },
+  {
+   "text": "İlerlediler, sık çalılıklara girdiler ve gözden kayboldular. Çoğu bir daha geri dönmedi.",
+   "prompt": "Dense dry scrub and low trees on a Gallipoli hillside swallowing the last distant figures of soldiers, dust and smoke in the air, no faces visible",
+   "sis": 0.3
+  },
+  {
+   "text": "Komutan Hamilton raporuna yazdı: 16 subay ve 250 asker, izleri kaybedilene kadar ilerledi ve bir daha görülmedi.",
+   "prompt": "A First World War field commander's writing desk in a canvas tent at dusk, an oil lamp, maps and handwritten dispatch papers, no readable text",
+   "sicak": true
+  },
+  {
+   "text": "Anlatılana göre: 1965'te üç Yeni Zelandalı gazi, alayın ekmek somunu biçimli bir buluta girdiğini ve bulutun göğe yükseldiğini söyledi.",
+   "prompt": "Three elderly veterans seen from behind on a bench looking up at a strange low loaf-shaped cloud rising over dry hills, dramatic sky"
+  },
+  {
+   "text": "Ama ifadede tarih de alayın adı da yanlıştı.",
+   "prompt": "An old yellowed typed statement on a table beside a faded military beret and medals, dim light, no readable text"
+  },
+  {
+   "text": "Kanıtlanan şu: 1919'da taburun papazı, cephe hattının gerisinde 122 Norfolk askerinin yattığı yeri buldu. Çatışmada hayatını kaybetmişlerdi. Bugün Azmak Mezarlığı'nda yatıyorlar.",
+   "prompt": "A quiet war cemetery with rows of plain white headstones among cypress trees on a Gallipoli plain at sunset, calm and respectful, no readable inscriptions"
+  },
+  {
+   "text": "Peki o gazilerin gökyüzünde gördüğü neydi? Dosya hâlâ açık.",
+   "prompt": "A single low white cloud drifting above dark Gallipoli hills at dusk, the sea in the distance, seen from far away",
+   "sis": 0.35
+  }
+ ],
+ "caption": "Yüzlerce askerin bir buluta girip kaybolduğu anlatılır. 1915, Anafartalar. Peki gerçekte ne oldu? 🌫️\n\nKanıtlanan kısım, efsane kısmı ve cevapsız kalan soru videoda. Hayatını kaybeden tüm askerleri saygıyla anıyoruz.\n\nHer akşam yeni bir dosya için takip et 🗂️",
+ "hashtags": [
+  "#çanakkale",
+  "#gelibolu",
+  "#gizemliolaylar",
+  "#tarihgizemleri",
+  "#kayıpvakalar"
+ ]
+}

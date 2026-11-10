@@ -1,0 +1,60 @@
+{
+ "id": "005",
+ "slug": "roanoke",
+ "title": "Roanoke Kolonisi",
+ "seed": 5309,
+ "scenes": [
+  {
+   "text": "Bir dede, yeni doğan torununu bir adada bıraktı. Üç yıl sonra döndüğünde adada tek bir insan yoktu.",
+   "prompt": "A deserted wooden palisade settlement on a forested island coast under a grey sky, empty, overgrown grass, abandoned, sea mist drifting through the trees",
+   "yer": "Roanoke Adası, ABD · 1590",
+   "sis": 0.35
+  },
+  {
+   "text": "1587. Vali John White önderliğinde yaklaşık 115 İngiliz, Roanoke Adası'na yerleşti.",
+   "prompt": "Small wooden sailing ships anchored off a green forested island in 1587, colonists in Elizabethan clothing rowing ashore, seen from a distance, soft overcast light"
+  },
+  {
+   "text": "Kısa süre sonra White'ın torunu Virginia Dare doğdu. Amerika'da doğan ilk İngiliz çocuğuydu.",
+   "prompt": "A small timber cottage interior lit by a single candle, a wooden cradle with a white linen blanket, the mother seen only as a silhouette from behind",
+   "sicak": true
+  },
+  {
+   "text": "White erzak için İngiltere'ye döndü. Ama İspanya ile savaş çıktı; dönüşü tam üç yıl gecikti.",
+   "prompt": "A wooden sailing ship leaving a misty coast on a stormy grey sea, a lone man at the stern seen from behind looking back at the land"
+  },
+  {
+   "text": "18 Ağustos 1590. Torununun üçüncü doğum günü. Koloniye vardığında evler sökülmüştü.",
+   "prompt": "A ruined palisade enclosure in a coastal forest, empty spaces where houses once stood, scattered timber, tall grass, grey morning light",
+   "sis": 0.3
+  },
+  {
+   "text": "Bir kazığa tek kelime kazınmıştı: CROATOAN. Bir ağaçta da üç harf: CRO.",
+   "say": "Bir kazığa tek kelime kazınmıştı: Kroatoan. Bir ağaçta da üç harf: Ce, Re, O.",
+   "prompt": "Close view of a weathered wooden palisade post with deep rough carved marks in the bark, dark forest behind, cold light, no readable letters"
+  },
+  {
+   "text": "Yıllarca lanet, salgın, katliam konuşuldu. Bunların hiçbiri kanıtlanamadı.",
+   "prompt": "A dark dense coastal forest at night with low fog between the trees and a faint moonlight, eerie and empty",
+   "sis": 0.4
+  },
+  {
+   "text": "Kanıtlanan şu: Evler düzenle sökülmüştü ve kelime önceden kararlaştırılmış bir işaretti. En güçlü açıklama, dost yerlilerin yaşadığı Croatoan Adası'na gittikleri.",
+   "say": "Kanıtlanan şu: Evler düzenle sökülmüştü ve kelime önceden kararlaştırılmış bir işaretti. En güçlü açıklama, dost yerlilerin yaşadığı Kroatoan Adası'na gittikleri.",
+   "prompt": "Small canoes and a few people seen from far behind crossing a calm sound toward a low sandy island at dawn, mist on the water"
+  },
+  {
+   "text": "White adaya gidemedi; kasırga gemisini açığa savurdu. Torununu bir daha hiç görmedi. Dosya hâlâ açık.",
+   "prompt": "A small sailing ship tossed by a hurricane on a dark sea, a low distant island fading into rain and storm clouds",
+   "sis": 0.3
+  }
+ ],
+ "caption": "Bir dede, torununu bir adada bıraktı. Üç yıl sonra döndüğünde 115 kişilik koloniden geriye tek bir kelime kalmıştı. 🌲\n\nSen olsan o kelimeye bakıp nereye giderdin?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+ "hashtags": [
+  "#roanoke",
+  "#kayıpkoloni",
+  "#gizemliolaylar",
+  "#çözülemeyengizemler",
+  "#kayıpvakalar"
+ ]
+}
