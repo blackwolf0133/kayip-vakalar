@@ -1,58 +1,58 @@
 {
- "id": "007",
- "slug": "valentich",
- "title": "Bu Bir Uçak Değil",
- "seed": 7213,
- "scenes": [
-  {
-   "text": "Genç pilotun telsizdeki son sözü şuydu: Bu bir uçak değil. Sonra metal bir ses geldi.",
-   "prompt": "A small single-engine propeller plane flying alone over a dark sea at dusk, a strange bright cluster of four lights hovering above it in the sky",
-   "yer": "Bass Boğazı, Avustralya · 1978",
-   "sis": 0.15
-  },
-  {
-   "text": "21 Ekim 1978. 20 yaşındaki Frederick Valentich, küçük bir Cessna ile Melbourne'den King Adası'na uçuyordu.",
-   "say": "21 Ekim 1978. 20 yaşındaki Frederik Valentiç, küçük bir Sesna ile Melbırn'den King Adası'na uçuyordu.",
-   "prompt": "A young pilot seen from behind in the cockpit of a small 1970s propeller plane, instrument panel glow, the sea below at evening"
-  },
-  {
-   "text": "Akşam karanlığında telsize çıktı: Üzerimde büyük, ışıklı bir şey var. Beni takip ediyor.",
-   "prompt": "View from a small plane cockpit window at twilight, bright lights in the dark sky above, the sea far below"
-  },
-  {
-   "text": "Kule sordu: Bu ne tür bir uçak? Pilot tanımlayamadı; daha önce hiç görmediği bir şeydi.",
-   "prompt": "A 1970s air traffic flight service room at night, a radio operator seen from behind wearing headphones at a desk full of dials, dim green light"
-  },
-  {
-   "text": "Sonra son cümlesi geldi: Bu bir uçak değil. Ardından 17 saniye sessizlik ve metalik bir ses.",
-   "prompt": "An old reel-to-reel tape recorder spinning in a dark room, a microphone beside it, red indicator light"
-  },
-  {
-   "text": "Uçak da pilot da kayboldu. 2.600 kilometrekarelik arama hiçbir şey bulmadı.",
-   "prompt": "Search planes flying low over a vast grey stormy sea, no wreckage anywhere, seen from far away",
-   "sis": 0.25
-  },
-  {
-   "text": "Anlatılana göre onu bir UFO kaçırdı. Buna dair tek bir kanıt yok.",
-   "say": "Anlatılana göre onu bir Yu Ef O kaçırdı. Buna dair tek bir kanıt yok.",
-   "prompt": "A strange glowing shape above dark clouds over the ocean at night, eerie atmosphere"
-  },
-  {
-   "text": "Kanıtlanan şu: Konuşmanın kaydı var, ama kaybolmanın nedeni resmen belirlenemedi. Bazı uzmanlara göre pilot yönünü kaybetti ve kendi ışıklarının yansımasını gördü.",
-   "prompt": "Reflection of small aircraft lights on a black calm sea at night, disorienting horizon, seen from above"
-  },
-  {
-   "text": "Sen o gece kulede olsan, ona ne derdin? Dosya hâlâ açık.",
-   "prompt": "A lonely coastline at night with a single light far out over the sea, waves on the rocks",
-   "sis": 0.3
-  }
- ],
- "caption": "1978'de 20 yaşında bir pilot, telsizde peşinde bir şey olduğunu söyledi. Son sözü: 'Bu bir uçak değil.' ✈️\n\nKayıt var, iz yok. Saygıyla anıyoruz.\n\nHer akşam yeni bir dosya için takip et 🗂️",
- "hashtags": [
-  "#valentich",
-  "#bassboğazı",
-  "#gizemliolaylar",
-  "#çözülemeyengizemler",
-  "#kayıpvakalar"
- ]
+  "id": "007",
+  "slug": "valentich",
+  "title": "Bu Bir Uçak Değil",
+  "seed": 7213,
+  "scenes": [
+    {
+      "text": "Genç pilotun telsizdeki son sözü şuydu: Bu bir uçak değil. Sonra metal bir ses geldi.",
+      "prompt": "A small single-engine propeller plane flying alone over a dark sea at dusk, a strange bright cluster of four lights hovering above it in the sky",
+      "yer": "Bass Boğazı, Avustralya · 1978",
+      "sis": 0.15
+    },
+    {
+      "text": "21 Ekim 1978. 20 yaşındaki Frederick Valentich, küçük bir Cessna ile Melbourne'den King Adası'na uçuyordu.",
+      "say": "21 Ekim 1978. 20 yaşındaki Frederik Valentiç, küçük bir Sesna ile Melbırn'den King Adası'na uçuyordu.",
+      "prompt": "A young pilot seen from behind in the cockpit of a small 1970s propeller plane, instrument panel glow, the sea below at evening"
+    },
+    {
+      "text": "Akşam karanlığında telsize çıktı: Üzerimde büyük, ışıklı bir şey var. Beni takip ediyor.",
+      "prompt": "View from a small plane cockpit window at twilight, bright lights in the dark sky above, the sea far below"
+    },
+    {
+      "text": "Kule sordu: Bu ne tür bir uçak? Pilot tanımlayamadı; daha önce hiç görmediği bir şeydi.",
+      "prompt": "A 1970s air traffic flight service room at night, a radio operator seen from behind wearing headphones at a desk full of dials, dim green light"
+    },
+    {
+      "text": "Sonra son cümlesi geldi: Bu bir uçak değil. Ardından 17 saniye sessizlik ve metalik bir ses.",
+      "prompt": "An old reel-to-reel tape recorder spinning in a dark room, a microphone beside it, red indicator light"
+    },
+    {
+      "text": "Uçak da pilot da kayboldu. 2.600 kilometrekarelik arama hiçbir şey bulmadı.",
+      "prompt": "Search planes flying low over a vast grey stormy sea, no wreckage anywhere, seen from far away",
+      "sis": 0.25
+    },
+    {
+      "text": "Anlatılana göre onu bir UFO kaçırdı. Buna dair tek bir kanıt yok.",
+      "say": "Anlatılana göre onu bir Yu Ef O kaçırdı. Buna dair tek bir kanıt yok.",
+      "prompt": "A strange glowing shape above dark clouds over the ocean at night, eerie atmosphere"
+    },
+    {
+      "text": "Kanıtlanan şu: Konuşmanın kaydı var, ama kaybolmanın nedeni resmen belirlenemedi. Bazı uzmanlara göre pilot yönünü kaybetti ve kendi ışıklarının yansımasını gördü.",
+      "prompt": "Reflection of small aircraft lights on a black calm sea at night, disorienting horizon, seen from above"
+    },
+    {
+      "text": "Sen o gece kulede olsan, ona ne derdin? Dosya hâlâ açık.",
+      "prompt": "A lonely coastline at night with a single light far out over the sea, waves on the rocks",
+      "sis": 0.3
+    }
+  ],
+  "caption": "1978'de 20 yaşında bir pilot, telsizde peşinde bir şey olduğunu söyledi. Son sözü: 'Bu bir uçak değil.' ✈️\n\nKayıt var, iz yok. Saygıyla anıyoruz.\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#valentich",
+    "#bassboğazı",
+    "#gizemliolaylar",
+    "#çözülemeyengizemler",
+    "#kayıpvakalar"
+  ]
 }

@@ -1,0 +1,60 @@
+{
+  "id": "005",
+  "slug": "derinkuyu",
+  "title": "Duvarın Arkasındaki Şehir",
+  "seed": 6481,
+  "scenes": [
+    {
+      "text": "1963, Kapadokya. Bir adam evinin bir duvarını yıktı. Duvarın arkasından karanlık bir geçit çıktı.",
+      "prompt": "A man seen from behind holding an oil lamp in front of a freshly broken stone wall inside an old Cappadocian house, a black tunnel opening behind the rubble, dust in the lamp light",
+      "yer": "Derinkuyu, Türkiye · 1963",
+      "sicak": true
+    },
+    {
+      "text": "Geçit aşağı iniyordu. Aşağı, daha aşağı. Lambanın ışığı dibe ulaşmıyordu.",
+      "prompt": "A narrow rough-hewn stone staircase spiralling down into darkness inside soft volcanic rock, a faint lamp glow far below",
+      "sicak": true
+    },
+    {
+      "text": "Altında koca bir şehir vardı: Yerin 18 kat altına inen odalar, ahırlar, mutfaklar, depolar.",
+      "prompt": "A vast underground city carved into soft volcanic rock, many levels of chambers, arches and passages lit by scattered oil lamps, seen from above",
+      "sicak": true
+    },
+    {
+      "text": "Tahminlere göre burada hayvanları ve erzakıyla birlikte 20 bin kişi saklanabiliyordu.",
+      "prompt": "Distant silhouettes of people and goats in a large dim cave chamber carved from rock, oil lamps, shadows on the walls",
+      "sicak": true
+    },
+    {
+      "text": "Temiz hava için bacalar, içme suyu için kuyular vardı. Ve yüzlerce kiloluk, yuvarlak taş kapılar.",
+      "prompt": "A deep vertical ventilation shaft carved in rock with a faint beam of daylight falling into an underground chamber, dust floating in the light"
+    },
+    {
+      "text": "Bu kapılar yalnızca içeriden kapanabiliyordu. Yani burada saklananlar, dışarıdaki bir şeyden korkuyordu.",
+      "prompt": "A massive round millstone-like stone door set in a carved rock passage, half rolled across the doorway, dark corridor beyond, lamp light",
+      "sicak": true
+    },
+    {
+      "text": "Anlatılana göre bu şehir, kilometrelerce tünelle başka yeraltı şehirlerine bağlanıyor. Bu tünellerin tamamı hiç bulunamadı.",
+      "prompt": "An endless dark narrow tunnel carved in volcanic rock stretching into blackness, faint mist, no light at the end",
+      "sis": 0.3
+    },
+    {
+      "text": "Kanıtlanan şu: Şehir 1923 nüfus mübadelesine kadar kullanıldı, sonra terk edilip unutuldu. Ama ilk kimin, ne zaman kazdığı hâlâ tartışılıyor.",
+      "prompt": "Cappadocia landscape at dusk with fairy chimney rock formations and a small quiet village above, cold blue light, seen from far away"
+    },
+    {
+      "text": "Sen olsan, o duvarın arkasındaki karanlığa iner miydin? Dosya hâlâ açık.",
+      "prompt": "A broken wall opening revealing pitch black darkness, a single oil lamp on the floor beside the rubble, dust in the air",
+      "sicak": true
+    }
+  ],
+  "caption": "Bir adam evinin duvarını yıktı ve arkasında yerin 18 kat altına inen bir şehir buldu. Kapıları yalnızca içeriden kapanıyordu. 🕳️\n\nSen olsan o karanlığa iner miydin?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#derinkuyu",
+    "#kapadokya",
+    "#yeraltışehri",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

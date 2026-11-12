@@ -1,59 +1,59 @@
 {
- "id": "008",
- "slug": "anjikuni",
- "title": "Kaybolan Köy",
- "seed": 8059,
- "scenes": [
-  {
-   "text": "Ateşte yemek pişiyordu. Kapılar açıktı. Ama köyde tek bir insan yoktu.",
-   "prompt": "An empty Inuit winter camp of hide tents on a frozen lakeshore at dusk, a small cooking fire still smoking with a pot over it, nobody around, snow blowing",
-   "yer": "Anjikuni Gölü, Kanada · 1930",
-   "sis": 0.3
-  },
-  {
-   "text": "Kasım 1930. Bir gazete haberine göre, kürk avcısı Joe Labelle kuzey Kanada'da bir köye vardı.",
-   "say": "Kasım 1930. Bir gazete haberine göre, kürk avcısı Co Label kuzey Kanada'da bir köye vardı.",
-   "prompt": "A lone fur trapper in heavy furs seen from behind walking on snowshoes toward a small camp beside a frozen lake, grey arctic light"
-  },
-  {
-   "text": "Göl kıyısındaki bu küçük köyde, habere göre yaklaşık 25 kişi yaşıyordu.",
-   "prompt": "A cluster of six hide tents beside a vast frozen lake under a pale grey sky, seen from far away, smoke rising faintly"
-  },
-  {
-   "text": "Haberde çadırlarda yarım kalmış giysiler, ateşte yemekler vardı. Kızak köpekleri bile geride kalmıştı.",
-   "prompt": "Inside a hide tent, a half-sewn fur garment with a bone needle left on the floor, an oil lamp, cold blue light through the entrance"
-  },
-  {
-   "text": "Yıllar içinde hikâye büyüdü. Önce 30, sonra 2 bin kişilik bir köyün yok olduğu anlatıldı.",
-   "prompt": "Stacks of old newspapers and paperback books on a dusty desk under a lamp, no readable text, dark room",
-   "sicak": true
-  },
-  {
-   "text": "Ama Kanada polisi olayı araştırdı. Raporda tek cümle vardı: Bu hikâyenin hiçbir dayanağı yok.",
-   "prompt": "A 1930s Mountie on a dog sled seen from behind crossing a frozen snowy landscape toward the horizon, pale light"
-  },
-  {
-   "text": "Kanıtlanan şu: Hikâye 1930'da bir muhabirin gazete haberiyle başladı. Polis, kaybolan tek bir kişi bile bulamadı.",
-   "prompt": "A 1930s newspaper printing press in a dim workshop, a large sheet of blank paper, lamp light",
-   "sicak": true
-  },
-  {
-   "text": "En güçlü açıklama, bir gazetecinin uydurduğu hikâyenin yüz yıl boyunca büyümesi.",
-   "prompt": "A tiny empty tent alone on an endless frozen lake under a dark sky, wind blowing snow",
-   "sis": 0.35
-  },
-  {
-   "text": "Peki hiç var olmamış bir köy nasıl kaybolur? Sen olsan bu habere inanır mıydın? Dosya hâlâ açık.",
-   "prompt": "A frozen lakeshore at night under green northern lights, empty land, no people, snow",
-   "sis": 0.3
-  }
- ],
- "caption": "Bütün bir köyün bir gecede yok olduğu anlatılır. Ateşte yemek, çadırda yarım dikiş… Ama bu dosyada asıl sır başka. ❄️\n\nSen olsan bu habere inanır mıydın?\n\nHer akşam yeni bir dosya için takip et 🗂️",
- "hashtags": [
-  "#anjikuni",
-  "#kayıpköy",
-  "#gizemliolaylar",
-  "#şehirefsaneleri",
-  "#kayıpvakalar"
- ]
+  "id": "008",
+  "slug": "anjikuni",
+  "title": "Kaybolan Köy",
+  "seed": 8059,
+  "scenes": [
+    {
+      "text": "Ateşte yemek pişiyordu. Kapılar açıktı. Ama köyde tek bir insan yoktu.",
+      "prompt": "An empty Inuit winter camp of hide tents on a frozen lakeshore at dusk, a small cooking fire still smoking with a pot over it, nobody around, snow blowing",
+      "yer": "Anjikuni Gölü, Kanada · 1930",
+      "sis": 0.3
+    },
+    {
+      "text": "Kasım 1930. Bir gazete haberine göre, kürk avcısı Joe Labelle kuzey Kanada'da bir köye vardı.",
+      "say": "Kasım 1930. Bir gazete haberine göre, kürk avcısı Co Label kuzey Kanada'da bir köye vardı.",
+      "prompt": "A lone fur trapper in heavy furs seen from behind walking on snowshoes toward a small camp beside a frozen lake, grey arctic light"
+    },
+    {
+      "text": "Göl kıyısındaki bu küçük köyde, habere göre yaklaşık 25 kişi yaşıyordu.",
+      "prompt": "A cluster of six hide tents beside a vast frozen lake under a pale grey sky, seen from far away, smoke rising faintly"
+    },
+    {
+      "text": "Haberde çadırlarda yarım kalmış giysiler, ateşte yemekler vardı. Kızak köpekleri bile geride kalmıştı.",
+      "prompt": "Inside a hide tent, a half-sewn fur garment with a bone needle left on the floor, an oil lamp, cold blue light through the entrance"
+    },
+    {
+      "text": "Yıllar içinde hikâye büyüdü. Önce 30, sonra 2 bin kişilik bir köyün yok olduğu anlatıldı.",
+      "prompt": "Stacks of old newspapers and paperback books on a dusty desk under a lamp, no readable text, dark room",
+      "sicak": true
+    },
+    {
+      "text": "Ama Kanada polisi olayı araştırdı. Raporda tek cümle vardı: Bu hikâyenin hiçbir dayanağı yok.",
+      "prompt": "A 1930s Mountie on a dog sled seen from behind crossing a frozen snowy landscape toward the horizon, pale light"
+    },
+    {
+      "text": "Kanıtlanan şu: Hikâye 1930'da bir muhabirin gazete haberiyle başladı. Polis, kaybolan tek bir kişi bile bulamadı.",
+      "prompt": "A 1930s newspaper printing press in a dim workshop, a large sheet of blank paper, lamp light",
+      "sicak": true
+    },
+    {
+      "text": "En güçlü açıklama, bir gazetecinin uydurduğu hikâyenin yüz yıl boyunca büyümesi.",
+      "prompt": "A tiny empty tent alone on an endless frozen lake under a dark sky, wind blowing snow",
+      "sis": 0.35
+    },
+    {
+      "text": "Peki hiç var olmamış bir köy nasıl kaybolur? Sen olsan bu habere inanır mıydın? Dosya hâlâ açık.",
+      "prompt": "A frozen lakeshore at night under green northern lights, empty land, no people, snow",
+      "sis": 0.3
+    }
+  ],
+  "caption": "Bütün bir köyün bir gecede yok olduğu anlatılır. Ateşte yemek, çadırda yarım dikiş… Ama bu dosyada asıl sır başka. ❄️\n\nSen olsan bu habere inanır mıydın?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#anjikuni",
+    "#kayıpköy",
+    "#gizemliolaylar",
+    "#şehirefsaneleri",
+    "#kayıpvakalar"
+  ]
 }
