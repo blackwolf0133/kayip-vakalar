@@ -1,0 +1,60 @@
+{
+  "id": "010",
+  "slug": "karabasan",
+  "title": "Göğüsteki Ağırlık",
+  "seed": 1889,
+  "scenes": [
+    {
+      "text": "Gözlerini açıyorsun ama kıpırdayamıyorsun. Göğsünün üstünde bir şey oturuyor.",
+      "prompt": "A person seen from above lying frozen in bed in a dark village bedroom at night, a heavy black shadow crouching on their chest, moonlight through a small window",
+      "yer": "Anadolu, Türkiye · Bu gece",
+      "sis": 0.35
+    },
+    {
+      "text": "Bağırmak istiyorsun, ama sesin çıkmıyor. Odanın köşesinde kapkara bir gölge duruyor.",
+      "prompt": "The dark corner of a stone village bedroom at night with a tall black featureless silhouette standing still, faint moonlight on the wall",
+      "sis": 0.4
+    },
+    {
+      "text": "Anadolu'da buna karabasan denir. Anlatılana göre uyuyanın göğsüne çöker, nefesini daraltır.",
+      "prompt": "An old Anatolian stone house with a wooden balcony on a dark mountain slope at night, one small window faintly lit, fog drifting",
+      "sis": 0.3
+    },
+    {
+      "text": "Halk arasında en çok sırtüstü yatanlara geldiğine inanılır. Korunmak için dua okunur, yatış yönü değiştirilir.",
+      "prompt": "A floor mattress with a patterned quilt in a dim village room, a pillow turned to the side, an oil lamp casting long shadows",
+      "sicak": true
+    },
+    {
+      "text": "Japonya'da buna kanaşibari, Çin'de hayalet baskısı denir. Aynı gölge, dünyanın dört bir yanında.",
+      "prompt": "Three different dark bedrooms side by side at night, a traditional Japanese room, a Chinese room and an Anatolian room, the same black shadow in each corner",
+      "sis": 0.3
+    },
+    {
+      "text": "Kanıtlanan şu: Bunun adı uyku felci. Rüya evresinde beden, rüyayı canlandırmasın diye kilitlenir. Zihin ise ondan önce uyanır.",
+      "prompt": "A sleeping figure in bed seen from the side in deep blue darkness, faint dreamlike shapes floating above the body, eerie calm"
+    },
+    {
+      "text": "Kilit açılmadan gözler açılınca rüya odaya taşar. Göğüsteki ağırlık da köşedeki gölge de büyük ihtimalle buradan gelir.",
+      "prompt": "A dark bedroom where a dream-like black mist slowly fades from the corner as the first grey light of dawn enters through the window",
+      "sis": 0.45
+    },
+    {
+      "text": "35 araştırmanın taramasına göre her 100 kişiden yaklaşık 8'i bunu en az bir kez yaşıyor. Öğrencilerde oran 28'e çıkıyor.",
+      "prompt": "Rows of dark windows in a quiet town at night, each with a faint lamp, seen from far away under a cloudy sky"
+    },
+    {
+      "text": "Sen hiç gece uyanıp kıpırdayamadın mı? Dosya hâlâ açık.",
+      "prompt": "A bedroom ceiling seen from a bed in the dark, a shadow shape slowly leaning over the viewer, moonlight from the side",
+      "sis": 0.35
+    }
+  ],
+  "caption": "Gözlerini açıyorsun ama kıpırdayamıyorsun. Göğsünün üstünde bir şey oturuyor. 🌑 Anadolu'da adı karabasan.\n\nSen hiç gece uyanıp kıpırdayamadın mı? Yorumlara yaz.\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#karabasan",
+    "#uykufelci",
+    "#anadolurivayetleri",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

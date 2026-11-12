@@ -1,0 +1,63 @@
+{
+  "id": "007",
+  "slug": "al_karisi",
+  "title": "Kırk Gün",
+  "seed": 1777,
+  "scenes": [
+    {
+      "text": "Köyde lohusa kadın kırk gün bir an bile yalnız bırakılmazdı. Yastığının altına bir iğne konurdu.",
+      "prompt": "A dim Anatolian village stone house room at night, a young mother seen from behind lying under a heavy quilt beside a wooden cradle, a single oil lamp, a red ribbon tied to the cradle",
+      "yer": "Anadolu, Türkiye · Kırk gün",
+      "sicak": true,
+      "sis": 0.15
+    },
+    {
+      "text": "Anlatılana göre o kırk gün boyunca biri kapıyı kollar. Adı Al karısı. Albastı da derler.",
+      "prompt": "A tall shadowy female silhouette standing outside the small wooden window of a stone village house at night, snow on the ground, a faint lamp glow inside",
+      "sis": 0.35
+    },
+    {
+      "text": "Uzun, dağınık saçlı, çok uzun boylu bir kadın. Rivayete göre ayakları ters dönüktür.",
+      "prompt": "Bare feet turned backwards leaving strange footprints in the mud of a dark Anatolian village lane at night, long tangled hair shadow on a stone wall",
+      "sis": 0.3
+    },
+    {
+      "text": "Gece lohusanın göğsüne çöker. Kadın kıpırdayamaz, sesini çıkaramaz.",
+      "prompt": "A dark heavy shadow leaning over a sleeping woman's quilt in a dim village room, the oil lamp flickering low, no face visible",
+      "sis": 0.4
+    },
+    {
+      "text": "Anlatılana göre lohusanın ciğerini alıp suya götürür. Bebeğe de dokunabileceğine inanılır.",
+      "prompt": "A long-haired dark female figure seen from far behind walking toward a moonlit village stream between poplar trees, mist on the water",
+      "sis": 0.45
+    },
+    {
+      "text": "Bu yüzden lamba hiç söndürülmez. Başucuna kırmızı kurdele, soğan ve demir bir bıçak ya da makas konur.",
+      "prompt": "Close view of a village bedside at night: a burning oil lamp, a red ribbon, an onion and old iron scissors on a wooden shelf beside a cradle",
+      "sicak": true
+    },
+    {
+      "text": "Rivayete göre biri ona bir iğne batırmayı başarırsa Al karısı yakalanır ve o evin hizmetçisi olur.",
+      "prompt": "A thin iron needle glinting in lamplight on a dark wooden floor, a long shadow of tangled hair retreating into the corner of a stone room",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Bu inanış Kars'tan Adana'ya, Sivas'tan Tekirdağ'a kayıt altında. Araştırmacılara göre en güçlü açıklama lohusalık ateşi; doğum sonrası enfeksiyon, eskiden çok tehlikeliydi.",
+      "prompt": "A wide view of a snowy Anatolian mountain village of flat-roofed stone houses at night, a crescent-topped mosque minaret in the distance, one window still lit"
+    },
+    {
+      "text": "Sen olsan o kırk gün lambayı söndürür müydün? Dosya hâlâ açık.",
+      "prompt": "A single oil lamp burning low on a windowsill of a stone village house at night, a tall dark shape faintly visible outside the frosted glass",
+      "sicak": true,
+      "sis": 0.3
+    }
+  ],
+  "caption": "Köyde lohusa kadın kırk gün bir an bile yalnız bırakılmazdı. 🕯️ Anadolu'nun en eski korkularından biri: Al karısı.\n\nSen olsan o kırk gün lambayı söndürür müydün?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#alkarısı",
+    "#albastı",
+    "#anadolurivayetleri",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

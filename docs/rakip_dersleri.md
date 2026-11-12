@@ -1,7 +1,11 @@
 # Rakip/örnek hesap dersleri — Kayıp Vakalar
 
 Örnek hesap: **@paranormalgercekler** (rakip.yml ile okunur: `inputs[hesap]=paranormalgercekler`).
-Kural: hikâyelerini, metinlerini, sıralarını ASLA kopyalama. Sadece neyin tuttuğunu öğren.
+Kural: METİNLERİNİ, kendi uydurdukları karakter ve olay örgülerini (ör. "Tolga", "Hayri Usta"), sıralarını ASLA kopyalama.
+AMA halk arasında yaygın bilinen inanış ve rivayetleri (Al karısı, Karabasan, destur, gece ıslık çalma, hamamda cin düğünü,
+gece ipte çamaşır bırakma, Karakoncolos, Şahmaran, Obur vb.) ONLAR ANLATTI DİYE ATLAMA — bunlar kimsenin malı değil ve
+onlarda çok tutanlar bizde de tutar (kullanıcı kararı, 12 Kasım). Kendi anlatımımızla, kaynak doğrulamasıyla, "Anlatılana göre…"
+ve "Kanıtlanan şu: …" yapısıyla yaz.
 
 ## 10 Kasım 2026 incelemesi (60 Reels, en iyi 5 video Gemini ile izlendi)
 - 210 bin takipçi, sadece 80 gönderi. 2D yapay zekâ çizimi + hafif hareket, tok erkek anlatıcı, kırmızı vurgulu altyazı.
