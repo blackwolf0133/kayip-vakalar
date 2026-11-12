@@ -1,0 +1,61 @@
+{
+  "id": "008",
+  "slug": "yerebatan",
+  "title": "Bodrumdaki Delik",
+  "seed": 8843,
+  "scenes": [
+    {
+      "text": "İstanbul'da bazı evlerin bodrumunda bir delik vardı. Oradan karanlığa kova sarkıtıp su çekerlerdi. Balık tuttukları bile anlatılır.",
+      "prompt": "A dim Ottoman-era stone basement with a round dark hole in the floor, a wooden bucket on a rope lowered into black water below, single oil lamp",
+      "yer": "Sultanahmet, Türkiye · 1545",
+      "sicak": true
+    },
+    {
+      "text": "Fransız gezgin Petrus Gyllius bu delikleri merak etti. Bir evin bodrumundan aşağı, karanlığa indi.",
+      "say": "Fransız gezgin Petrus Gilyus bu delikleri merak etti. Bir evin bodrumundan aşağı, karanlığa indi.",
+      "prompt": "A 16th century traveller seen from behind climbing down a narrow stone stairway into pitch darkness holding a lantern, damp walls",
+      "sicak": true
+    },
+    {
+      "text": "Aşağıda devasa bir yeraltı sarayı uzanıyordu. 336 sütun ve yaklaşık 80 bin ton su.",
+      "prompt": "A vast dark underground cistern with endless rows of stone columns rising from still black water, faint lantern light reflecting, misty air",
+      "sis": 0.3
+    },
+    {
+      "text": "Bizans İmparatoru Justinianus döneminde, 6. yüzyılda yapılmıştı. Üstündeki şehir onu neredeyse unutmuştu.",
+      "say": "Bizans İmparatoru Jüstinyanus döneminde, 6. yüzyılda yapılmıştı. Üstündeki şehir onu neredeyse unutmuştu.",
+      "prompt": "Old Istanbul rooftops and a crescent-topped mosque dome at night seen from above, and beneath the ground a cutaway glimpse of a dark flooded columned hall"
+    },
+    {
+      "text": "1980'lerdeki temizlikte en dip köşede iki taş baş çıktı. Medusa. Biri baş aşağı, biri yan yatırılmış.",
+      "prompt": "An ancient carved stone Medusa head with snake hair lying upside down as the base of a column in dark shallow water, eerie dim light",
+      "sis": 0.25
+    },
+    {
+      "text": "Anlatılana göre bakan insanı taşa çeviren Medusa'nın gücünü kırmak için böyle konuldular.",
+      "prompt": "A second carved stone Medusa head turned sideways under a column in a dark flooded cistern, cold reflections on the water, deep shadows",
+      "sis": 0.3
+    },
+    {
+      "text": "Bir de hep nemli duran Ağlayan Sütun var. Rivayete göre yapımda hayatını kaybeden kölelerin anısına ağlıyor. Bunun hiçbir belgesi yok.",
+      "prompt": "A single stone column carved with teardrop-like eye motifs glistening wet in a dark cistern, droplets running down, dim lantern light"
+    },
+    {
+      "text": "Kanıtlanan şu: Medusa başları başka bir yapıdan getirilip sütun kaidesi yapıldı. En güçlü açıklama, sütunun boyuna uysun diye çevrildikleri.",
+      "prompt": "Two stone columns standing on ancient carved blocks in shallow water in a dark corner of an underground cistern, still reflections"
+    },
+    {
+      "text": "Sen olsan o bodrumdaki deliğe kovanı sarkıtır mıydın? Dosya hâlâ açık.",
+      "prompt": "Looking down through a small hole in a stone basement floor into black water far below, a faint pale shape barely visible beneath the surface",
+      "sis": 0.35
+    }
+  ],
+  "caption": "İstanbul'da evlerin bodrumundaki bir delikten karanlığa kova sarkıtırlardı. 🪣 Altında ne olduğunu 1545'te bir gezgin buldu.\n\nSen olsan o deliğe kovanı sarkıtır mıydın?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#yerebatansarnıcı",
+    "#istanbul",
+    "#gizemliolaylar",
+    "#medusa",
+    "#kayıpvakalar"
+  ]
+}

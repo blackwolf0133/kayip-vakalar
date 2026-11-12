@@ -1,0 +1,59 @@
+{
+  "id": "014",
+  "slug": "kiz_kulesi",
+  "title": "Sepetteki Yılan",
+  "seed": 1461,
+  "scenes": [
+    {
+      "text": "Kehanet tek cümleydi: Kız, bir yılan sokmasıyla ölecek. Babası onu denizin ortasındaki bir kuleye kapattı.",
+      "prompt": "A small stone tower on a rock in the middle of a dark strait at night, a single lit window, choppy black water, storm clouds",
+      "yer": "İstanbul Boğazı, Türkiye · 12. yüzyıl",
+      "sis": 0.25
+    },
+    {
+      "text": "Bu bir efsane. Anlatılana göre kuleye kimse ayak basamazdı. Yiyecekler sandalla, sepet sepet getirilirdi.",
+      "prompt": "A small rowing boat crossing dark water toward a lonely sea tower at dusk, a woven basket in the boat, the boatman seen from behind"
+    },
+    {
+      "text": "Bir gün bir meyve sepeti geldi. Kız sepete uzandı. Üzüm salkımlarının altında bir yılan saklanıyordu.",
+      "prompt": "A woven basket of dark grapes on a stone windowsill in candlelight, the tail of a snake barely visible beneath the fruit, a girl's hand reaching from the edge",
+      "sicak": true
+    },
+    {
+      "text": "Hiçbir kayıtta böyle bir prenses yok. Ama kulenin gerçek hikâyesi de az karanlık değil.",
+      "prompt": "The silhouette of a small sea tower against a cold grey dawn, mist on the water, gulls in the distance",
+      "sis": 0.35
+    },
+    {
+      "text": "Üsküdar açıklarındaki kayalıkta ilk yapı, MÖ 5. yüzyılda bir gümrük noktasıydı.",
+      "prompt": "Ancient sailing ships stopping beside a rocky islet with a small stone watch post in a strait, hazy evening light"
+    },
+    {
+      "text": "12. yüzyılda Bizans burada bir kule yaptı. 18. yüzyılda Damat İbrahim Paşa onu deniz fenerine çevirdi.",
+      "prompt": "An old stone lighthouse tower on a rock in a dark strait, its lantern beam cutting through rain at night, a crescent-topped mosque silhouette on the far shore"
+    },
+    {
+      "text": "Kanıtlanan şu: 1830'larda koleraya karşı karantina hastanesi oldu. Veba salgınında hastalar burada şehirden ayrı tutuldu.",
+      "prompt": "Lonely figures seen from far behind looking out from a small sea tower window toward the lights of a city across dark water, cold night",
+      "sis": 0.3
+    },
+    {
+      "text": "Kıyı hemen karşıdaydı, ama onlar için çok uzaktı. Yılan efsanesinin nereden çıktığı ise hâlâ bilinmiyor.",
+      "prompt": "View from the shore at night toward a small tower in the water with one faint light, the sea calm and black",
+      "sis": 0.3
+    },
+    {
+      "text": "Sen olsan o sepeti açar mıydın? Dosya hâlâ açık.",
+      "prompt": "A closed woven basket on a stone floor in a dim tower room, a single candle, something faintly moving under the cloth cover",
+      "sicak": true
+    }
+  ],
+  "caption": "Kehanet tek cümleydi: Kız, bir yılan sokmasıyla ölecek. 🐍 Kız Kulesi'nin efsanesi ve az bilinen karanlık gerçeği.\n\nSen olsan o sepeti açar mıydın?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#kızkulesi",
+    "#istanbul",
+    "#efsane",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

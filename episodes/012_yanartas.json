@@ -1,0 +1,58 @@
+{
+  "id": "012",
+  "slug": "yanartas",
+  "title": "Sönmeyen Ateş",
+  "seed": 1257,
+  "scenes": [
+    {
+      "text": "Bu dağın kayalarından çıkan ateş en az 2 bin yıldır sönmüyor. Gece de, gündüz de.",
+      "prompt": "Small flames burning directly out of cracks in bare grey rocks on a dark forested mountainside at night, no people, smoke drifting",
+      "yer": "Çıralı, Türkiye · MS 1. yüzyıl",
+      "sicak": true
+    },
+    {
+      "text": "Antalya'da, Olimpos'un hemen yanı. Çam ormanında yarım saat tırmanınca kayaların arasından yirmiden fazla alev çıkıyor.",
+      "prompt": "A stepped stone path climbing through a dark pine forest at dusk toward an orange glow among the trees, a lone hiker seen from far behind"
+    },
+    {
+      "text": "Romalı yazar Yaşlı Plinius bu ateşi anlattı: gece gündüz hiç sönmeden yanan bir dağ.",
+      "prompt": "An oil lamp on an ancient Roman writing table with blank scrolls, and through a window a distant mountain glowing with fire at night",
+      "sicak": true
+    },
+    {
+      "text": "Anlatılana göre burada aslan başlı, keçi gövdeli, yılan kuyruklu, ağzından ateş saçan Kimera yaşardı.",
+      "prompt": "A huge shadowy mythical beast silhouette with a lion head, goat body and serpent tail breathing fire on a rocky mountainside at night",
+      "sis": 0.25
+    },
+    {
+      "text": "Kahraman Bellerofon kanatlı atı Pegasus'la gelip onu öldürdü. Bu alevler, o canavarın efsanesine bağlandı.",
+      "prompt": "A winged horse with a rider seen as a silhouette against a stormy night sky above a mountain where flames burn among rocks"
+    },
+    {
+      "text": "Rivayete göre denizciler geceleri bu ateşi uzaktan görür, yollarını ona bakarak bulurdu.",
+      "prompt": "An ancient wooden sailing ship on a dark sea at night, a tiny orange glow on the black coastal mountain far away, stars above"
+    },
+    {
+      "text": "Alevlerin hemen yanında, demirci tanrısı Hefaistos'a adanmış bir tapınağın kalıntıları duruyor.",
+      "prompt": "Crumbling ancient stone walls and fallen blocks beside small flames burning from the rocks at night on a mountain slope",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Kayalardan büyük ölçüde metan sızıyor. 2008'deki bir araştırmaya göre gazın yaklaşık yarısı canlılardan değil, kayaların suyla tepkimesinden doğuyor.",
+      "prompt": "Close view of a single steady flame rising from a crack in pale serpentine rock at night, heat shimmer, dark forest behind"
+    },
+    {
+      "text": "Sen olsan gece o ateşin başında tek başına kalır mıydın? Dosya hâlâ açık.",
+      "prompt": "A lone figure seen from far behind sitting near flames burning out of rocks on a dark mountainside, pine forest around, night",
+      "sicak": true
+    }
+  ],
+  "caption": "Bu dağın kayalarından çıkan ateş en az 2 bin yıldır sönmüyor. 🔥 Efsanesi canavar Kimera, açıklaması ise kayaların içinde.\n\nSen olsan gece o ateşin başında tek başına kalır mıydın?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#yanartaş",
+    "#olimpos",
+    "#antalya",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "010",
+  "slug": "buyukada_yetimhane",
+  "title": "Tepedeki Yetimhane",
+  "seed": 1043,
+  "scenes": [
+    {
+      "text": "Bu koridorlarda yaklaşık 5.800 çocuk büyüdü. 1964'ten beri içinden tek bir çocuk sesi gelmiyor.",
+      "prompt": "A huge dark weathered wooden building with hundreds of empty windows on a pine-covered hilltop at dusk, storm clouds, abandoned and silent",
+      "yer": "Büyükada, Türkiye · 1964",
+      "sis": 0.3
+    },
+    {
+      "text": "Büyükada'nın tepesinde kapkara, dev bir ahşap bina. Avrupa'nın en büyük ahşap yapısı olarak anılıyor.",
+      "prompt": "An island hill with pine forest and a massive blackened timber building on top seen from the sea at twilight, small boats below"
+    },
+    {
+      "text": "1898'de mimar Alexandre Vallaury onu Orient Express'in şirketi için lüks otel ve kumarhane olarak yaptı.",
+      "say": "1898'de mimar Aleksandr Valori onu Oryant Ekspres'in şirketi için lüks otel ve kumarhane olarak yaptı.",
+      "prompt": "A grand new wooden hotel with ornate balconies and lit windows on a hilltop in the 1890s, elegant carriages arriving, warm evening glow",
+      "sicak": true
+    },
+    {
+      "text": "Ama Sultan İkinci Abdülhamid işletme izni vermedi. Otel hiç açılmadı.",
+      "prompt": "A grand empty wooden ballroom with covered furniture and dust sheets, tall windows, cold grey light, nobody inside"
+    },
+    {
+      "text": "1903'te Eleni Zarifi binayı satın alıp Fener Rum Patrikhanesi'ne bağışladı. Şartı, yetimhane olmasıydı.",
+      "prompt": "Rows of small iron beds in a long wooden dormitory in the early 1900s, a single child seen from behind by the window, soft morning light"
+    },
+    {
+      "text": "1964'te yetimhane kapatıldı. Kapılar kilitlendi, ahşap yıllarca yağmura ve rüzgâra kaldı.",
+      "prompt": "Rain falling on a rotting wooden facade with broken shutters and collapsed balconies, ivy creeping, dark storm night",
+      "sis": 0.25
+    },
+    {
+      "text": "Anlatılana göre geceleri pencerelerde gölgeler görülür, koridorlardan çocuk sesleri gelir. Bunun hiçbir kanıtı yok.",
+      "prompt": "A long dark wooden corridor with peeling paint and a faint small shadow at the far end near a window, moonlight through broken glass",
+      "sis": 0.4
+    },
+    {
+      "text": "Kanıtlanan şu: 2010'da Avrupa İnsan Hakları Mahkemesi binayı Patrikhane'ye geri verdirdi. 2026'da otele dönüştürülmesi için anlaşma imzalandı.",
+      "prompt": "The giant wooden building on the hill at dawn partly wrapped in scaffolding, mist over the pines, the sea in the distance"
+    },
+    {
+      "text": "Sen olsan bir gece o boş koridorlarda yürür müydün? Dosya hâlâ açık.",
+      "prompt": "An old wooden door half open at the top of a creaking staircase inside an abandoned wooden building, a beam of moonlight, dust in the air",
+      "sis": 0.35
+    }
+  ],
+  "caption": "Burada yaklaşık 5.800 çocuk büyüdü. 1964'ten beri içinden tek bir ses gelmiyor. 🏚️ Büyükada'nın tepesindeki dev ahşap binanın hikâyesi.\n\nSen olsan bir gece o boş koridorlarda yürür müydün?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#büyükada",
+    "#rumyetimhanesi",
+    "#terkedilmişyerler",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

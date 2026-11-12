@@ -1,0 +1,62 @@
+{
+  "id": "007",
+  "slug": "cehennem_kapisi",
+  "title": "Cehennem Kapısı",
+  "seed": 7731,
+  "scenes": [
+    {
+      "text": "Bu mağaraya atılan kuş, yere düşmeden can verirdi. İki bin yıl önce yazıldı. 2013'te kapı yeniden bulundu.",
+      "prompt": "A dark narrow stone cave opening at the foot of ancient ruined marble walls at dawn, a thin low mist creeping out across the ground, a small bird falling near it",
+      "yer": "Hierapolis, Türkiye · 2013",
+      "sis": 0.45
+    },
+    {
+      "text": "Denizli'de, Pamukkale'nin bembeyaz travertenlerinin hemen üstünde: antik Hierapolis kenti.",
+      "prompt": "White travertine terraces of Pamukkale glowing at dusk with ancient ruined stone city walls and columns on the hill above, cold blue light"
+    },
+    {
+      "text": "Coğrafyacı Strabon buraya geldi. Mağaraya serçeler attı. Kuşlar anında öldü, diye yazdı.",
+      "prompt": "An ancient Greek traveller in a robe seen from behind standing before a misty cave mouth among ruins, holding out his hand, small birds in the air, grey dawn",
+      "sis": 0.3
+    },
+    {
+      "text": "İçeri sokulan boğalar da yere yığılırdı. Ama Kibele'nin rahipleri girip sağ salim çıkardı.",
+      "prompt": "Ancient robed priests seen as tall silhouettes walking upright through a low ground-hugging white mist at the entrance of a dark grotto, torches, dawn",
+      "sis": 0.45,
+      "sicak": true
+    },
+    {
+      "text": "Anlatılana göre burası yeraltı tanrısı Pluton'un kapısıydı. Halk ona Cehennem Kapısı dedi.",
+      "prompt": "A dark arched stone entrance in ancient ruins breathing faint vapour into the night, a crescent of cold moonlight, ominous silent atmosphere",
+      "sis": 0.4
+    },
+    {
+      "text": "2013'te İtalyan arkeolog Francesco D'Andria'nın ekibi mağarayı buldu. Pluton ve Kore'ye adanmış bir yazıt çıktı.",
+      "say": "2013'te İtalyan arkeolog Françesko Dandriya'nın ekibi mağarayı buldu. Pluton ve Kore'ye adanmış bir yazıt çıktı.",
+      "prompt": "Archaeologists seen from far behind kneeling in an excavation trench beside ancient stone steps and a dark grotto, dusty evening light, no readable text"
+    },
+    {
+      "text": "Kazı sırasında yaklaşan kuşlar da öldü. Bugün bile mağaranın önünde ölü böcekler bulunuyor.",
+      "prompt": "Close view of pale dusty ground at a dark cave mouth with a few dead beetles and a small motionless sparrow lying in a thin mist, cold light",
+      "sis": 0.35
+    },
+    {
+      "text": "Kanıtlanan şu: Toprağın altından karbondioksit sızıyor. Gece birikiyor, şafakta yerde yüzde 50'yi geçiyor. Gaz alçakta duruyor; boğanın başı içinde kalıyordu, uzun boylu rahiplerinki ise yukarıda.",
+      "prompt": "A heavy invisible-looking layer of pale mist lying knee-high over the floor of an ancient stone grotto at sunrise, a tall silhouette standing above it",
+      "sis": 0.5
+    },
+    {
+      "text": "Sen olsan o kapının önünden şafakta geçer miydin? Dosya hâlâ açık.",
+      "prompt": "The dark mouth of an ancient grotto among ruins at first light, low mist flowing out over stone steps, empty and silent",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Bu mağaraya atılan kuş, yere düşmeden can verirdi. 🕳️ Pamukkale'nin üstündeki Cehennem Kapısı'nda rahipler nasıl sağ çıkıyordu?\n\nSen olsan o kapının önünden şafakta geçer miydin?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#cehennemkapısı",
+    "#pamukkale",
+    "#gizemliolaylar",
+    "#ürperticiyerler",
+    "#kayıpvakalar"
+  ]
+}

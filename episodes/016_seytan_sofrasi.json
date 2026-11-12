@@ -1,0 +1,58 @@
+{
+  "id": "016",
+  "slug": "seytan_sofrasi",
+  "title": "Şeytanın Ayak İzi",
+  "seed": 1687,
+  "scenes": [
+    {
+      "text": "Bir tepenin üstünde demir parmaklıklarla çevrilmiş bir çukur var. Halk ona şeytanın ayak izi der.",
+      "prompt": "A large foot-shaped hollow in dark volcanic rock enclosed by an old iron cage railing on a windswept hilltop at dusk, red ribbons fluttering",
+      "yer": "Ayvalık, Türkiye · Günümüz",
+      "sis": 0.2
+    },
+    {
+      "text": "Ayvalık merkezine yaklaşık 8 kilometre. Tepesi masa gibi dümdüz bir yükselti: Şeytan Sofrası.",
+      "prompt": "A flat-topped rocky hill above an Aegean coastline with scattered islands and olive groves, dramatic evening clouds"
+    },
+    {
+      "text": "Anlatılana göre şeytan buradan kaçarken bir ayağını bu tepeye bastı, diğerini karşıdaki Midilli Adası'na.",
+      "prompt": "A gigantic shadowy horned silhouette striding across the sea from a hilltop to a distant island at night, stars, dark water",
+      "sis": 0.3
+    },
+    {
+      "text": "Bir başka rivayette, kıtlık yıllarında köyden kovulan, Şeytan lakaplı bir kadın burada sofra kurdu. Peşine düşenleri yemekle oyalayıp kaçtı.",
+      "prompt": "A woman seen from far behind running down a rocky hillside at night while a laid table with bread and lanterns stands abandoned on the summit",
+      "sicak": true
+    },
+    {
+      "text": "İnsanlar hâlâ kafesin içine bozuk para atıyor, parmaklıklara kırmızı kurdele bağlayıp dilek tutuyor.",
+      "prompt": "Close view of coins scattered inside a rocky hollow behind iron bars, many red ribbons tied to the rusty railing moving in the wind"
+    },
+    {
+      "text": "Güneş Ege adalarının ardında battığında tepe kızıla boyanır. Sonra karanlık çok hızlı çöker.",
+      "prompt": "Blood-red sunset behind Aegean islands seen from a bare rocky hilltop, long shadows, a lone silhouette standing near an iron railing"
+    },
+    {
+      "text": "Kanıtlanan şu: Şeytan Sofrası sönmüş bir yanardağın kalıntısı. Lav birikintileri ve aşınma hem düz tepeyi, hem ayak izine benzeyen çukuru oluşturdu.",
+      "prompt": "Dark volcanic basalt rock surface with eroded hollows on a hilltop under moonlight, wind bending dry grass"
+    },
+    {
+      "text": "Yani o iz bir ayağın değil, doğanın izi.",
+      "prompt": "An old iron railing on a dark hilltop at night with ribbons stirring in the wind, the sea glittering far below",
+      "sis": 0.25
+    },
+    {
+      "text": "Sen olsan o izin içine para atıp dilek tutar mıydın? Dosya hâlâ açık.",
+      "prompt": "A single coin falling toward a dark foot-shaped hollow in volcanic rock behind iron bars, dusk light",
+      "sicak": true
+    }
+  ],
+  "caption": "Ayvalık'ta bir tepede demir parmaklıklarla çevrilmiş bir çukur var. Halk ona şeytanın ayak izi der. 👣\n\nSen olsan o izin içine para atıp dilek tutar mıydın?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#şeytansofrası",
+    "#ayvalık",
+    "#efsane",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

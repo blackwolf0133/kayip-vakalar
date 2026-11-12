@@ -1,0 +1,62 @@
+{
+  "id": "015",
+  "slug": "baychimo",
+  "title": "Buzdaki Hayalet Gemi",
+  "seed": 1571,
+  "scenes": [
+    {
+      "text": "Kar fırtınası dindiğinde gemi yerinde yoktu. Ama sonraki 38 yıl boyunca, kimse kullanmadan, defalarca görüldü.",
+      "prompt": "An abandoned old steamship frozen into Arctic pack ice under a dark polar sky, snow blowing, no lights aboard, eerie and empty",
+      "yer": "Point Barrow, Alaska, ABD · 1931",
+      "sis": 0.3
+    },
+    {
+      "text": "1931. Hudson's Bay Şirketi'nin yük gemisi Baychimo, kürk yüküyle Kuzey Kutbu'ndan dönüyordu.",
+      "say": "1931. Hadsıns Bey Şirketi'nin yük gemisi Beyçimo, kürk yüküyle Kuzey Kutbu'ndan dönüyordu.",
+      "prompt": "A 1930s steel cargo steamship sailing through icy grey Arctic water with floating ice, smoke from its funnel, overcast sky"
+    },
+    {
+      "text": "Ekim başında Alaska'da buzlara sıkıştı. 22 kişi uçakla götürüldü. Yaklaşık 15 kişi kıyıda gemi parçalarından bir barınak kurdu.",
+      "prompt": "A small wooden shelter on a snowy Arctic shore with a faint lamp glow, a trapped ship in the ice in the distance, men seen from far behind",
+      "sicak": true
+    },
+    {
+      "text": "24 Kasım'da üç gün süren bir kar fırtınası çıktı. Fırtına dindiğinde gemi yoktu. Battığını sandılar.",
+      "prompt": "A violent Arctic blizzard at night, swirling snow over empty broken sea ice where a ship used to be",
+      "sis": 0.4
+    },
+    {
+      "text": "Sonra bir İnuit avcısı onu yaklaşık 70 kilometre güneyde gördü. Kürkler kurtarıldı, şirket gemiyi terk etti.",
+      "prompt": "A lone hunter in fur clothing seen from behind on the ice looking at a distant dark ship stuck in pack ice, pale winter light"
+    },
+    {
+      "text": "1933'te botanikçi Isobel Wylie Hutchison ve bir yelkenlinin tayfası gemiye çıktı. 1962'de yine görüldü.",
+      "say": "1933'te botanikçi İzobel Vayli Haçison ve bir yelkenlinin tayfası gemiye çıktı. 1962'de yine görüldü.",
+      "prompt": "Small figures seen from far away climbing onto the deck of a deserted rusting steamship trapped in ice, empty corridors, grey light",
+      "sis": 0.2
+    },
+    {
+      "text": "Son kez 1969'da, Beaufort Denizi'nde buza kilitlenmiş halde görüldü. Anlatılana göre kendi başına yol alan bir hayalet gemiydi.",
+      "say": "Son kez 1969'da, Bofırt Denizi'nde buza kilitlenmiş halde görüldü. Anlatılana göre kendi başına yol alan bir hayalet gemiydi.",
+      "prompt": "A ghostly rusting ship silhouette half hidden in Arctic fog among drifting ice floes, dim twilight",
+      "sis": 0.45
+    },
+    {
+      "text": "Kanıtlanan şu: Gemi buz kütleleriyle birlikte sürüklendi. Akıbeti bilinmiyor, enkazı hiç bulunamadı.",
+      "prompt": "Vast drifting Arctic pack ice under a low grey sky, dark open water between floes, no ship in sight"
+    },
+    {
+      "text": "Sen olsan buzun ortasında beliren bu gemiye çıkar mıydın? Dosya hâlâ açık.",
+      "prompt": "A dark abandoned steamship looming out of snow and fog on the frozen sea at night, a rope ladder hanging from its side",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Kar fırtınası dindiğinde gemi yoktu. Ama 38 yıl boyunca buzların arasında defalarca görüldü. 🚢\n\nSen olsan buzun ortasında beliren bu gemiye çıkar mıydın?\n\nHer akşam yeni bir dosya için takip et 🗂️",
+  "hashtags": [
+    "#hayaletgemi",
+    "#baychimo",
+    "#gizemliolaylar",
+    "#çözülemeyengizemler",
+    "#kayıpvakalar"
+  ]
+}
