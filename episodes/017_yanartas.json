@@ -1,11 +1,12 @@
 {
-  "id": "014",
+  "id": "017",
   "slug": "yanartas",
   "title": "Sönmeyen Ateş",
   "seed": 1257,
+  "kanca_yazi": "Bu ateşi kimse yakmadı. 2 bin yıldır sönmüyor.",
   "scenes": [
     {
-      "text": "Bu dağın kayalarından çıkan ateş en az 2 bin yıldır sönmüyor. Gece de, gündüz de.",
+      "text": "Gece dağda yürüyorsun. Çıplak kayalardan alevler çıkıyor. Onları kimse yakmadı ve en az 2 bin yıldır sönmüyorlar.",
       "prompt": "Small flames burning directly out of cracks in bare grey rocks on a dark forested mountainside at night, no people, smoke drifting",
       "yer": "Çıralı, Türkiye · MS 1. yüzyıl",
       "sicak": true
@@ -42,7 +43,7 @@
       "prompt": "Close view of a single steady flame rising from a crack in pale serpentine rock at night, heat shimmer, dark forest behind"
     },
     {
-      "text": "Sen olsan gece o ateşin başında tek başına kalır mıydın? Dosya hâlâ açık.",
+      "text": "Sen olsan gece o ateşin başında tek başına kalır mıydın? Dosya hâlâ açık. Bunu Olimpos'a gidecek birine gönder.",
       "prompt": "A lone figure seen from far behind sitting near flames burning out of rocks on a dark mountainside, pine forest around, night",
       "sicak": true
     }

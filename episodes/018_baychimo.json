@@ -1,8 +1,9 @@
 {
-  "id": "017",
+  "id": "018",
   "slug": "baychimo",
   "title": "Buzdaki Hayalet Gemi",
   "seed": 1571,
+  "kanca_yazi": "Mürettebatsız gemi 38 yıl boyunca görüldü.",
   "scenes": [
     {
       "text": "Kar fırtınası dindiğinde gemi yerinde yoktu. Ama sonraki 38 yıl boyunca, kimse kullanmadan, defalarca görüldü.",
@@ -16,7 +17,7 @@
       "prompt": "A 1930s steel cargo steamship sailing through icy grey Arctic water with floating ice, smoke from its funnel, overcast sky"
     },
     {
-      "text": "Ekim başında Alaska'da buzlara sıkıştı. 22 kişi uçakla götürüldü. Yaklaşık 15 kişi kıyıda gemi parçalarından bir barınak kurdu.",
+      "text": "Ekim başında Alaska'da buzlara sıkıştı. 22 kişi uçakla götürüldü. Yaklaşık 15 kişi kıyıda bir barınak kurdu.",
       "prompt": "A small wooden shelter on a snowy Arctic shore with a faint lamp glow, a trapped ship in the ice in the distance, men seen from far behind",
       "sicak": true
     },
@@ -46,7 +47,7 @@
       "prompt": "Vast drifting Arctic pack ice under a low grey sky, dark open water between floes, no ship in sight"
     },
     {
-      "text": "Sen olsan buzun ortasında beliren bu gemiye çıkar mıydın? Dosya hâlâ açık.",
+      "text": "Sen olsan buzun ortasında beliren bu gemiye çıkar mıydın? Dosya hâlâ açık. Bunu denizi seven birine gönder.",
       "prompt": "A dark abandoned steamship looming out of snow and fog on the frozen sea at night, a rope ladder hanging from its side",
       "sis": 0.4
     }

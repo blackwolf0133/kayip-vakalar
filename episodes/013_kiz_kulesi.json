@@ -1,8 +1,9 @@
 {
-  "id": "016",
+  "id": "013",
   "slug": "kiz_kulesi",
   "title": "Sepetteki Yılan",
   "seed": 1461,
+  "kanca_yazi": "Kehanet: Kız bir yılan sokmasıyla ölecek.",
   "scenes": [
     {
       "text": "Kehanet tek cümleydi: Kız, bir yılan sokmasıyla ölecek. Babası onu denizin ortasındaki bir kuleye kapattı.",
@@ -43,7 +44,7 @@
       "sis": 0.3
     },
     {
-      "text": "Sen olsan o sepeti açar mıydın? Dosya hâlâ açık.",
+      "text": "Sen olsan o sepeti açar mıydın? Dosya hâlâ açık. Bunu İstanbul'u seven birine gönder.",
       "prompt": "A closed woven basket on a stone floor in a dim tower room, a single candle, something faintly moving under the cloth cover",
       "sicak": true
     }

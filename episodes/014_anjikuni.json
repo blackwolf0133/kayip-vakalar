@@ -1,8 +1,9 @@
 {
-  "id": "012",
+  "id": "014",
   "slug": "anjikuni",
   "title": "Kaybolan Köy",
   "seed": 8059,
+  "kanca_yazi": "Ateşte yemek vardı. Köyde tek insan yoktu.",
   "scenes": [
     {
       "text": "Ateşte yemek pişiyordu. Kapılar açıktı. Ama köyde tek bir insan yoktu.",
@@ -43,7 +44,7 @@
       "sis": 0.35
     },
     {
-      "text": "Peki hiç var olmamış bir köy nasıl kaybolur? Sen olsan bu habere inanır mıydın? Dosya hâlâ açık.",
+      "text": "Peki hiç var olmamış bir köy nasıl kaybolur? Sen olsan bu habere inanır mıydın? Dosya hâlâ açık. Bunu her habere inanan arkadaşına gönder.",
       "prompt": "A frozen lakeshore at night under green northern lights, empty land, no people, snow",
       "sis": 0.3
     }

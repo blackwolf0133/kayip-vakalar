@@ -1,11 +1,12 @@
 {
-  "id": "010",
+  "id": "009",
   "slug": "karabasan",
   "title": "Göğüsteki Ağırlık",
   "seed": 1889,
+  "kanca_yazi": "Uyanıyorsun ama kıpırdayamıyorsun. Göğsünde bir şey var.",
   "scenes": [
     {
-      "text": "Gözlerini açıyorsun ama kıpırdayamıyorsun. Göğsünün üstünde bir şey oturuyor.",
+      "text": "Gece uyanıyorsun. Kıpırdayamıyorsun. Göğsünün üstünde bir şey oturuyor.",
       "prompt": "A person seen from above lying frozen in bed in a dark village bedroom at night, a heavy black shadow crouching on their chest, moonlight through a small window",
       "yer": "Anadolu, Türkiye · Bu gece",
       "sis": 0.35
@@ -44,7 +45,7 @@
       "prompt": "Rows of dark windows in a quiet town at night, each with a faint lamp, seen from far away under a cloudy sky"
     },
     {
-      "text": "Sen hiç gece uyanıp kıpırdayamadın mı? Dosya hâlâ açık.",
+      "text": "Sen hiç gece uyanıp kıpırdayamadın mı? Dosya hâlâ açık. Bunu geceleri uyanan arkadaşına gönder.",
       "prompt": "A bedroom ceiling seen from a bed in the dark, a shadow shape slowly leaning over the viewer, moonlight from the side",
       "sis": 0.35
     }

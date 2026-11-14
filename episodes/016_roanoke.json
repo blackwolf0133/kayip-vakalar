@@ -1,8 +1,9 @@
 {
-  "id": "015",
+  "id": "016",
   "slug": "roanoke",
   "title": "Roanoke Kolonisi",
   "seed": 5309,
+  "kanca_yazi": "115 kişi kayboldu. Geriye tek kelime kaldı.",
   "scenes": [
     {
       "text": "Bir dede, yeni doğan torununu bir adada bıraktı. Üç yıl sonra döndüğünde adada tek bir insan yoktu.",
@@ -44,7 +45,7 @@
       "prompt": "Small canoes and a few people seen from far behind crossing a calm sound toward a low sandy island at dawn, mist on the water"
     },
     {
-      "text": "White adaya gidemedi; kasırga gemisini açığa savurdu. Torununu bir daha hiç görmedi. Dosya hâlâ açık.",
+      "text": "White adaya gidemedi; kasırga gemisini açığa savurdu. Torununu bir daha hiç görmedi. Dosya hâlâ açık. Bunu bulmaca seven birine gönder.",
       "prompt": "A small sailing ship tossed by a hurricane on a dark sea, a low distant island fading into rain and storm clouds",
       "sis": 0.3
     }

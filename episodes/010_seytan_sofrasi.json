@@ -1,17 +1,18 @@
 {
-  "id": "018",
+  "id": "010",
   "slug": "seytan_sofrasi",
   "title": "Şeytanın Ayak İzi",
   "seed": 1687,
+  "kanca_yazi": "Şeytanın ayak izi, demir parmaklıkların ardında.",
   "scenes": [
     {
-      "text": "Bir tepenin üstünde demir parmaklıklarla çevrilmiş bir çukur var. Halk ona şeytanın ayak izi der.",
+      "text": "Halk buna şeytanın ayak izi diyor. Etrafını da demir parmaklıklarla çevirmişler.",
       "prompt": "A large foot-shaped hollow in dark volcanic rock enclosed by an old iron cage railing on a windswept hilltop at dusk, red ribbons fluttering",
       "yer": "Ayvalık, Türkiye · Günümüz",
       "sis": 0.2
     },
     {
-      "text": "Ayvalık merkezine yaklaşık 8 kilometre. Tepesi masa gibi dümdüz bir yükselti: Şeytan Sofrası.",
+      "text": "Ayvalık'a yaklaşık 8 kilometre. Tepesi masa gibi dümdüz bir yükselti: Şeytan Sofrası.",
       "prompt": "A flat-topped rocky hill above an Aegean coastline with scattered islands and olive groves, dramatic evening clouds"
     },
     {
@@ -42,7 +43,7 @@
       "sis": 0.25
     },
     {
-      "text": "Sen olsan o izin içine para atıp dilek tutar mıydın? Dosya hâlâ açık.",
+      "text": "Sen olsan o izin içine para atıp dilek tutar mıydın? Dosya hâlâ açık. Bunu Ayvalık'a gidecek birine gönder.",
       "prompt": "A single coin falling toward a dark foot-shaped hollow in volcanic rock behind iron bars, dusk light",
       "sicak": true
     }

@@ -1,8 +1,9 @@
 {
-  "id": "009",
+  "id": "012",
   "slug": "valentich",
   "title": "Bu Bir Uçak Değil",
   "seed": 7213,
+  "kanca_yazi": "Pilotun son sözü: Bu bir uçak değil.",
   "scenes": [
     {
       "text": "Genç pilotun telsizdeki son sözü şuydu: Bu bir uçak değil. Sonra metal bir ses geldi.",
@@ -42,7 +43,7 @@
       "prompt": "Reflection of small aircraft lights on a black calm sea at night, disorienting horizon, seen from above"
     },
     {
-      "text": "Sen o gece kulede olsan, ona ne derdin? Dosya hâlâ açık.",
+      "text": "Sen o gece kulede olsan, ona ne derdin? Dosya hâlâ açık. Bunu gökyüzünü izlemeyi seven birine gönder.",
       "prompt": "A lonely coastline at night with a single light far out over the sea, waves on the rocks",
       "sis": 0.3
     }

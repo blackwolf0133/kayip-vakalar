@@ -1,17 +1,18 @@
 {
-  "id": "013",
+  "id": "011",
   "slug": "buyukada_yetimhane",
   "title": "Tepedeki Yetimhane",
   "seed": 1043,
+  "kanca_yazi": "60 yıldır boş. Ama içinde binlerce çocuk büyüdü.",
   "scenes": [
     {
-      "text": "Bu koridorlarda yaklaşık 5.800 çocuk büyüdü. 1964'ten beri içinden tek bir çocuk sesi gelmiyor.",
+      "text": "Gece adada yürüyorsun. Tepede pencereleri kapkara, dev bir ahşap bina var. 60 yılı aşkın süredir içinde kimse yok.",
       "prompt": "A huge dark weathered wooden building with hundreds of empty windows on a pine-covered hilltop at dusk, storm clouds, abandoned and silent",
       "yer": "Büyükada, Türkiye · 1964",
       "sis": 0.3
     },
     {
-      "text": "Büyükada'nın tepesinde kapkara, dev bir ahşap bina. Avrupa'nın en büyük ahşap yapısı olarak anılıyor.",
+      "text": "Burası Büyükada. Bu koridorlarda yaklaşık 5.800 çocuk büyüdü. Bina, Avrupa'nın en büyük ahşap yapısı olarak anılıyor.",
       "prompt": "An island hill with pine forest and a massive blackened timber building on top seen from the sea at twilight, small boats below"
     },
     {
@@ -43,7 +44,7 @@
       "prompt": "The giant wooden building on the hill at dawn partly wrapped in scaffolding, mist over the pines, the sea in the distance"
     },
     {
-      "text": "Sen olsan bir gece o boş koridorlarda yürür müydün? Dosya hâlâ açık.",
+      "text": "Sen olsan bir gece o boş koridorlarda yürür müydün? Dosya hâlâ açık. Bunu adaya gidecek birine gönder.",
       "prompt": "An old wooden door half open at the top of a creaking staircase inside an abandoned wooden building, a beam of moonlight, dust in the air",
       "sis": 0.35
     }

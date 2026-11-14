@@ -1,18 +1,19 @@
 {
-  "id": "011",
+  "id": "015",
   "slug": "yerebatan",
   "title": "Bodrumdaki Delik",
   "seed": 8843,
+  "kanca_yazi": "Evin bodrumundaki delikten balık çıkıyordu.",
   "scenes": [
     {
-      "text": "İstanbul'da bazı evlerin bodrumunda bir delik vardı. Oradan karanlığa kova sarkıtıp su çekerlerdi. Balık tuttukları bile anlatılır.",
+      "text": "Evin bodrumunda bir delik var. Kovayı karanlığa sarkıtıyorsun, su geliyor. Anlatılana göre bazen balık bile.",
       "prompt": "A dim Ottoman-era stone basement with a round dark hole in the floor, a wooden bucket on a rope lowered into black water below, single oil lamp",
       "yer": "Sultanahmet, Türkiye · 1545",
       "sicak": true
     },
     {
-      "text": "Fransız gezgin Petrus Gyllius bu delikleri merak etti. Bir evin bodrumundan aşağı, karanlığa indi.",
-      "say": "Fransız gezgin Petrus Gilyus bu delikleri merak etti. Bir evin bodrumundan aşağı, karanlığa indi.",
+      "text": "16. yüzyıl İstanbul. Fransız gezgin Petrus Gyllius bu delikleri merak etti. Bir bodrumdan karanlığa indi.",
+      "say": "16. yüzyıl İstanbul. Fransız gezgin Petrus Gilyus bu delikleri merak etti. Bir bodrumdan karanlığa indi.",
       "prompt": "A 16th century traveller seen from behind climbing down a narrow stone stairway into pitch darkness holding a lantern, damp walls",
       "sicak": true
     },
@@ -22,8 +23,8 @@
       "sis": 0.3
     },
     {
-      "text": "Bizans İmparatoru Justinianus döneminde, 6. yüzyılda yapılmıştı. Üstündeki şehir onu neredeyse unutmuştu.",
-      "say": "Bizans İmparatoru Jüstinyanus döneminde, 6. yüzyılda yapılmıştı. Üstündeki şehir onu neredeyse unutmuştu.",
+      "text": "İmparator Justinianus döneminde, 6. yüzyılda yapılmıştı. Üstündeki şehir onu neredeyse unutmuştu.",
+      "say": "İmparator Jüstinyanus döneminde, 6. yüzyılda yapılmıştı. Üstündeki şehir onu neredeyse unutmuştu.",
       "prompt": "Old Istanbul rooftops and a crescent-topped mosque dome at night seen from above, and beneath the ground a cutaway glimpse of a dark flooded columned hall"
     },
     {
@@ -37,7 +38,7 @@
       "sis": 0.3
     },
     {
-      "text": "Bir de hep nemli duran Ağlayan Sütun var. Rivayete göre yapımda hayatını kaybeden kölelerin anısına ağlıyor. Bunun hiçbir belgesi yok.",
+      "text": "Bir de hep nemli duran Ağlayan Sütun var. Rivayete göre yapımda ölen kölelerin anısına ağlıyor. Belgesi yok.",
       "prompt": "A single stone column carved with teardrop-like eye motifs glistening wet in a dark cistern, droplets running down, dim lantern light"
     },
     {
@@ -45,7 +46,7 @@
       "prompt": "Two stone columns standing on ancient carved blocks in shallow water in a dark corner of an underground cistern, still reflections"
     },
     {
-      "text": "Sen olsan o bodrumdaki deliğe kovanı sarkıtır mıydın? Dosya hâlâ açık.",
+      "text": "Sen olsan o bodrumdaki deliğe kovanı sarkıtır mıydın? Dosya hâlâ açık. Bunu İstanbul'da yaşayan birine gönder.",
       "prompt": "Looking down through a small hole in a stone basement floor into black water far below, a faint pale shape barely visible beneath the surface",
       "sis": 0.35
     }
