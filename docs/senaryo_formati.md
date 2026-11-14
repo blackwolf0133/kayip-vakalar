@@ -63,3 +63,24 @@ Veri: 8 kanalda izleyici ortalama 5-13 sn'de kaydırıyor. Instagram videoyu ön
 En yüksek puan 4'ün altındaysa ilk cümleyi yeniden yaz. Selamlama, giriş, "bugün size … anlatacağım", tarih/yer ile başlamak YASAK; en çarpıcı an ilk cümlede. Doğruluk kuralları aynen geçerli (abartı/uydurma yok).
 
 **Gönderilme (DM) sebebi:** Instagram'da yeni kişilere ulaştıran en güçlü sinyal videonun DM ile birine gönderilmesi. Her bölümün SON seslendirilen cümlesi (ya da kapanış kartı alt yazısı), izleyicinin videoyu belirli birine göndermesi için doğal bir sebep versin; TEK cümle, dilenmeden: "Bunu her ay sonu batan arkadaşına gönder.", "Bunu gece yolculuğu seven birine gönder." Açıklamadaki tek çağrı kuralı aynen kalır (bu cümle videonun içinde).
+
+---
+
+## 14 Kasım: KULLANICI İSTEĞİ — daha ürpertici, dinî motifli Türk korku anlatıları (ZORUNLU)
+
+Kullanıcı: "İnsanlar biraz daha ürpertici şeyleri seviyor; Türk korku şeylerini, dinî olanları; girişte insanları korkutacak, izlemeye teşvik edecek, meraklandıracak bir giriş olmalı."
+
+**Konu ağırlığı (yeni dosyaların en az yarısı):** Anadolu'da halk arasında anlatılan, dinî/manevi motifli korku inanışları ve rivayetleri: cin ve peri inanışları (cinli ev/hamam/değirmen, cin düğünü, destur demek), musallat ve karabasan, Al karısı ve kırk inanışları, mezarlık ve gece yolu rivayetleri, sela/ezan vakti, "akşam ezanından sonra dışarı çıkılmaz", gece ıslık, aynayı örtme, ölü evi âdetleri, terk edilmiş köy ve evler hakkındaki "orada bir şey var" anlatıları; belgelenmiş Türkiye kaybolmaları ve açıklanamayan olaylar.
+
+**Dinî içerikte sınırlar:**
+- Anlatım her zaman "Anlatılana göre…", "Halk arasında inanılır ki…" diye; doğaüstü olayı GERÇEK diye sunma, alay da etme.
+- Ayet/hadis alıntılama, fetva/hüküm verme, "şu duayı okursan…" gibi tavsiye verme YOK. Dua/sure adı geçecekse sadece halkın ne yaptığını anlat ("başucuna Kur'an konurdu"), kaynakla doğrula.
+- Peygamber, sahabe, melek çizilmez; cami gerekirse sadece hilalli; kilise/haç yok; kan/ceset/yara yok.
+- Gerçek kişileri suçlama, yakın tarihli (son ~30 yıl) yaslı aile hikâyeleri yok.
+
+**Giriş (ilk sahne, ilk 1-2 sn):** İzleyiciyi doğrudan korkutan ve merak ettiren tek cümle. En iyi kalıplar:
+1. Yasak/kural: "Köyde akşam ezanından sonra o değirmenin önünden kimse geçmezdi."
+2. Aileden şok cümle: "Babaannem o odanın aynasını hiç açık bırakmazdı."
+3. İkinci şahıs, şimdiki zaman: "Gece uyanıyorsun. Kıpırdayamıyorsun. Göğsünde bir ağırlık var."
+4. Cevapsız "neden": "Lohusayı kırk gün yalnız bırakmazlardı. Neden?"
+Tarih/yer/isimle BAŞLAMA (onlar 2. sahnede). `kanca_yazi` (en fazla 8 kelime) bu cümlenin ekranda okunan kısa hali olsun.
