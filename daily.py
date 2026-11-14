@@ -1,4 +1,4 @@
-"""Kayıp Vakalar (@kayip.vakalar) - günlük otomasyon (her akşam 20:00).
+"""Kayıp Vakalar (@kayip.vakalar) - günlük otomasyon (her akşam 17:45).
 
 Akış: 'Hazırla' iş akışı sıradaki bölümü önceden üretir (hazir-<id> sürümüne koyar),
 'Günlük paylaşım' iş akışı hazır olan ilk bölümü Instagram'a yükler.
