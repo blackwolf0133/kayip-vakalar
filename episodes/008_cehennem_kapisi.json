@@ -5,7 +5,7 @@
   "seed": 7731,
   "scenes": [
     {
-      "text": "Bu mağaraya atılan kuş, yere düşmeden can verirdi. İki bin yıl önce yazıldı. 2013'te kapı yeniden bulundu.",
+      "text": "Bu mağaranın ağzına uçan kuş, yere düşmeden can verirdi. Bugün ona Cehennem Kapısı deniyor.",
       "prompt": "A dark narrow stone cave opening at the foot of ancient ruined marble walls at dawn, a thin low mist creeping out across the ground, a small bird falling near it",
       "yer": "Hierapolis, Türkiye · 2013",
       "sis": 0.45
@@ -58,5 +58,6 @@
     "#gizemliolaylar",
     "#ürperticiyerler",
     "#kayıpvakalar"
-  ]
+  ],
+  "kanca_yazi": "Adı Cehennem Kapısı. Giren kuş düşüp ölürdü."
 }

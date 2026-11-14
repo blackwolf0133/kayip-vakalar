@@ -5,7 +5,7 @@
   "seed": 9177,
   "scenes": [
     {
-      "text": "Bir köyün altı binden fazla insanı aynı yıl evini bıraktı. Yüzlerce taş ev hâlâ sahibini bekliyor.",
+      "text": "Yüzlerce evi olan bir köy, tek bir yıl içinde bomboş kaldı. Sahipleri bir daha hiç dönmedi.",
       "prompt": "Hundreds of roofless stone houses covering a pine-dotted hillside at dusk, empty windows, silent abandoned village, warm fading light then cold shadow",
       "yer": "Kayaköy, Türkiye · 1923",
       "sis": 0.2
@@ -55,5 +55,6 @@
     "#hayaletköy",
     "#terkedilmişyerler",
     "#kayıpvakalar"
-  ]
+  ],
+  "kanca_yazi": "Bu köyün sahipleri bir daha hiç dönmedi"
 }
