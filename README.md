@@ -1,6 +1,6 @@
 # Kayıp Vakalar · @kayip.vakalar
 
-Dünyadan ve Türkiye'den gerçek gizemli olaylar; karanlık yapay zekâ çizimleri, Gemini anlatıcı sesi. Her akşam 17:45'te bir dosya.
+Dünyadan ve Türkiye'den gerçek gizemli olaylar; karanlık yapay zekâ çizimleri, Gemini anlatıcı sesi. Her gün 07:00, 11:30 ve 17:30'da yeni dosya.
 
 - Format ve kurallar: `docs/senaryo_formati.md` · Dosyalar: `episodes/` · Paylaşım kaydı: `state/posted.json`
 - **Hazırla**: sıradaki dosyanın sahnelerini paralel çizer (Gemini ile hata kontrolü), sesi + müziği ekler, `hazir-<id>` sürümüne koyar.
