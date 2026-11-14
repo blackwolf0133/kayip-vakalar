@@ -5,7 +5,7 @@
   "seed": 9177,
   "scenes": [
     {
-      "text": "Yüzlerce evi olan bir köy, tek bir yıl içinde bomboş kaldı. Sahipleri bir daha hiç dönmedi.",
+      "text": "Bu köy neden yüz yıldır bomboş? Yüzlerce evin sahibi tek bir yılda gitti ve bir daha hiç dönmedi.",
       "prompt": "Hundreds of roofless stone houses covering a pine-dotted hillside at dusk, empty windows, silent abandoned village, warm fading light then cold shadow",
       "yer": "Kayaköy, Türkiye · 1923",
       "sis": 0.2
@@ -56,5 +56,5 @@
     "#terkedilmişyerler",
     "#kayıpvakalar"
   ],
-  "kanca_yazi": "Bu köyün sahipleri bir daha hiç dönmedi"
+  "kanca_yazi": "Bu köy neden 100 yıldır bomboş?"
 }

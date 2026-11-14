@@ -84,3 +84,5 @@ Kullanıcı: "İnsanlar biraz daha ürpertici şeyleri seviyor; Türk korku şey
 3. İkinci şahıs, şimdiki zaman: "Gece uyanıyorsun. Kıpırdayamıyorsun. Göğsünde bir ağırlık var."
 4. Cevapsız "neden": "Lohusayı kırk gün yalnız bırakmazlardı. Neden?"
 Tarih/yer/isimle BAŞLAMA (onlar 2. sahnede). `kanca_yazi` (en fazla 8 kelime) bu cümlenin ekranda okunan kısa hali olsun.
+
+**Giriş kalıbı (14 Kasım, kullanıcının önerisi — VARSAYILAN):** İlk seslendirilen cümle, dosyanın konusunu soran kısa bir KORKU SORUSU olsun; hikâye ondan sonra başlar. Örnekler: "Bu köy gerçekten cinli mi?", "Lohusayı neden kırk gün yalnız bırakmazlardı?", "Bu değirmenin önünden gece neden kimse geçmez?" `kanca_yazi` = bu sorunun ekranda okunan hali (en fazla 8 kelime). Motor 0. saniyede kısa bir ürperti sesi (derinden boom + yükselen fısıltı) çalar; soru bu sesin üstüne gelir. Soru doğru olmalı: cevabı "anlatılana göre"/"kanıtlanan şu" kısımlarında dürüstçe verilir.

@@ -123,6 +123,26 @@ def drone(seconds, sr=SR, seed=4, sting_at=None):
     return out / (np.abs(out).max() + 1e-6)
 
 
+def acilis_sesi(sr=SR, seed=11):
+    """0. saniye ürperti (14 Kasım, kullanıcı isteği): derinden boom + uyumsuz tını + yükselen fısıltı/rüzgâr.
+    ~2,6 sn; anlatıcının altında kalacak kadar alçak ve çoğu alçak frekansta."""
+    rng = np.random.default_rng(seed)
+    n = int(2.6 * sr)
+    t = np.arange(n) / sr
+    boom = 0.55 * np.sin(2 * np.pi * (52 - 14 * t) * t) * np.exp(-t * 2.2)
+    kume = np.zeros(n)
+    for f in (233.1, 246.9, 311.1):
+        kume += np.sin(2 * np.pi * f * t + 0.004 * np.sin(2 * np.pi * 5.5 * t) * f)
+    kume *= 0.07 * np.minimum(1, t / 0.5) * np.exp(-np.maximum(0, t - 0.6) * 1.4)
+    g = rng.normal(0, 1, n)
+    a, b = int(sr * 0.0006), int(sr * 0.004)
+    bant = np.convolve(g, np.ones(a) / a, "same") - np.convolve(g, np.ones(b) / b, "same")
+    fisilti = 0.9 * bant * (t / 2.0) ** 2 * (t < 2.0) + 0.9 * bant * np.exp(-(t - 2.0) * 9) * (t >= 2.0)
+    out = (boom + kume + fisilti).astype(np.float32)
+    out *= np.minimum(1, (2.6 - t) / 0.3).astype(np.float32)
+    return 0.42 * out / (np.abs(out).max() + 1e-6)
+
+
 def yaz(path, a, sr=SR):
     a = np.clip(a, -1, 1)
     with wave.open(path, "wb") as w:
@@ -145,6 +165,9 @@ def birlestir(parcalar, baslar, toplam, out_path, workdir, sting_at=None, seed=4
         s = int(st * SR)
         voice[s:s + len(a)] += a[: len(voice) - s]
     voice = voice[: int(toplam * SR)]
+    if os.environ.get("ACILIS_SESI", "1") == "1":  # 0. saniye ürperti sesi
+        ac = acilis_sesi()
+        voice[: len(ac)] += ac[: len(voice)]
     vw = os.path.join(workdir, "voice_full.wav")
     mw = os.path.join(workdir, "music.wav")
     yaz(vw, voice)

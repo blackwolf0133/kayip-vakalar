@@ -5,7 +5,7 @@
   "seed": 1777,
   "scenes": [
     {
-      "text": "Köyde lohusa kadın kırk gün bir an bile yalnız bırakılmazdı. Yastığının altına bir iğne, başucuna bir Kur'an konurdu.",
+      "text": "Lohusayı neden kırk gün yalnız bırakmazlardı? Yastığının altına bir iğne, başucuna bir Kur'an konurdu.",
       "prompt": "A dim Anatolian village stone house room at night, a young mother seen from behind lying under a heavy quilt beside a wooden cradle, a single oil lamp, a red ribbon tied to the cradle",
       "yer": "Anadolu, Türkiye · Kırk gün",
       "sicak": true,
@@ -60,5 +60,5 @@
     "#korkuhikayeleri",
     "#kayıpvakalar"
   ],
-  "kanca_yazi": "Lohusayı kırk gün yalnız bırakmazlardı. Neden?"
+  "kanca_yazi": "Lohusayı neden kırk gün yalnız bırakmazlardı?"
 }
