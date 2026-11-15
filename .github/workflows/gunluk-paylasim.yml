@@ -72,6 +72,7 @@ jobs:
         if: steps.sec.outputs.id != ''
         env:
           GH_TOKEN: ${{ github.token }}
+          HIKAYE_KAPALI: "1"   # 15 Kasım: kullanıcı isteği, Kayıp'ta sadece Reel
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
           IG_MODE: ${{ vars.IG_MODE }}
