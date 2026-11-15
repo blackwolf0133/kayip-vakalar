@@ -1,0 +1,42 @@
+# Instagram'a YAYINLAMADAN yükleme testi (Meta videoyu işleyebiliyor mu, hangi biçimde?). Hiçbir şey paylaşılmaz.
+name: Yükleme testi
+on:
+  workflow_dispatch:
+    inputs:
+      etiket:
+        description: "Videonun sürümü (ör. hazir-007)"
+        required: true
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Videoyu al, çeşitlerini üret
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          pip install -q -r requirements.txt || true
+          sudo apt-get install -y -q ffmpeg >/dev/null 2>&1 || true
+          gh release download "${{ inputs.etiket }}" -D v --repo "${{ github.repository }}" -p "*.mp4"
+          f=$(ls v/*.mp4 | grep -v _g | head -1); cp "$f" v/asil.mp4
+          ffprobe -v error -show_entries stream=codec_name,sample_rate,channels,bit_rate:format=duration v/asil.mp4
+          # 1) 59 sn'ye kırpılmış (süre sınırı mı?)
+          ffmpeg -v error -y -i v/asil.mp4 -t 59 -c:v libx264 -preset veryfast -b:v 2000k -maxrate 2600k -bufsize 5200k -pix_fmt yuv420p -profile:v main -c:a aac -ar 48000 -ac 2 -b:a 128k -movflags +faststart v/kirpik59.mp4
+          # 2) ilk 3 sn (açılış sesi) atlanmış, tam boy (açılış sesi mi?)
+          ffmpeg -v error -y -ss 3 -i v/asil.mp4 -c:v libx264 -preset veryfast -b:v 2000k -maxrate 2600k -bufsize 5200k -pix_fmt yuv420p -profile:v main -c:a aac -ar 48000 -ac 2 -b:a 128k -movflags +faststart v/acilissiz.mp4
+          # 3) sessiz (ses mi?)
+          ffmpeg -v error -y -i v/asil.mp4 -t 59 -c:v libx264 -preset veryfast -b:v 2000k -pix_fmt yuv420p -profile:v main -an -movflags +faststart v/sessiz59.mp4
+          # 4) 720p, 30 sn (en basit)
+          ffmpeg -v error -y -i v/asil.mp4 -t 30 -vf scale=720:1280 -c:v libx264 -preset veryfast -b:v 1500k -pix_fmt yuv420p -profile:v main -c:a aac -ar 48000 -ac 2 -b:a 128k -movflags +faststart v/kisa720.mp4
+          ls -la v
+      - name: Yükle (yayınlamadan)
+        env:
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_MODE: ${{ vars.IG_MODE }}
+          URL: https://github.com/${{ github.repository }}/releases/download/${{ inputs.etiket }}/${{ inputs.etiket == 'hazir-007' && '007' || 'x' }}_g.mp4
+        run: python tools/yukleme_testi.py v/kisa720.mp4 v/kirpik59.mp4 v/acilissiz.mp4 v/sessiz59.mp4
