@@ -1,0 +1,62 @@
+{
+  "id": "027",
+  "slug": "kursun_maskeler",
+  "title": "Kurşun Maskeler",
+  "seed": 92727,
+  "kanca_yazi": "Yüzlerinde neden kurşun maskeler vardı?",
+  "scenes": [
+    {
+      "text": "İki adamın yüzünde neden kurşundan maskeler vardı? Yanlarındaki not bugün hâlâ çözülemedi.",
+      "prompt": "A grassy hilltop above a coastal city at dusk, two small lead eye masks lying in the grass beside an empty glass bottle, storm clouds",
+      "yer": "Niterói, Brezilya · 1966",
+      "sis": 0.2
+    },
+    {
+      "text": "20 Ağustos 1966. Uçurtma uçuran bir çocuk, Vintém Tepesi'nde hayatını kaybetmiş iki adam buldu.",
+      "prompt": "A boy flying a kite seen from far behind on a hill covered with tall grass and shrubs, a bay and city below in hazy light",
+      "say": "20 Ağustos 1966. Uçurtma uçuran bir çocuk, Vintem Tepesi'nde hayatını kaybetmiş iki adam buldu."
+    },
+    {
+      "text": "Manoel Pereira da Cruz ve Miguel José Viana. İki elektronik teknisyeni. Üç gün önce evden çıkmışlardı.",
+      "prompt": "A 1960s Brazilian street at morning, two men in suits seen from far behind walking toward a bus station, carrying a small bag",
+      "say": "Manoel Pereyra da Kruz ve Migel Joze Viana. İki elektronik teknisyeni. Üç gün önce evden çıkmışlardı."
+    },
+    {
+      "text": "Takım elbiseliydiler, üstlerinde yağmurluk vardı. Gözlerinin üstünde kurşundan yapılmış maskeler duruyordu.",
+      "prompt": "Two crude grey lead eye masks and folded raincoats on the grass of a hilltop under a cloudy sky, no people visible",
+      "sis": 0.15
+    },
+    {
+      "text": "Yanlarında boş bir su şişesi, ıslak havlular ve bir not: Saat 18.30'da kapsülleri yut, metalleri koru, maske işaretini bekle.",
+      "prompt": "Close view of a small handwritten paper note held down by a stone in the grass, wet towels and an empty bottle beside it, dim evening light"
+    },
+    {
+      "text": "Otopside hiçbir yara yoktu. Ölüm sebebi belirlenemedi.",
+      "prompt": "An empty 1960s police office at night, a desk lamp over a closed case folder, rain on the window",
+      "sicak": true
+    },
+    {
+      "text": "Anlatılana göre bir şeyle temas kurmaya çalışıyorlardı. Kimine göre ruhlarla, kimine göre gökteki ışıklarla.",
+      "prompt": "Strange faint lights in the night sky above a dark hilltop overlooking a bay, tall grass moving in the wind",
+      "sis": 0.3
+    },
+    {
+      "text": "Kanıtlanan şu: Not ve maskeler gerçek. Bir görüşe göre bir ruhçuluk grubuna bağlıydılar ve yuttukları madde onlara ağır geldi.",
+      "prompt": "Two lead masks and a notebook on a wooden table under a single lamp in a dark room",
+      "sicak": true
+    },
+    {
+      "text": "Sen o notu bulsan, o tepeye çıkar mıydın? Dosya hâlâ açık. Bunu gizem çözmeyi seven birine gönder.",
+      "prompt": "A dark hilltop path at night leading up into low clouds, city lights far below",
+      "sis": 0.4
+    }
+  ],
+  "caption": "1966'da Brezilya'da bir tepede iki adam bulundu. Yüzlerinde kurşun maskeler, yanlarında tuhaf bir not vardı. 🕯️\n\nÖlüm sebebi hâlâ belirlenemedi. Saygıyla anıyoruz.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#kurşunmaskeler",
+    "#brezilya",
+    "#gizemliolaylar",
+    "#çözülemeyengizemler",
+    "#kayıpvakalar"
+  ]
+}

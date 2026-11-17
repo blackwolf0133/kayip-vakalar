@@ -1,0 +1,64 @@
+{
+  "id": "029",
+  "slug": "arkadaki_dugun",
+  "title": "Arkadaki Düğün",
+  "seed": 92929,
+  "kanca_yazi": "Gece arkandan gelen davul sesi kimin?",
+  "scenes": [
+    {
+      "text": "Gece ormanda arkandan gelen davul zurna sesi kimin? Etrafta ne köy var ne düğün.",
+      "prompt": "A couple seen from behind walking on a dark forest path at night holding a lantern, faint warm glow and blurred shapes far behind them among the trees",
+      "yer": "Sorgun, Yozgat, Türkiye · Anlatı",
+      "sicak": true,
+      "sis": 0.4
+    },
+    {
+      "text": "Yozgat Sorgun'da derlenen bir anlatıda karı koca gece yoldadır. Arkalarından düğün sesi gelmeye başlar.",
+      "prompt": "An Anatolian forest at night under a crescent moon, a narrow path between oak trees, mist low on the ground",
+      "sis": 0.4
+    },
+    {
+      "text": "Ses yaklaşır, yaklaşır. Önlerinde küçük bir dere vardır. Suyu geçerler.",
+      "prompt": "Two figures seen from behind wading across a small moonlit stream in a dark forest, the lantern reflecting in the water",
+      "sis": 0.35
+    },
+    {
+      "text": "Geçtikleri anda davul susar. Arkada sadece karanlık kalır.",
+      "prompt": "The far bank of a forest stream at night seen from across the water, empty dark trees, mist drifting, total silence",
+      "sis": 0.45
+    },
+    {
+      "text": "Halk arasında inanılır ki onlar suyu geçemez. Bu inanış Anadolu'nun hemen her yerinde anlatılır.",
+      "prompt": "Moonlight on a shallow river crossing an Anatolian valley at night, shadows stopped on one side of the water",
+      "sis": 0.35
+    },
+    {
+      "text": "Merzifon'dan bir anlatıda bir oduncu, arkadaşı kılığına girmiş bir şeyden su arkına uzanarak kurtulur.",
+      "prompt": "A woodcutter lying in a narrow irrigation channel at night, his donkey nearby, a tall shadow standing at the edge of the water",
+      "sis": 0.35
+    },
+    {
+      "text": "Anlatılana göre insanı annesinin, kardeşinin, arkadaşının sesiyle çağırırlar. Sabah ezanı ya da horoz sesiyle çekilirler.",
+      "prompt": "Dawn over a village beside a stream, a crescent-topped minaret in the distance, the mist and shadows withdrawing into the forest",
+      "sis": 0.25
+    },
+    {
+      "text": "Kanıtlanan şu: Bu anlatılar köylülerden derlenip folklor dergilerinde yayımlandı. Düğünü gören yok; yalnızca duyan var.",
+      "prompt": "Old folklore journals and handwritten notes on a table by a lamp in a village house at night",
+      "sicak": true
+    },
+    {
+      "text": "Sen o sesi duysan arkana bakar mıydın? Dosya hâlâ açık. Bunu gece yürüyüşü seven birine gönder.",
+      "prompt": "A dark forest path at night seen from behind a lone walker, faint warm lights flickering among the trees far back",
+      "sis": 0.45
+    }
+  ],
+  "caption": "Gece ormanda yürüyorsun. Arkandan davul zurna sesi geliyor ama etrafta düğün yok. 🥁\n\nAnadolu'da anlatılır: Onlar suyu geçemez.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#cindüğünü",
+    "#yozgat",
+    "#anadolurivayetleri",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "021",
+  "slug": "catalhoyuk",
+  "title": "Ölülerin Üstünde",
+  "seed": 92121,
+  "kanca_yazi": "Ölülerini neden evlerinin tabanına gömdüler?",
+  "scenes": [
+    {
+      "text": "Ölülerini neden evlerinin tabanına gömdüler? Hem de yaşadıkları odanın tam altına.",
+      "prompt": "The interior of a dark Neolithic mud-brick house lit by a small fire, a raised plaster platform along the wall, a wooden ladder rising to a square opening in the roof",
+      "yer": "Çatalhöyük, Konya, Türkiye · MÖ 7400",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Konya Ovası, yaklaşık 9 bin yıl önce. Burada sokağı olmayan bir şehir vardı.",
+      "prompt": "Aerial view at dusk of a dense Neolithic settlement of joined flat-roofed mud-brick houses on a plain, no streets between them, smoke rising",
+      "sis": 0.15
+    },
+    {
+      "text": "Evler birbirine yapışıktı. İnsanlar damların üstünde yürür, evlere tavandaki bir delikten merdivenle inerdi.",
+      "prompt": "Small human figures seen from far away walking across flat mud roofs at twilight, one climbing down a ladder through a roof opening",
+      "sis": 0.15
+    },
+    {
+      "text": "Ölüler evin tabanının ve sekilerin altına gömüldü. Araştırmacılara göre bu sekiler yatak olarak da kullanılmış olabilir.",
+      "prompt": "A sleeping figure seen from behind lying on a plastered platform in a dim mud-brick room, firelight, the floor below the platform in deep shadow",
+      "sicak": true
+    },
+    {
+      "text": "Duvarlardan, sıvanmış boğa kafatasları boynuzlarıyla birlikte karanlığa uzanıyordu.",
+      "prompt": "Plastered bull horns protruding from a dark mud-brick wall above a bench, red ochre painted patterns, flickering firelight",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "2004'te bir mezarda sıvanmış ve kırmızıya boyanmış bir kafatası bulundu. Birinin onu yıllarca sakladığı düşünülüyor.",
+      "prompt": "Archaeologists seen from far behind kneeling in an excavation trench under a protective roof at dusk, brushes and lamps, no remains visible",
+      "sis": 0.1
+    },
+    {
+      "text": "Burayı 1950'lerin sonunda James Mellaart buldu. 1993'ten beri Ian Hodder'ın ekibi kazıyor. 2012'de UNESCO listesine girdi.",
+      "prompt": "A wide view of an excavated mound on a flat Anatolian plain under a large modern shelter roof, grey evening sky",
+      "say": "Burayı 1950'lerin sonunda Ceyms Melart buldu. 1993'ten beri İyın Hodır'ın ekibi kazıyor. 2012'de UNESCO listesine girdi."
+    },
+    {
+      "text": "Kanıtlanan şu: Ölüler gerçekten evin içinde, yaşayanların hemen altında yattı. Neden böyle yaptıklarını kimse kesin bilmiyor.",
+      "prompt": "A cutaway view of a dark mud-brick house at night, a small fire glowing above, deep shadowy earth layers below the floor",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Sen olsan ölülerinin üstünde uyuyabilir miydin? Dosya hâlâ açık. Bunu arkeoloji meraklısı birine gönder.",
+      "prompt": "A dying fire in an empty Neolithic mud-brick room at night, the roof ladder in silhouette against stars, shadows on the plastered platform",
+      "sicak": true,
+      "sis": 0.3
+    }
+  ],
+  "caption": "9 bin yıl önce Konya Ovası'nda insanlar ölülerini evlerinin tabanına gömdü. 🏺\n\nÇatalhöyük'te ölüler yaşayanların hemen altında yattı. Neden?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#çatalhöyük",
+    "#konya",
+    "#arkeoloji",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "025",
+  "slug": "sahmaran",
+  "title": "Şahmaran",
+  "seed": 92525,
+  "kanca_yazi": "Hamamda herkes neden soyunmak zorundaydı?",
+  "scenes": [
+    {
+      "text": "Tarsus'ta bütün erkekler hamamda neden soyunmak zorunda kaldı? Çünkü aranan adamın sırtı pul pul olmuştu.",
+      "prompt": "Men seen from far behind lining up in the steam of a large old Ottoman bathhouse, guards at the door, dim domed light",
+      "yer": "Tarsus, Mersin, Türkiye · Efsane",
+      "sis": 0.4
+    },
+    {
+      "text": "Anlatılana göre Camsap adında yoksul bir oduncu çocuğu, arkadaşlarınca bir bal kuyusunda bırakılır.",
+      "prompt": "A young woodcutter seen from above at the bottom of a deep dark stone well, golden honey glistening on the walls, a small circle of sky far above",
+      "sicak": true
+    },
+    {
+      "text": "Kuyunun dibinde bir bahçe bulur. Orada yılanların şahı yaşar: Yarısı kadın, yarısı yılan Şahmaran.",
+      "prompt": "A hidden underground garden glowing with soft light, many snakes among flowers, a crowned figure seen only as a distant shadow with a long serpent tail",
+      "sis": 0.3
+    },
+    {
+      "text": "Şahmaran onu bırakır ama tek şartla: Yerini kimseye söylemeyecektir.",
+      "prompt": "A young man seen from behind climbing out of a well into a moonlit forest, a long serpent shadow coiled at the edge of the well",
+      "sis": 0.3
+    },
+    {
+      "text": "Sonra Tarsus sultanı hastalanır. Vezir der ki: İlacı Şahmaran'ın etidir. Onu gören adam bulunmalıdır.",
+      "prompt": "A dark palace chamber at night, a sick sultan's bed in shadow, a robed vizier seen from behind beside an oil lamp",
+      "sicak": true
+    },
+    {
+      "text": "Camsap'ın sırtı pullanmıştır. Yakalanır, kuyuyu göstermek zorunda kalır. Şahmaran öldürülür.",
+      "prompt": "Torch-bearing soldiers seen from far away at a forest well at night, a young man kneeling, a snake tail vanishing into the dark",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Rivayete göre yılanlar onun öldüğünü hâlâ bilmiyor. Öğrendikleri gün Tarsus'a ineceklerine inanılır.",
+      "prompt": "Countless snakes moving through dark grass on a hillside above an old town at night, moonlight, mist",
+      "sis": 0.4
+    },
+    {
+      "text": "Kanıtlanan şu: Efsane Tarsus'tan Adana'ya, Manisa'ya kadar anlatılıyor; Mardin'de bakır ve cam üstüne hâlâ işleniyor. Yaşandığına dair bir kanıt yok.",
+      "prompt": "Old copper trays and glass paintings with snake motifs hanging in a dim stone workshop in Mardin, lamp light",
+      "sicak": true
+    },
+    {
+      "text": "Sen olsan Şahmaran'ın yerini söyler miydin? Dosya hâlâ açık. Bunu sır tutamayan arkadaşına gönder.",
+      "prompt": "An old stone well in a dark forest at night, faint golden light rising from deep inside, a snake coiled on its rim",
+      "sis": 0.35
+    }
+  ],
+  "caption": "Tarsus'ta bütün erkekler hamama sokuldu. Aranan, sırtı pul pul olmuş tek bir adamdı. 🐍\n\nAnadolu'nun en bilinen efsanelerinden biri: Şahmaran.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#şahmaran",
+    "#tarsus",
+    "#anadolurivayetleri",
+    "#efsane",
+    "#kayıpvakalar"
+  ]
+}

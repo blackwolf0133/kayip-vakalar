@@ -1,0 +1,63 @@
+{
+  "id": "019",
+  "slug": "gece_islik",
+  "title": "Gece Islık",
+  "seed": 91919,
+  "kanca_yazi": "Gece neden ıslık çalınmaz?",
+  "scenes": [
+    {
+      "text": "Gece neden ıslık çalınmaz? Annen sana hiç 'Sus, şeytanı toplarsın' dedi mi?",
+      "prompt": "A young man seen from behind sitting on the stone steps of a dark Black Sea village house at night, misty green hills, an oil lamp behind a window, shadows gathering at the edge of the forest",
+      "yer": "Trabzon, Türkiye · Bu gece",
+      "sis": 0.35
+    },
+    {
+      "text": "Trabzon'un köylerinde bu bir kural: Gece ıslık çalmak günah sayılır. Evde de ıslık çalınmaz.",
+      "prompt": "Wooden houses on a steep foggy Black Sea hillside at night, tea fields, a few lit windows, rain mist",
+      "sis": 0.4
+    },
+    {
+      "text": "Erzurum Tortum'da derlenen inanış daha açık: Islık çalındığında cinlerin yanına geleceğine inanılır.",
+      "prompt": "A lonely stone village in a dark Eastern Anatolian valley at night, a frozen river, a single figure standing in the snow seen from far away",
+      "sis": 0.3
+    },
+    {
+      "text": "Halk arasında inanılır ki onlar hava karardıktan sonra gezer. Sabah ezanı ya da horoz sesiyle çekilirler.",
+      "prompt": "Dawn breaking over an Anatolian village, a rooster silhouette on a stone wall, a crescent-topped mosque minaret in the distance, shadows retreating from the lane",
+      "sis": 0.2
+    },
+    {
+      "text": "Bu yüzden akşamdan sonra adları da anılmaz. Onlara 'bizden iyiler' denir.",
+      "prompt": "An old grandmother seen from behind beside a wood stove in a dim village room at night, holding a finger up for silence toward a child, lamp light on the walls",
+      "sicak": true
+    },
+    {
+      "text": "Anlatılana göre insanı bir yakınının, annesinin ya da kardeşinin sesiyle çağırırlar.",
+      "prompt": "A dark forest edge at night behind a village, a faint lantern-like glow among the trees, a child seen from behind turning toward it",
+      "sis": 0.45
+    },
+    {
+      "text": "Kanıtlanan şu: Bu yasak Karadeniz'den Doğu Anadolu'ya folklor kayıtlarında var. Araştırmacılara göre İslam öncesi karanlık ruh inanışları zamanla cin inancına karıştı.",
+      "prompt": "Old folklore books and handwritten notes on a wooden table lit by a kerosene lamp, a dark window with mist outside",
+      "sicak": true
+    },
+    {
+      "text": "Islığı duyan yalnızca rüzgâr mı? Kimse kesin bilmiyor.",
+      "prompt": "Wind blowing through tall dark trees around a lone wooden house at night, the door slightly ajar, mist creeping across the yard",
+      "sis": 0.4
+    },
+    {
+      "text": "Sen bu gece ıslık çalar mıydın? Dosya hâlâ açık. Bunu gece ıslık çalan arkadaşına gönder.",
+      "prompt": "A dark village lane at night seen from a window, a faint tall shadow at the far end under a single lamp, fog on the ground",
+      "sis": 0.35
+    }
+  ],
+  "caption": "Gece ıslık çalınmaz. Neden? 🌑 Karadeniz'den Doğu Anadolu'ya derlenen eski bir yasak.\n\nSen bu gece ıslık çalar mıydın?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#geceıslık",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#cinhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

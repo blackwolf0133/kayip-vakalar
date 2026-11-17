@@ -1,0 +1,64 @@
+{
+  "id": "023",
+  "slug": "dans_salgini",
+  "title": "Dans Salgını",
+  "seed": 92323,
+  "kanca_yazi": "Bir şehir neden dans etmeyi bırakamadı?",
+  "scenes": [
+    {
+      "text": "Bir şehir neden dans etmeyi bırakamadı? Önce bir kadın başladı, sonra yüzlerce kişi.",
+      "prompt": "A medieval European street at dusk, a lone woman in a long dress seen from behind dancing wildly on the cobblestones, onlookers in the shadows of timber houses",
+      "yer": "Strazburg, Fransa · 1518",
+      "sis": 0.2
+    },
+    {
+      "text": "Temmuz 1518. Kayıtlara göre Frau Troffea adlı bir kadın sokağa çıktı ve günlerce dans etti.",
+      "prompt": "A narrow medieval alley in summer heat, a woman's silhouette spinning alone, dust in the air, shutters half open",
+      "say": "Temmuz 1518. Kayıtlara göre Frau Trofea adlı bir kadın sokağa çıktı ve günlerce dans etti."
+    },
+    {
+      "text": "Birkaç gün içinde 30'dan fazla kişi ona katıldı. Ağustosa gelindiğinde tahminler 50 ile 400 kişi arasında.",
+      "prompt": "A crowd of exhausted figures dancing in a medieval town square at twilight, seen from far away, torches on the walls",
+      "sis": 0.15
+    },
+    {
+      "text": "Hekimler bunun 'sıcak kan' olduğunu söyledi. Yetkililer çare diye müzisyen tuttu, dans için meydanlar ayırdı.",
+      "prompt": "Musicians with drums and pipes on a wooden platform in a medieval market at night, dancing silhouettes below, torchlight",
+      "sicak": true
+    },
+    {
+      "text": "Ama müzik işleri kötüleştirdi. Sonunda şehirde müzik ve dans yasaklandı.",
+      "prompt": "An empty medieval square at night, abandoned drums and pipes on a wooden stage, a lone dancer still moving in the shadows",
+      "sis": 0.3
+    },
+    {
+      "text": "Halk bunu bir azizin laneti sandı. Dansçılar dağdaki bir türbeye götürüldü.",
+      "prompt": "A procession of tired figures seen from far behind climbing a misty forest path toward a small stone shrine on a hill at dawn",
+      "sis": 0.4
+    },
+    {
+      "text": "Anlatılana göre günde 15 kişi yorgunluktan öldü. Ama bu rakam dönemin kayıtlarında yok; sonradan yazıldı.",
+      "prompt": "Worn leather shoes left on cobblestones in an empty medieval street at dawn, mist drifting",
+      "sis": 0.35
+    },
+    {
+      "text": "Kanıtlanan şu: Salgın birçok kayıtta var. Tarihçi John Waller'a göre kıtlık ve korkunun yarattığı toplu bir psikolojik hastalıktı.",
+      "prompt": "Old handwritten chronicle pages and a candle on a wooden desk in a dark medieval room",
+      "sicak": true,
+      "say": "Kanıtlanan şu: Salgın birçok kayıtta var. Tarihçi Con Volır'a göre kıtlık ve korkunun yarattığı toplu bir psikolojik hastalıktı."
+    },
+    {
+      "text": "Sen o kalabalıkta olsan dansa katılmadan durabilir miydin? Dosya hâlâ açık. Bunu dans etmeyi bırakamayan arkadaşına gönder.",
+      "prompt": "Silhouettes of dancers in a foggy medieval square at night, one figure standing still among them, back to the viewer",
+      "sis": 0.4
+    }
+  ],
+  "caption": "1518'de Strazburg'da bir kadın dans etmeye başladı ve duramadı. Haftalar içinde yüzlerce kişi ona katıldı. 💃\n\nTarihin en tuhaf salgınlarından biri.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#dansvebası",
+    "#strazburg",
+    "#gizemliolaylar",
+    "#tarihingizemleri",
+    "#kayıpvakalar"
+  ]
+}

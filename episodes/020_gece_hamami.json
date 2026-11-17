@@ -1,0 +1,67 @@
+{
+  "id": "020",
+  "slug": "gece_hamami",
+  "title": "Gece Hamamı",
+  "seed": 92020,
+  "kanca_yazi": "Yatsıdan sonra hamama neden girilmez?",
+  "scenes": [
+    {
+      "text": "Yatsıdan sonra hamama neden girilmez? Boş hamamdan gece davul sesi gelirse ne yaparsın?",
+      "prompt": "The dark steamy interior of an old Ottoman bathhouse at night, a domed ceiling with small star-shaped skylights, a marble navel stone, faint shadows dancing in the steam",
+      "yer": "Anadolu, Türkiye · Gece",
+      "sis": 0.45
+    },
+    {
+      "text": "Halk anlatılarında onların en sevdiği yerler sayılır: değirmenler, yıkık evler ve hamamlar.",
+      "prompt": "An abandoned stone water mill and an old domed bathhouse at the edge of an Anatolian town at night, moonlight, mist over a stream",
+      "sis": 0.35
+    },
+    {
+      "text": "Anlatılana göre cinler buralarda eğlenir, dans eder. Düğünleri akşamdan sabah ezanına kadar sürer.",
+      "prompt": "Many indistinct shadowy figures circling the marble navel stone in thick bathhouse steam, a single candle, nothing clearly visible",
+      "sicak": true,
+      "sis": 0.5
+    },
+    {
+      "text": "Onlara besmelesiz rastlayanın çarpılacağına inanılır. Çarpılanın ağzı eğrilir, dili tutulur.",
+      "prompt": "A frightened man seen from behind standing at the doorway of a dark steamy bathhouse, holding an oil lamp, shadows freezing in the mist ahead",
+      "sicak": true,
+      "sis": 0.4
+    },
+    {
+      "text": "Mardin Nusaybin'de derlenen bir öğüt var: Gece, özellikle çarşamba günleri yıkanmayın. Çünkü düğünleri çarşambadır.",
+      "prompt": "Old stone houses of a Mesopotamian town at night, warm lamp glow from a small domed bathhouse, a lone woman seen from behind hurrying away",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Peki onları nasıl tanırsın? Rivayete göre ayakları terstir: Topukları önde, parmakları arkada.",
+      "prompt": "Wet footprints on the marble floor of a dark bathhouse pointing the wrong way, steam curling, a wooden bath clog left behind",
+      "sis": 0.4
+    },
+    {
+      "text": "Kanıtlanan şu: Hamam, Anadolu'daki cin anlatılarında en sık geçen yerlerden biri. Gece ıssız hamamda buhar ve yankı her sesi büyütür.",
+      "prompt": "An empty old bathhouse at night with water dripping from a brass tap into a marble basin, echoing steam, moonlight through the dome",
+      "sis": 0.35
+    },
+    {
+      "text": "Ama o gece davulu duyanlar sabaha kadar başka bir şey anlatmadı.",
+      "prompt": "A dark street outside an old bathhouse at night, warm light and steam leaking from its door, the silhouette of a drum faintly visible inside",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Sen olsan gece boş bir hamamdan gelen davul sesine bakar mıydın? Dosya hâlâ açık. Bunu hamam sefası seven birine gönder.",
+      "prompt": "A heavy wooden bathhouse door slightly open at midnight, thick steam pouring out, shadowy shapes moving behind it",
+      "sis": 0.45
+    }
+  ],
+  "caption": "Boş hamamdan gece yarısı davul sesi gelir mi? 🕯️ Anadolu'da hamam, cin anlatılarının en sık geçtiği yerlerden biri.\n\nSen olsan kapıyı açar mıydın?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#hamamdacindüğünü",
+    "#anadolurivayetleri",
+    "#korkuhikayeleri",
+    "#cinhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

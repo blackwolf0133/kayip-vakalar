@@ -1,0 +1,63 @@
+{
+  "id": "028",
+  "slug": "yatir_agaci",
+  "title": "Yatırın Ağacı",
+  "seed": 92828,
+  "kanca_yazi": "Bu ağaca balta vuran neden çarpılır?",
+  "scenes": [
+    {
+      "text": "Bu ağaca balta vuran neden çarpılır? Köylüler dalını bile kırmaz.",
+      "prompt": "A huge ancient tree beside a small stone tomb on an Anatolian hillside at dusk, its branches covered with hundreds of tied cloth strips moving in the wind, an axe leaning against a rock",
+      "yer": "Tokat, Türkiye · Anlatı",
+      "sis": 0.3
+    },
+    {
+      "text": "Anadolu'da yatırların, ziyaret yerlerinin yanındaki ağaçlar kesilmez. Odunu eve götürülmez.",
+      "prompt": "An old pine grove around a small domed shrine on a hill above a village, evening mist, no people",
+      "sis": 0.35
+    },
+    {
+      "text": "Onun yerine dallarına çaput bağlanır. Bir dilek tutulur, bir adak adanır.",
+      "prompt": "A woman seen from behind tying a strip of cloth to the branch of an old mulberry tree near a shrine, soft evening light",
+      "sicak": true
+    },
+    {
+      "text": "Yozgat Sorgun'daki Durali Baba'da anlatılana göre ağacı kesmeye kalkan bir adam baltayı kendi ayağına vurdu ve sakat kaldı.",
+      "prompt": "A man seen from far behind raising an axe toward a great old tree in a dark forest clearing, clouds gathering",
+      "sis": 0.3
+    },
+    {
+      "text": "Tokat'ta Topçam Baba'nın çamını kesen biri hastalandı. Odunu geri götürünce iyileştiği anlatılır.",
+      "prompt": "A figure seen from behind carrying a bundle of pine logs back up a misty hill toward a six-trunked old pine at dawn",
+      "sis": 0.35
+    },
+    {
+      "text": "Niksar'da bir türbenin ağacını sökmeye çalışan iş makinesi operatörünün de yaralandığı anlatılır.",
+      "prompt": "A bulldozer stopped in the dark beside an old tree next to a small stone tomb, headlights in the mist",
+      "sis": 0.4
+    },
+    {
+      "text": "Halk buna çarpılma der: Yatırın sahip çıktığı yere dokunanın başına bir şey gelir.",
+      "prompt": "Wind tearing at cloth strips tied to an ancient tree at night, the shrine in shadow, a lantern on the ground",
+      "sis": 0.4
+    },
+    {
+      "text": "Kanıtlanan şu: Bu anlatılar araştırmacılarca köylülerden derlendi, hiçbiri belgeyle doğrulanmadı. Ama bu korku yüzünden o ağaçlara yüzyıllardır kimse dokunmadı.",
+      "prompt": "A vast ancient tree standing alone on a bare Anatolian hill at sunset, the land around it empty",
+      "sicak": true
+    },
+    {
+      "text": "Sen olsan o ağaçtan bir dal koparır mıydın? Dosya hâlâ açık. Bunu dilek ağacına çaput bağlayan birine gönder.",
+      "prompt": "A single broken branch on the ground under a cloth-covered shrine tree at night, mist rising",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Anadolu'da yatırın ağacına balta vurulmaz. Vuranların başına gelenler hâlâ köylerde anlatılır. 🌳\n\nSen olsan o ağaçtan bir dal koparır mıydın?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#yatır",
+    "#dilekağacı",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

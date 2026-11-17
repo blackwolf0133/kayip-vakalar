@@ -1,0 +1,66 @@
+{
+  "id": "024",
+  "slug": "olu_evi",
+  "title": "Ölü Evi",
+  "seed": 92424,
+  "kanca_yazi": "Ölü evinde bütün sular neden dökülür?",
+  "scenes": [
+    {
+      "text": "Ölü evinde bütün kaplardaki sular neden dökülür? Komşular bile kendi sularını boşaltır.",
+      "prompt": "A woman seen from behind pouring water out of a copper jug into the dark garden of an Anatolian stone house at night, other houses with lamps lit along the lane",
+      "yer": "Anadolu, Türkiye · Ölüm gecesi",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Anadolu'da biri öldüğünde ev bir anda kurallarla dolar. Sivas'tan Şanlıurfa'ya kadar derlenmiş.",
+      "prompt": "A quiet Anatolian village at night, one house with all windows lit, neighbors seen from far away gathering silently at its door",
+      "sis": 0.25
+    },
+    {
+      "text": "Önce sular. Halk arasında inanılır ki Azrail kılıcını o evin suyunda yıkamış olabilir.",
+      "prompt": "Copper water vessels and clay jugs standing in a dark village kitchen, moonlight falling on still water, a faint ripple with no one there",
+      "sis": 0.35
+    },
+    {
+      "text": "Şanlıurfa'da anlatılana göre o suyu içen de ölebilir. Bu yüzden komşular kaplarını boşaltır.",
+      "prompt": "Water poured from clay jugs onto the stone street of an old Şanlıurfa neighborhood at night, warm lamp light from arched doorways",
+      "sicak": true
+    },
+    {
+      "text": "Sonra ölünün üstüne bıçak, makas ya da ağır bir taş konur. Söylenen sebep: Şişmesin diye.",
+      "prompt": "Close view of old iron scissors and a knife resting on a folded white cloth in lamplight, a dark room behind",
+      "sicak": true
+    },
+    {
+      "text": "Ölü yalnız bırakılmaz. Gece ölmüşse, akrabalar sabaha kadar uyumadan bekler.",
+      "prompt": "Relatives seen from behind sitting silently along the walls of a dim village room at night, a single oil lamp, prayer beads in a hand",
+      "sicak": true
+    },
+    {
+      "text": "Işık söndürülmez. Bazı yerlerde üç, bazı yerlerde kırk gün yanar. Ruh odasına döndüğünde orayı aydınlık bulsun diye.",
+      "prompt": "A small oil lamp burning alone on the windowsill of an empty village room at night, a folded quilt on the floor, faint mist",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Kanıtlanan şu: Bu âdetlerin hepsi folklor araştırmalarında kayıtlı. Demirin asıl işi bedenin şişmesini geciktirmekti.",
+      "prompt": "Old folklore notebooks and an oil lamp on a wooden table in a village house at night",
+      "sicak": true
+    },
+    {
+      "text": "Sen o gece ölünün başında sabaha kadar bekleyebilir miydin? Dosya hâlâ açık. Bunu köy âdetlerini bilen birine gönder.",
+      "prompt": "Dawn light slowly entering a quiet village room, the oil lamp still burning, an empty chair by the wall",
+      "sicak": true,
+      "sis": 0.25
+    }
+  ],
+  "caption": "Anadolu'da biri ölünce evdeki bütün sular dökülür, lamba sabaha kadar söndürülmez. 🕯️ Neden?\n\nSivas'tan Şanlıurfa'ya derlenen ölü evi âdetleri.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#ölüevi",
+    "#anadoluâdetleri",
+    "#korkuhikayeleri",
+    "#halkinanışları",
+    "#kayıpvakalar"
+  ]
+}

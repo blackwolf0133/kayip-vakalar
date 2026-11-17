@@ -1,0 +1,65 @@
+{
+  "id": "026",
+  "slug": "karakoncolos",
+  "title": "Karakoncolos",
+  "seed": 92626,
+  "kanca_yazi": "Zemheri gecesi adını çağıran kim?",
+  "scenes": [
+    {
+      "text": "Zemheri gecesi adını annenin sesiyle çağıran kim? Kapıyı açmadan önce iyi düşün.",
+      "prompt": "A wooden Black Sea village house buried in snow at night, a warm lit window, a tall dark hairy silhouette standing in the blizzard outside the gate",
+      "yer": "Trabzon, Türkiye · Zemheri",
+      "sis": 0.4
+    },
+    {
+      "text": "Doğu Karadeniz'de, Trakya'da, Balkanlarda kışın en karanlık günlerinde dolaştığına inanılır. Adı Karakoncolos.",
+      "prompt": "Snowy dark mountain forest above a Black Sea valley at night, a few lit houses below, heavy snowfall",
+      "sis": 0.35
+    },
+    {
+      "text": "Bazı yörelerde 24 Aralık'tan 20 Ocak'a kadar, bazılarında ocağın ilk on iki günü ortaya çıktığı anlatılır.",
+      "prompt": "An old village calendar and a burning oil lamp by a frosted window, snow piling outside in the night",
+      "sicak": true
+    },
+    {
+      "text": "Anlatılana göre uyuyanları bir yakınlarının sesiyle çağırır. Peşinden gidenler karda donar.",
+      "prompt": "A person seen from behind walking barefoot into a snowy forest at night following a faint distant shape, footprints behind",
+      "sis": 0.45
+    },
+    {
+      "text": "Yolunu kestiğinde sorar: Adın ne? Nereden geliyorsun? Nereye gidiyorsun?",
+      "prompt": "A lone traveler with a lantern stopped on a snowy mountain path at night, a huge shadow looming between the pine trees",
+      "sicak": true,
+      "sis": 0.4
+    },
+    {
+      "text": "Cevapta 'kara' kelimesi olmalı: Kara Mahmut, Karadağ'dan geliyorum. Rivayete göre yoksa seni çarpar.",
+      "prompt": "Close view of a frightened traveler's lantern on the snow, a giant clawed shadow falling across it",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Bu yüzden kapıya pancar asılır, taraklar saklanır. Sürmene'de kapının önüne kuymak bırakılır.",
+      "prompt": "A wooden house door at night with beets hanging beside it, a small bowl of food left on the snowy step, lamp light",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Adı Evliya Çelebi'nin Seyahatname'sinde de geçiyor. Var olduğuna dair kanıt yok; ama zemheri gecesi hâlâ anılıyor.",
+      "prompt": "An old open Ottoman manuscript beside a candle in a snowbound village room at night",
+      "sicak": true
+    },
+    {
+      "text": "Sen o gece adını çağıran sese cevap verir miydin? Dosya hâlâ açık. Bunu Karadenizli arkadaşına gönder.",
+      "prompt": "A snow-covered door seen from inside a dark house, a shadow moving past the frosted window, wind howling",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Zemheri gecesi biri adını annenin sesiyle çağırıyor. ❄️ Karadeniz'den Balkanlara anlatılan Karakoncolos.\n\nSen o sese cevap verir miydin?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#karakoncolos",
+    "#zemheri",
+    "#karadeniz",
+    "#anadolurivayetleri",
+    "#kayıpvakalar"
+  ]
+}

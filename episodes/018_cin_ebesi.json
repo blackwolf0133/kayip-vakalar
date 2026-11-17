@@ -1,0 +1,65 @@
+{
+  "id": "018",
+  "slug": "cin_ebesi",
+  "title": "Cinlerin Ebesi",
+  "seed": 91818,
+  "kanca_yazi": "Gece yarısı ebeyi kim çağırdı?",
+  "scenes": [
+    {
+      "text": "Gece yarısı kapıyı çalıp ebe isteyen kimdi? Köyün ebesi çantasını alıp karanlığa çıktı.",
+      "prompt": "A village midwife seen from behind holding an oil lantern and a cloth bag, stepping out of a stone house door into a dark snowy Anatolian village lane at midnight, a tall shadowy figure waiting at the gate",
+      "yer": "Erzurum, Türkiye · Anlatı",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Bu rivayet Erzurum'dan Diyarbakır'a, Mardin'e kadar halk anlatılarında derlenmiş.",
+      "prompt": "Wide view of a dark Eastern Anatolian mountain village of flat-roofed stone houses under a cold moon, smoke from chimneys, a single lantern moving along a path",
+      "sis": 0.25
+    },
+    {
+      "text": "Anlatılana göre ebeyi gece yarısı alıp mağaraya benzeyen bir yere götürürler.",
+      "prompt": "A lantern-lit narrow rocky path leading into the dark mouth of a cave on a snowy hillside at night, two figures seen from far behind, the second one only a tall shadow",
+      "sis": 0.4
+    },
+    {
+      "text": "İçeride ufacık bir kadın doğum yapmaktadır. Ebeye şöyle derler: Bizden sana zarar gelmez. Sen doğumu yaptır.",
+      "prompt": "Inside a dim cave lit by a few candles, a woolen bed on the stone floor, many small indistinct shadows gathered along the walls, faces never visible",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Ebe bebeği doğurtur. Ücret olarak çantasını soğan ve sarımsak kabuklarıyla doldururlar.",
+      "prompt": "Close view of an old cloth midwife bag on a cave floor overflowing with dry onion and garlic peels, candlelight, small shadowy hands at the edge of the frame",
+      "sicak": true
+    },
+    {
+      "text": "Eve dönen ebe kabukları besmelesiz bir köşeye atar. Sabah birkaç tanesi altın olmuştur, gerisi yok olmuştur.",
+      "prompt": "Dawn light through a small window of a village stone house, a few thin gold leaf-shaped coins glinting among scattered onion peels in a corner of the wooden floor",
+      "sicak": true
+    },
+    {
+      "text": "Halk arasında inanılır ki soğan ve sarımsak kabuğu cinlerin parasıdır. Yakılmaz, üstüne basılmaz.",
+      "prompt": "Dry onion peels drifting across a dark village courtyard at night in the wind, a faint lamp glow from a doorway, long shadows on the stone wall",
+      "sis": 0.3
+    },
+    {
+      "text": "Kanıtlanan şu: Bu efsane folklor araştırmacılarınca Anadolu'nun pek çok yerinde kayda geçirildi. Ama hiçbir anlatıda ebenin adı da, tarih de yok.",
+      "prompt": "An old open notebook with handwritten pages and a kerosene lamp on a wooden table in a village house at night, a snowy window behind",
+      "sicak": true
+    },
+    {
+      "text": "Sen olsan gece kapına gelen o adamla gider miydin? Dosya hâlâ açık. Bunu ebe ya da hemşire olan birine gönder.",
+      "prompt": "A wooden village door slightly open at midnight, snow outside, a tall dark silhouette standing just beyond the lantern light, no face visible",
+      "sis": 0.35
+    }
+  ],
+  "caption": "Gece yarısı köyün ebesinin kapısı çalındı. Kapıdaki, onu kimin doğumuna götürüyordu? 🕯️\n\nAnadolu'nun pek çok yerinde derlenen bir rivayet: cinlerin ebesi.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#cinlerinebesi",
+    "#anadolurivayetleri",
+    "#korkuhikayeleri",
+    "#cinhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

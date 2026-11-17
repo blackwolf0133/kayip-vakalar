@@ -1,0 +1,65 @@
+{
+  "id": "022",
+  "slug": "destur",
+  "title": "Destur",
+  "seed": 92222,
+  "kanca_yazi": "Gece kaynar su dökerken ne diyorsun?",
+  "scenes": [
+    {
+      "text": "Gece kaynar su dökerken ne diyorsun? Hiçbir şey demiyorsan nineler senin için korkardı.",
+      "prompt": "A woman seen from behind pouring a steaming copper pot of water onto the stone threshold of an Anatolian village house at night, an oil lamp in the doorway, dark garden beyond",
+      "yer": "Anadolu, Türkiye · Akşam ezanından sonra",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Anadolu'nun pek çok yerinde kural aynı: Hava karardıktan sonra dışarıya, deliğe sıcak su dökülmez.",
+      "prompt": "A dark village courtyard at night with an old stone drain hole, steam rising from it, moonlight on wet cobbles",
+      "sis": 0.35
+    },
+    {
+      "text": "Dökülecekse önce 'destur' denir. Yani izin istenir. Mardin Savur'da besmeleyle ya da destur diyerek dökülür.",
+      "prompt": "An old stone house courtyard in Mardin at night, warm lamp light, an older woman seen from behind holding a jug above a garden bed",
+      "sicak": true
+    },
+    {
+      "text": "Kimden izin? Halk arasında inanılır ki o deliklerin, eşiklerin sahipleri vardır.",
+      "prompt": "Low angle view of a dark threshold and drain at night, faint small shadows gathered in the corner, the house door glowing behind",
+      "sis": 0.4
+    },
+    {
+      "text": "Eskiden sokağa kirli su dökerken 'Destur ya ahd-i Süleyman' denirdi. Rivayete göre onlar bu adı anana dokunmayacaklarına söz vermişti.",
+      "prompt": "A narrow old Istanbul street of wooden houses at night, an upper window open with lamp light, water splashing onto the cobbles below",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Gaziantep'te, Nazilli'de, Kütahya'da kaynar su döküp çarpılanlar anlatılır.",
+      "prompt": "A lonely figure seen from behind frozen beside a steaming drain in a dark village yard, an overturned copper pot on the ground",
+      "sis": 0.35
+    },
+    {
+      "text": "Anlatılana göre çarpılanın ağzı eğrilir, dili tutulur. Kimi zaman da kamburu çıkar.",
+      "prompt": "A hunched silhouette sitting alone by a wood stove in a dim village room, back to the viewer, lamp flickering",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Eski İstanbul'da halk, inme ve yüz felcine 'cin çarpması' derdi. Adı cin, kendisi çoğu zaman bir hastalıktı.",
+      "prompt": "An old Ottoman-era physician's room at night with glass jars and herbs on shelves, a lamp on a wooden desk, rain on the window",
+      "sicak": true
+    },
+    {
+      "text": "Sen bu gece suyu dökmeden önce destur der misin? Dosya hâlâ açık. Bunu lavaboya kaynar su döken birine gönder.",
+      "prompt": "Steam rising from a kitchen sink drain in a dark old house at night, a single bulb, a shadow passing across the tiles",
+      "sis": 0.35
+    }
+  ],
+  "caption": "Gece eşikten kaynar su dökerken 'destur' der misin? 🕯️ Anadolu'nun en yaygın yasaklarından biri ve 'çarpılma' korkusu.\n\nSen bu gece der misin?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#destur",
+    "#cinçarpması",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

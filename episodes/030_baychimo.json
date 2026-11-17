@@ -1,12 +1,12 @@
 {
-  "id": "018",
+  "id": "030",
   "slug": "baychimo",
   "title": "Buzdaki Hayalet Gemi",
   "seed": 1571,
-  "kanca_yazi": "Mürettebatsız gemi 38 yıl boyunca görüldü.",
+  "kanca_yazi": "Mürettebatsız bu gemi 38 yıl nasıl dolaştı?",
   "scenes": [
     {
-      "text": "Kar fırtınası dindiğinde gemi yerinde yoktu. Ama sonraki 38 yıl boyunca, kimse kullanmadan, defalarca görüldü.",
+      "text": "Kimsenin kullanmadığı bir gemi 38 yıl buzlarda nasıl dolaştı? Fırtına dindiğinde yerinde yoktu.",
       "prompt": "An abandoned old steamship frozen into Arctic pack ice under a dark polar sky, snow blowing, no lights aboard, eerie and empty",
       "yer": "Point Barrow, Alaska, ABD · 1931",
       "sis": 0.3
@@ -52,7 +52,7 @@
       "sis": 0.4
     }
   ],
-  "caption": "Kar fırtınası dindiğinde gemi yoktu. Ama 38 yıl boyunca buzların arasında defalarca görüldü. 🚢\n\nSen olsan buzun ortasında beliren bu gemiye çıkar mıydın?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "caption": "Kimsenin kullanmadığı bir gemi 38 yıl boyunca buzların arasında görüldü. 🚢\n\nSen olsan buzun ortasında beliren bu gemiye çıkar mıydın?\n\nHer gün yeni dosyalar için takip et 🗂️",
   "hashtags": [
     "#hayaletgemi",
     "#baychimo",
