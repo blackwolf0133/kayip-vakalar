@@ -1,0 +1,65 @@
+{
+  "id": "040",
+  "slug": "sinop_cezaevi",
+  "title": "Denizin Ortasındaki Zindan",
+  "seed": 93109,
+  "kanca_yazi": "Bu hapishaneden kaçmak neden imkânsızdı?",
+  "scenes": [
+    {
+      "text": "Bu hapishaneden kaçmak neden imkânsız sayılırdı? Kapıyı geçsen bile önünde yalnızca deniz vardı.",
+      "prompt": "Massive old stone fortress walls rising straight from a stormy dark sea at night, a few barred windows faintly lit",
+      "yer": "Sinop, Türkiye · 1887",
+      "sis": 0.35
+    },
+    {
+      "text": "Üç yanı deniz. Duvarları bir kalenin içinde. Ona Anadolu'nun Alcatraz'ı derler.",
+      "prompt": "Aerial view of a peninsula fortress surrounded by the Black Sea on three sides under heavy grey clouds",
+      "sis": 0.3
+    },
+    {
+      "text": "Kale 16. yüzyıldan beri zindan olarak kullanıldı. 1887'de iç kalenin içinde bir cezaevi kuruldu.",
+      "prompt": "A dark stone dungeon corridor inside an old fortress, a single lantern hanging, iron doors along the wall",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "1939'da çocuklar için ayrı bir koğuş binası eklendi. Çocuklar da bu duvarların arkasında yattı.",
+      "prompt": "An empty two-storey stone prison building in a courtyard at dusk, small barred windows, no people",
+      "sis": 0.3
+    },
+    {
+      "text": "Sabahattin Ali burada yattı. Aldırma Gönül şiirini bu duvarların arasında yazdı. Refik Halit Karay da buradan geçti.",
+      "prompt": "A figure seen from behind sitting at a small window with iron bars, looking at the sea at night, a candle on the ledge",
+      "sicak": true
+    },
+    {
+      "text": "1997'de son mahkûmlar başka cezaevlerine taşındı. Koğuşlar boşaldı, kapılar kapandı.",
+      "prompt": "Long empty prison ward with rusted iron bunk frames and peeling walls, pale moonlight through barred windows",
+      "sis": 0.4
+    },
+    {
+      "text": "Yıllarca boş kaldı. Eylül 2025'te büyük bir restorasyonla müze olarak yeniden açıldı.",
+      "prompt": "Restored stone prison corridors softly lit at night, iron doors open, sea wind moving dust",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Kanıtlanan şu: Buradan bilinen, belgelenmiş bir kaçış yok. Hayalet anlatılarının hiçbiri de kayıtlı değil. Denizin ortasındaki taş duvarlar korkuya yetiyordu.",
+      "prompt": "Waves crashing against the base of old fortress walls at night, spray in the wind",
+      "sis": 0.35
+    },
+    {
+      "text": "Sen o koğuşta bir gece tek başına kalabilir miydin? Dosya hâlâ açık. Bunu Sinop'a gitmek isteyen birine gönder.",
+      "prompt": "A single open iron cell door in a dark stone corridor, faint moonlight on the floor",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Bu hapishaneden kaçmak neden imkânsız sayılırdı? ⛓️\n\nSinop Tarihi Cezaevi: zindan, çocuk koğuşu ve Aldırma Gönül'ün yazıldığı duvarlar.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#sinopcezaevi",
+    "#sinop",
+    "#terkedilmişyerler",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

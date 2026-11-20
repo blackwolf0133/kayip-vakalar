@@ -1,0 +1,63 @@
+{
+  "id": "041",
+  "slug": "somerton",
+  "title": "Tamam Şud",
+  "seed": 93111,
+  "kanca_yazi": "Cebindeki kâğıtta tek kelime: Bitti",
+  "scenes": [
+    {
+      "text": "Bir adamın gizli cebinden çıkan kâğıtta neden sadece 'bitti' yazıyordu?",
+      "prompt": "A small torn scrap of paper lying on dark sand at night under a streetlamp's glow, sea in the background",
+      "yer": "Somerton Plajı, Avustralya · 1948",
+      "sis": 0.2
+    },
+    {
+      "text": "1 Aralık 1948. Adelaide yakınında Somerton Plajı'nda, deniz duvarına yaslanmış hareketsiz bir adam bulunur. Bir akşam önce onu orada görenler olmuştu.",
+      "prompt": "A man in a suit seen from far away sitting against a beach sea wall at dawn, face not visible, calm sea",
+      "sis": 0.2
+    },
+    {
+      "text": "Üstünde kimlik yok. Kim olduğunu kimse bilmiyor. Ölüm sebebi bulunamıyor.",
+      "prompt": "An empty beach at dawn with footprints leading to a sea wall, gulls, grey light",
+      "sis": 0.2
+    },
+    {
+      "text": "Pantolonunun gizli cebinden küçük bir kâğıt çıkar: Tamam Şud. Farsça 'bitti' demek.",
+      "prompt": "Close view of a tiny rolled paper scrap being drawn from a hidden trouser pocket under a desk lamp",
+      "sicak": true
+    },
+    {
+      "text": "Kâğıt, Ömer Hayyam'ın Rubailer kitabının son sayfasından yırtılmıştı. Aylar sonra o kitap bulunur.",
+      "prompt": "An old book with its last page torn out lying on a car seat at night, streetlight through the window",
+      "sicak": true
+    },
+    {
+      "text": "Kitabın arkasında kurşun kalemle yazılmış beş satır harf vardır. Bu şifre bugün hâlâ çözülemedi. Yanında bir de telefon numarası.",
+      "prompt": "Faint pencil marks on the back cover of an old book under ultraviolet-like blue light, indistinct and unreadable",
+      "sis": 0.1
+    },
+    {
+      "text": "Numara bir hemşireye çıkar. Adamı tanımadığını söyler.",
+      "prompt": "A woman seen from behind standing in the doorway of a 1940s house at night, a detective in a hat waiting on the porch",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: 2022'de araştırmacılar DNA ile onun Carl Webb adlı bir mühendis olduğunu açıkladı. Polis bunu resmen doğrulamadı; nasıl öldüğü hâlâ bilinmiyor.",
+      "prompt": "A quiet old cemetery in Adelaide at dusk, a single grave with fresh flowers, no people",
+      "sis": 0.2
+    },
+    {
+      "text": "Sen o beş satırı çözebilir miydin? Dosya hâlâ açık. Bunu şifre çözmeyi seven birine gönder.",
+      "prompt": "The sea at night seen from an empty beach, waves washing over sand, a lone streetlamp",
+      "sis": 0.3
+    }
+  ],
+  "caption": "Gizli cepteki kâğıtta tek kelime vardı: Bitti. 📜\n\nSomerton Adamı: 1948'den beri çözülemeyen şifre ve 2022'de gelen isim.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#somertonadamı",
+    "#tamamshud",
+    "#çözülemeyenvakalar",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

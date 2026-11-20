@@ -1,0 +1,67 @@
+{
+  "id": "026",
+  "slug": "cinli_degirmen",
+  "title": "Cinli Değirmen",
+  "seed": 93103,
+  "kanca_yazi": "Değirmen neden sen girince durdu?",
+  "scenes": [
+    {
+      "text": "Sen içeri girince değirmen neden durdu? Değirmenci orada; ama ayakları ters.",
+      "prompt": "Interior of an old stone watermill at night lit by a single oil lamp, the millstone still, a dark figure standing in the shadows seen only from the knees down",
+      "yer": "Azaklı, Rize, Türkiye · Anlatı",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Rize'nin Azaklı köyünde derlenen bir anlatı. Bir kadın, köyün Mahmut'un Değirmeni dediği yere girer.",
+      "prompt": "An old stone watermill beside a rushing stream in a misty green Black Sea valley at dusk",
+      "sis": 0.35
+    },
+    {
+      "text": "Girer girmez değirmen durur. Su akıyor ama taş dönmüyor.",
+      "prompt": "A millstone standing completely still inside a dark mill while water rushes outside the small window, dust floating in lamplight",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Sonra değirmenciye bakar. Adamın ayakları ters. 'Anladım, bu cindir' der, besmele çeker ve çıkar.",
+      "prompt": "A woman seen from behind stepping out of a mill doorway into the night, behind her a vague shadow inside, no face visible",
+      "sis": 0.4
+    },
+    {
+      "text": "Halk arasında değirmen, cinlerin en sevdiği yerlerden biridir. Ağrı'dan Konya'ya, Giresun'dan Kütahya'ya anlatılır.",
+      "prompt": "Many abandoned stone watermills along a river valley in Anatolia at night under a crescent moon",
+      "sis": 0.4
+    },
+    {
+      "text": "Konya Meram'da anlatılana göre cinler gece değirmenin artıklarını yemeye çıkar.",
+      "prompt": "Spilled flour on the floor of a dark mill, tiny shadows at the edge of the lamplight, the door ajar to the night",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Oranın bekçisi bir gece yolda bir oğlak bulur. Kucağına alır. Oğlak her adımda ağırlaşır, bacakları uzar.",
+      "prompt": "A man seen from behind carrying a small goat on a dark path by a stream at night, his shadow unnaturally long, mist around",
+      "sis": 0.45
+    },
+    {
+      "text": "Kanıtlanan şu: Bu anlatılar köylülerden derlenip folklor dergilerinde yayımlandı. Ters ayaklı değirmenciyi gören, yalnızca anlatanın kendisi.",
+      "prompt": "Old folklore journals and handwritten notes on a wooden table by an oil lamp in a village house",
+      "sicak": true
+    },
+    {
+      "text": "Sen gece tek başına o değirmene girer miydin? Dosya hâlâ açık. Bunu köyünde eski bir değirmen olan birine gönder.",
+      "prompt": "A dark watermill door half open at night, faint lamplight inside, the stream glittering under the moon",
+      "sicak": true,
+      "sis": 0.45
+    }
+  ],
+  "caption": "Değirmen neden sen içeri girince durur? 🌾\n\nRize'den Konya'ya, köylülerden derlenen değirmen ve cin anlatıları.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#cinlideğirmen",
+    "#cinler",
+    "#anadolurivayetleri",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

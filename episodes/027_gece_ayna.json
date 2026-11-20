@@ -1,0 +1,65 @@
+{
+  "id": "027",
+  "slug": "gece_ayna",
+  "title": "Gece Aynası",
+  "seed": 93104,
+  "kanca_yazi": "Gece aynaya neden bakılmaz?",
+  "scenes": [
+    {
+      "text": "Gece aynaya neden bakılmaz? Ve biri öldüğünde o evdeki bütün aynalar neden örtülür?",
+      "prompt": "An old mirror on the wall of a dark Anatolian village room at night, a figure seen from behind reflected only as a vague dark shape, candle light",
+      "yer": "Sivas, Türkiye · Gece",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Anadolu'da yasak eskidir: Gece aynaya bakılmaz.",
+      "prompt": "A cloth draped over a tall mirror in a dim stone house corridor, moonlight through a small window",
+      "sis": 0.3
+    },
+    {
+      "text": "Sivas'ta derlenen inanışa göre gece aynaya bakanın bahtı kararır. Van'da genç kızların bahtının bağlanacağı söylenir.",
+      "prompt": "A young woman seen from behind standing before a small mirror in a candlelit village room, her reflection hidden in shadow",
+      "sicak": true,
+      "sis": 0.25
+    },
+    {
+      "text": "Ama aynanın en çok korkulan hâli, ölü evindeki hâlidir.",
+      "prompt": "A quiet village house at night with all windows lit, neighbors seen from far away gathering at the door",
+      "sis": 0.3
+    },
+    {
+      "text": "Muğla'nın Türkmen köylerinde biri öldüğünde evdeki aynalar ters çevrilir ya da üstüne bir örtü çekilir.",
+      "prompt": "Hands seen from behind turning a framed mirror to face the wall in a dim room lit by an oil lamp",
+      "sicak": true
+    },
+    {
+      "text": "Neden? Köylüler açıklamaz. Halkbilimciler aynanın hayat ile ölüm arasında bir geçit gibi görüldüğünü yazar.",
+      "prompt": "A dark mirror reflecting a long empty corridor that seems deeper than the room itself, mist inside the reflection",
+      "sis": 0.45
+    },
+    {
+      "text": "Haymana'da ayna can çekişenin ağzına tutulur. Buğulanmazsa nefes bitmiştir.",
+      "prompt": "A small hand mirror lying on a white embroidered pillow by an oil lamp in a dark village room",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Bu âdetler Sivas'tan Muğla'ya folklor çalışmalarında kayıtlı. Aynada bir şey gördüğünü belgeleyen yok; korku, aynanın kendisinde.",
+      "prompt": "Several covered mirrors in an empty old house at dawn, pale light through dusty curtains",
+      "sis": 0.25
+    },
+    {
+      "text": "Sen bu gece ışıklar kapalıyken aynaya bakabilir misin? Dosya hâlâ açık. Bunu yatağı aynanın karşısında olan birine gönder.",
+      "prompt": "A bedroom at night with a bed facing a tall mirror, the mirror showing only darkness",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Gece aynaya neden bakılmaz? 🪞\n\nSivas'tan Muğla'ya: aynayla ilgili yasaklar ve ölü evinde aynaların örtülme âdeti.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#ayna",
+    "#batılinançlar",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

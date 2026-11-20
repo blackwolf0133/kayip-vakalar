@@ -1,0 +1,64 @@
+{
+  "id": "025",
+  "slug": "gece_camasir",
+  "title": "İpteki Çamaşır",
+  "seed": 93102,
+  "kanca_yazi": "Bebeğin çamaşırı gece neden dışarıda kalmaz?",
+  "scenes": [
+    {
+      "text": "Bebeğin çamaşırı gece neden dışarıda bırakılmaz? Ezandan önce herkes ipe koşar.",
+      "prompt": "Small white baby clothes hanging on a clothesline in an Anatolian village yard at dusk, a crescent-topped minaret silhouetted against a red sky",
+      "yer": "Uzundere, Erzurum, Türkiye · Akşam",
+      "sis": 0.25
+    },
+    {
+      "text": "Erzurum Uzundere'de kural açık: Lohusanın ve bebeğin çamaşırları kırk gün boyunca ezandan önce içeri alınır.",
+      "prompt": "A woman seen from behind hurriedly taking baby clothes off a line in a stone village yard as dusk falls, mountains behind",
+      "sis": 0.2
+    },
+    {
+      "text": "Halk arasında inanılır ki geç kalırsan o çamaşırlara kötü ruhlar dokunur.",
+      "prompt": "A single tiny white shirt left swaying on a clothesline in a dark yard at night, mist creeping across the ground, a faint shadow beside it",
+      "sis": 0.45
+    },
+    {
+      "text": "Konya Ilgın'da da aynı uyarı var: Kırkı çıkmamış çocuğun elbisesi güneş batmadan içeri alınır.",
+      "prompt": "Sunset over a flat Central Anatolian village with mud brick houses, clotheslines being emptied, long shadows",
+      "sis": 0.2
+    },
+    {
+      "text": "Ordu'da anlatılana göre çamaşır dışarıda kalırsa çocuğu cin çarpar. Safranbolu'da ise ikindiden önce toplanır; kırk basmasın diye.",
+      "prompt": "A wooden cradle in a dim room lit by an oil lamp, a window behind it showing a dark empty clothesline",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Samsun'un bir köyünde ise gece dışarıda kalan elbiseyi ay görür; bebek solar.",
+      "prompt": "A full moon shining over a dark Black Sea village, one small garment glowing pale on a clothesline under the moonlight",
+      "sis": 0.35
+    },
+    {
+      "text": "Neden bebek? Çünkü halk inancında ilk kırk gün, anne ve bebeğin en korunmasız olduğu zamandır.",
+      "prompt": "A mother seen from behind sitting beside a cradle in a candlelit village room, a heavy wooden door shut tight",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Bu kural Ordu'dan Erzurum'a folklor çalışmalarında kayıtlı. Çamaşıra dokunan bir şey görülmedi; ama kural kuşaktan kuşağa geçti.",
+      "prompt": "Folded baby clothes on a wooden chest inside a warm lit village house at night",
+      "sicak": true
+    },
+    {
+      "text": "Sen bu akşam ipteki çamaşırı unutur muydun? Dosya hâlâ açık. Bunu yeni anne olan birine gönder.",
+      "prompt": "An empty clothesline in a dark village yard at night with one tiny shirt still hanging, mist and a crescent moon",
+      "sis": 0.45
+    }
+  ],
+  "caption": "Akşam ezanından önce bebeğin çamaşırı neden içeri alınır? 🧺\n\nErzurum'dan Konya'ya, Ordu'dan Samsun'a derlenmiş bir kural ve arkasındaki korku.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#kırkbasması",
+    "#lohusa",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

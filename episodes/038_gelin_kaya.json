@@ -1,0 +1,63 @@
+{
+  "id": "038",
+  "slug": "gelin_kaya",
+  "title": "Gelin Kayası",
+  "seed": 93108,
+  "kanca_yazi": "Bir gelin neden 'Beni taş et' dedi?",
+  "scenes": [
+    {
+      "text": "Bir gelin neden 'Beni taş et' diye dua eder? Yozgat'ta o duanın kabul olduğuna inanılır.",
+      "prompt": "Rock formations on a lonely Anatolian hill at dusk shaped like a bridal procession with a veiled figure, storm clouds above",
+      "yer": "Yozgat, Türkiye · Efsane",
+      "sis": 0.3
+    },
+    {
+      "text": "Yozgat'ın 8 kilometre dışında, Boğazkale yolunda Gelin Kayası durur.",
+      "prompt": "A dirt road winding through bare steppe hills toward strange standing rocks at sunset",
+      "sis": 0.2
+    },
+    {
+      "text": "Anlatılana göre bir düğün alayı yolda eşkıyaya yakalanır. Gelinle damat dua eder: Ya taş et, ya kuş et.",
+      "prompt": "A bridal procession on horseback seen from far away on a hill road at dusk, dark riders approaching from the ridge, dust in the air",
+      "sis": 0.3
+    },
+    {
+      "text": "Gelin, eşkıyalar ve hayvanlar taşa döner. Damat kuş olup uçar. Yanında Deve Kayası durur.",
+      "prompt": "A cluster of grey rocks resembling a camel and riders frozen on a hillside, a single bird flying away into a red sky",
+      "sis": 0.25
+    },
+    {
+      "text": "Giresun'daki Gelin Kayası'nda ise sevmediği adama verilen gelin at sırtında dua eder: Beni taş et.",
+      "prompt": "Two stacked rocks balanced on a steep green Black Sea mountain slope in fog, one resembling a veiled head",
+      "sis": 0.45
+    },
+    {
+      "text": "Taşlardan birinde bir yüz seçilir. Köylüler o yüzü gelinin yüzü sayar.",
+      "prompt": "Close view of a weathered rock in mist whose cracks faintly resemble a face, rain dripping",
+      "sis": 0.4
+    },
+    {
+      "text": "Halkbilimcilere göre bu efsanelerde dönüşüm hep bir duadan ya da bedduadan gelir.",
+      "prompt": "An empty hillside road at night with rock silhouettes like people standing still, moonlight",
+      "sis": 0.35
+    },
+    {
+      "text": "Kanıtlanan şu: Kayalar gerçek. Giresun'dakini rüzgâr ve su aşındırdı; taşlar üst üste dengede duruyor. Taşa dönen gelinin kaydı yok.",
+      "prompt": "Wind and rain eroding tall rock pillars in a valley, grey sky, no people",
+      "sis": 0.3
+    },
+    {
+      "text": "Sen olsan taş olmayı mı seçerdin, kuş olmayı mı? Dosya hâlâ açık. Bunu düğünü yaklaşan arkadaşına gönder.",
+      "prompt": "A lone bird circling above a veiled rock figure on a hill at twilight",
+      "sis": 0.3
+    }
+  ],
+  "caption": "Bir gelin neden 'Beni taş et' diye dua eder? 🪨\n\nYozgat ve Giresun'daki Gelin Kayaları ve arkalarındaki efsaneler.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#gelinkayası",
+    "#yozgat",
+    "#anadoluefsaneleri",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

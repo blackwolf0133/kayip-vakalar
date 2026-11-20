@@ -1,0 +1,64 @@
+{
+  "id": "029",
+  "slug": "baykus",
+  "title": "Damdaki Baykuş",
+  "seed": 93105,
+  "kanca_yazi": "Damında baykuş öten evden ne çıkar?",
+  "scenes": [
+    {
+      "text": "Evin damında baykuş öterse o evden ne çıkar? Köydeki herkes cevabı bilir.",
+      "prompt": "An owl perched on the flat earthen roof of an Anatolian village house at night, one window lit below, full moon",
+      "yer": "Haymana, Ankara, Türkiye · Gece",
+      "sis": 0.3
+    },
+    {
+      "text": "Anadolu'nun dört bir yanında aynı inanış: Evin damında ya da yakınında baykuş öterse, o evden biri ölecek.",
+      "prompt": "Silhouette of an owl on a bare tree above a dark village, a lone lamp burning in one house",
+      "sis": 0.35
+    },
+    {
+      "text": "Haymana'da 'O evden ölü çıkar' denir. Muğla'da, Tekirdağ'da, Malatya Arguvan'da, Erzurum'da da derlenmiş.",
+      "prompt": "Wide view of a steppe village at night under a huge moon, an owl flying low over the rooftops",
+      "sis": 0.3
+    },
+    {
+      "text": "Köpekler de haber verir. Gece bir köpek uzun uzun ulursa, halk arasında cenaze çıkacağına inanılır.",
+      "prompt": "A dog seen from behind howling at the moon on a hill above a dark village, mist in the valley",
+      "sis": 0.4
+    },
+    {
+      "text": "Bu yüzden Arguvan'da ve Bayburt'ta köpek uluyunca evdeki ayakkabılar ters çevrilir. Cenaze olmasın diye.",
+      "prompt": "A row of worn shoes turned upside down at the doorway of a village house, lamp light from inside",
+      "sicak": true
+    },
+    {
+      "text": "Muğla'da baykuş görüldüğü yerde taşlanır. Tahtacılar ocaktan yanan bir odun alıp ona fırlatır.",
+      "prompt": "A figure seen from behind throwing a burning stick toward a tree at night, sparks in the dark, an owl taking flight",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Kimse o sesi duymak istemez.",
+      "prompt": "A dark bedroom in a village house, a person seen from behind sitting up in bed listening, the window showing a moonlit roof",
+      "sis": 0.3
+    },
+    {
+      "text": "Kanıtlanan şu: Bu inanış onlarca folklor çalışmasında kayıtlı. TDV İslam Ansiklopedisi ise baykuş ötmesini de köpek ulumasını da temelsiz inançlar arasında sayar.",
+      "prompt": "An owl sitting quietly on a stone wall at dawn, a peaceful village behind it, a crescent-topped minaret in the distance",
+      "sis": 0.2
+    },
+    {
+      "text": "Sen bu gece damında bir baykuş ötse ayakkabını ters çevirir miydin? Dosya hâlâ açık. Bunu köydeki büyüğüne gönder.",
+      "prompt": "An owl's silhouette against the full moon above a village rooftop at night",
+      "sis": 0.35
+    }
+  ],
+  "caption": "Damında baykuş öten evden ne çıkar? 🦉\n\nAnadolu'da baykuş ve köpek uluması: ölüm habercisi sayılan iki ses ve ayakkabıyı ters çevirme âdeti.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#baykuş",
+    "#batılinançlar",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

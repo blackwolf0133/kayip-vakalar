@@ -1,0 +1,66 @@
+{
+  "id": "033",
+  "slug": "mezardaki_isik",
+  "title": "Mezardaki Işık",
+  "seed": 93107,
+  "kanca_yazi": "Bu mezara gece neden ışık iniyor?",
+  "scenes": [
+    {
+      "text": "Bu mezarın üstüne gece neden ışık iner? Köylüler o ışığı görünce mezara dokunmaz olur.",
+      "prompt": "A single old grave on a hilltop at night with a soft column of pale light descending from the clouds onto it, villagers watching far away with lanterns",
+      "yer": "Altınyayla, Sivas, Türkiye · Kadir Gecesi",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Bir mezara cuma ya da kandil gecelerinde ışık indiği anlatılırsa, orası artık sıradan bir mezar değildir.",
+      "prompt": "An old village cemetery on a holy night, oil lamps flickering in house windows far below, mist between stones",
+      "sicak": true,
+      "sis": 0.4
+    },
+    {
+      "text": "Halk arasında inanılır ki o ışık bir evliyayı gösterir. Etrafı çevrilir, adaklar adanır.",
+      "prompt": "A low stone wall built around a lone grave on a hill, colorful cloth strips tied to a nearby tree, dawn light",
+      "sis": 0.25
+    },
+    {
+      "text": "Sivas Altınyayla'da Arap Dede'ye Kadir Gecesi ışık indiği anlatılır.",
+      "prompt": "Pale light glowing above a lonely grave on a steppe hill under stars, wind in the grass",
+      "sis": 0.3
+    },
+    {
+      "text": "Derlenen anlatıya göre oradan yol açan greyder bozuldu, memur hastalandı. Mezarın etrafı çevrildi.",
+      "prompt": "A road grader standing broken down at night beside a fenced hilltop grave, headlights dim, mist around",
+      "sis": 0.35
+    },
+    {
+      "text": "Muş Bulanık'ta da Şeyh Nizameddin'in mezarından cuma geceleri kandil gibi bir ışık çıktığı anlatılır.",
+      "prompt": "A small domed tomb in an eastern Anatolian village at night with a faint lamp-like glow above it",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Ama ters köşe de var. Marmaris'te yıllarca türbe sanılıp adak adanan bir mezar, 2.300 yıllık antik bir anıt mezar çıktı.",
+      "prompt": "An ancient stone pyramid-shaped tomb among pine trees near the Aegean coast at dusk, cloth strips tied nearby",
+      "sis": 0.2
+    },
+    {
+      "text": "Kanıtlanan şu: Bu anlatılar Sivas'tan İzmir'e folklor çalışmalarında kayıtlı. Işığı kaydeden bir belge yok.",
+      "prompt": "Old folklore books and a notebook on a table by a lamp, a window showing a hill with a faint light",
+      "sicak": true
+    },
+    {
+      "text": "Sen gece mezarlıkta bir ışık görsen yaklaşır mıydın? Dosya hâlâ açık. Bunu türbe ziyaretine giden birine gönder.",
+      "prompt": "A figure seen from behind standing at a cemetery gate at night looking at a distant pale light among the graves",
+      "sis": 0.45
+    }
+  ],
+  "caption": "Bu mezarın üstüne gece neden ışık iner? ✨\n\nAnadolu'da yatırların nasıl doğduğu ve Marmaris'teki şaşırtıcı ters köşe.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#yatır",
+    "#türbe",
+    "#anadolurivayetleri",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

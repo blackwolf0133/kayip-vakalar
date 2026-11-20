@@ -1,0 +1,67 @@
+{
+  "id": "024",
+  "slug": "obur",
+  "title": "Obur",
+  "seed": 93101,
+  "kanca_yazi": "Mezarına neden kazık çakarlardı?",
+  "scenes": [
+    {
+      "text": "Bir ölünün mezarına neden kazık çakarlardı? Çünkü geceleri döndüğüne inanılırdı.",
+      "prompt": "An old Black Sea hillside cemetery at night in fog, a single wooden stake standing in a fresh earth grave, crescent moon behind clouds",
+      "yer": "Rize, Türkiye · Anlatı",
+      "sis": 0.45
+    },
+    {
+      "text": "Türk halk inanışında adı Obur. Mezarından kalkıp dönen ölü. Kimi yerde ona hortlak da denir.",
+      "prompt": "A tall dark silhouette standing far away between leaning old gravestones in thick mist, no face visible, moonlight",
+      "sis": 0.5
+    },
+    {
+      "text": "Anlatılana göre ölü toprağa verilmeden önce üstünden bir kedi atlarsa obur olabilir. Bu yüzden kediler ölüden uzak tutulurdu.",
+      "prompt": "A black cat crouching in the dark doorway of an Anatolian village house where oil lamps burn inside, seen from outside at night",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Karadeniz'de anlatılana göre obur geceleri bacadan girer ve en çok bebeklere musallat olur.",
+      "prompt": "A wooden Black Sea village house on a misty slope at night, smoke rising from the chimney, a faint dark shape on the roof",
+      "sis": 0.45
+    },
+    {
+      "text": "Evler korunurdu. Çatıya dikenler konur, kırk gün boyunca kandil söndürülmezdi.",
+      "prompt": "Thorny branches laid on a wooden roof at night, a small oil lamp glowing in the window below",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Rize'de mezara meşe ağacından bir kazık çakılır ve 'Obur, yerine git' denirdi.",
+      "prompt": "Villagers seen from behind with lanterns standing around a grave on a foggy hillside at night, one holding an oak stake",
+      "sicak": true,
+      "sis": 0.4
+    },
+    {
+      "text": "Bu korku saraya kadar uzandı. Şeyhülislam Ebussuud Efendi'ye mezarından kalkan ölüler soruldu; fetvaları kayıtlarda duruyor.",
+      "prompt": "Old Ottoman manuscripts and an inkwell on a low wooden desk lit by a candle in a dark stone room",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Obur inanışı folklor çalışmalarında ve eski fetva kayıtlarında var. Ama mezarından kalkan bir ölü hiç belgelenmedi.",
+      "prompt": "A quiet cemetery at dawn, mist lifting between gravestones, a crescent-topped minaret far in the distance",
+      "sis": 0.3
+    },
+    {
+      "text": "Sen o gece kandili söndürmeye cesaret eder miydin? Dosya hâlâ açık. Bunu gece mezarlık yolundan geçen birine gönder.",
+      "prompt": "A lone figure seen from behind walking past a dark cemetery wall on a village road at night holding a lantern",
+      "sicak": true,
+      "sis": 0.4
+    }
+  ],
+  "caption": "Bir ölünün mezarına neden kazık çakarlardı? 🕯️\n\nAnadolu ve Karadeniz'de anlatılan Obur inanışı: kandil söndürülmez, kediler ölüden uzak tutulur.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#obur",
+    "#hortlak",
+    "#karadeniz",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

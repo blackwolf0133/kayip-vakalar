@@ -1,0 +1,66 @@
+{
+  "id": "031",
+  "slug": "aksam_ezani",
+  "title": "Akşam Ezanı",
+  "seed": 93106,
+  "kanca_yazi": "Akşam ezanında annen seni neden içeri çağırırdı?",
+  "scenes": [
+    {
+      "text": "Akşam ezanı okununca annen seni neden içeri çağırırdı? 'Şeytanlar sokağa çıkar' derdi.",
+      "prompt": "Children seen from behind running home along a narrow stone street of an old Mardin neighborhood at dusk, a crescent-topped minaret against a red sky",
+      "yer": "Mardin, Türkiye · Akşam ezanı",
+      "sis": 0.2
+    },
+    {
+      "text": "Mardin'de çocuklar akşam ezanına kadar dışarıda oynar. Sonra o uyarı gelir: Akşam şeytanlar çıkar sokağa.",
+      "prompt": "An empty stone alley in Mardin as darkness falls, a ball left on the steps, lamps lighting in the windows",
+      "sicak": true,
+      "sis": 0.25
+    },
+    {
+      "text": "Halk arasında inanılır ki cinler akşamla birlikte dolaşmaya başlar ve sabah ezanıyla çekilir.",
+      "prompt": "Long shadows stretching across a deserted village square at twilight, mist rising, no people",
+      "sis": 0.4
+    },
+    {
+      "text": "Anlatılan cin düğünleri de hep hava karardıktan sonra başlar ve sabah ezanına kadar sürer.",
+      "prompt": "Faint warm lights moving among dark trees outside a village at night, blurred dancing shapes far away",
+      "sicak": true,
+      "sis": 0.45
+    },
+    {
+      "text": "O saatten sonra yapılmayan şeyler de var. Dışarıya kirli ya da sıcak su dökülmez.",
+      "prompt": "A copper bowl of steaming water set down unpoured at a dark doorstep, the street beyond empty",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Soğan ve sarımsak kabuğu atılmaz. Aksaray'da, Samsun'da, Erzurum'da buna şeytan parası denir.",
+      "prompt": "Onion skins on a wooden kitchen table beside an oil lamp, a dark window behind",
+      "sicak": true
+    },
+    {
+      "text": "Pek çok aile bunu dinî bir öğüt olarak da bilir.",
+      "prompt": "A heavy wooden door of a stone house being closed from inside at dusk, the last light on the threshold",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Bu kural Mardin'den Erzurum'a folklor çalışmalarında kayıtlı. Karanlıkta çocuğu evde toplamak belki de köyün en eski önlemiydi.",
+      "prompt": "A village at night with every door shut and every window lit, a crescent moon above",
+      "sis": 0.25
+    },
+    {
+      "text": "Sen ezan okunurken hâlâ dışarıda olsan, arkana bakmadan eve koşar mıydın? Dosya hâlâ açık. Bunu akşam hep geç kalan arkadaşına gönder.",
+      "prompt": "A child seen from behind standing alone at the end of a dark village street at dusk, a long shadow behind",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Akşam ezanında annen seni neden içeri çağırırdı? 🌙\n\nMardin'den Erzurum'a, akşam vaktiyle ilgili Anadolu inanışları.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#akşamezanı",
+    "#cinler",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

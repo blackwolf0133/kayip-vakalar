@@ -1,0 +1,63 @@
+{
+  "id": "037",
+  "slug": "lady_be_good",
+  "title": "Çöldeki Uçak",
+  "seed": 93110,
+  "kanca_yazi": "Çölde 15 yıl bekleyen uçak",
+  "scenes": [
+    {
+      "text": "Bir uçak çölün ortasında 15 yıl nasıl sağlam kaldı? Peki içindeki dokuz kişi nerede?",
+      "prompt": "A Second World War bomber plane lying broken but intact on endless sand dunes under a pale sky, no people",
+      "yer": "Libya Çölü · 1943",
+      "sis": 0.15
+    },
+    {
+      "text": "4 Nisan 1943. Amerikan B-24 bombardıman uçağı Lady Be Good, ilk görevi için Napoli'ye uçar.",
+      "prompt": "A four-engine bomber flying over a dark sea at dusk seen from far away",
+      "sis": 0.2
+    },
+    {
+      "text": "Dönüşte yolunu kaybeder, üssünü geçip çöle uçar. Yakıt biter; dokuz kişi paraşütle atlar.",
+      "prompt": "Parachutes drifting down over a moonlit desert at night, the bomber disappearing into darkness",
+      "sis": 0.2
+    },
+    {
+      "text": "1958'de petrol arayan İngiliz jeologlar havadan çölde bir enkaz görür. Uçak neredeyse sağlamdır.",
+      "prompt": "View from a small plane window of a bomber wreck far below on vast sand dunes, harsh sunlight",
+      "sis": 0.1
+    },
+    {
+      "text": "Mürettebat yoktur. 1960'ta sekizinin son durağı bulunur. Neredeyse susuz, 8 gün yürümüşlerdi.",
+      "prompt": "Faint footprints leading across an endless desert at sunset, small scattered objects half buried in the sand",
+      "sis": 0.15
+    },
+    {
+      "text": "Yaklaşık 125 kilometre yürüdüler. Yanlarından günlükler çıktı. Dokuzuncu kişi hiç bulunamadı.",
+      "prompt": "A small worn notebook lying open on sand beside a canteen, wind blowing sand across the pages",
+      "sis": 0.15
+    },
+    {
+      "text": "Anlatılana göre uçaktan sökülen parçalar başka uçaklara takıldı ve o uçaklar da kaza yaptı. Lanetli uçak dediler.",
+      "prompt": "An old transport plane flying low over a stormy sea at night, one engine trailing smoke",
+      "sis": 0.3
+    },
+    {
+      "text": "Kanıtlanan şu: O kazalar gerçek; lanet ise efsane. Ekip, üssünü geçtiğini fark etmeden çöle uçtu.",
+      "prompt": "Wind sweeping sand over the bomber wreck under a starry night sky",
+      "sis": 0.2
+    },
+    {
+      "text": "Sen o çölde yürür müydün, yoksa uçağın başında mı beklerdin? Dosya hâlâ açık. Bunu yön duygusu olmayan arkadaşına gönder.",
+      "prompt": "Silhouettes of a few men seen from behind walking north across dunes at dawn, long shadows",
+      "sis": 0.2
+    }
+  ],
+  "caption": "Bir uçak çölde 15 yıl nasıl sağlam kaldı? ✈️\n\nLady Be Good: yolunu kaybeden bombardıman uçağı, kumdaki günlükler ve bir lanet efsanesi.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#ladybegood",
+    "#çöl",
+    "#gizemliolaylar",
+    "#çözülemeyenvakalar",
+    "#kayıpvakalar"
+  ]
+}
