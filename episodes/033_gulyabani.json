@@ -1,0 +1,65 @@
+{
+  "id": "033",
+  "slug": "gulyabani",
+  "title": "Gulyabani",
+  "seed": 93202,
+  "kanca_yazi": "Yanındaki yolcunun ayaklarına baktın mı?",
+  "scenes": [
+    {
+      "text": "Gece ıssız yolda yanına katılan yolcunun ayaklarına baktın mı? Eski anlatılara göre bakmalısın.",
+      "prompt": "A lonely dirt road through barren hills at night under a thin moon, two figures walking side by side seen from far behind, one of them strangely tall",
+      "yer": "Anadolu, Türkiye · Rivayet",
+      "sis": 0.35
+    },
+    {
+      "text": "Adı gulyabani. Kökü Arapçadaki 'gûl' kelimesi: insanı ansızın yakalayıp helak eden şey.",
+      "prompt": "A vast dark desert under stars, a single dim shadow standing on a far dune, wind lifting sand",
+      "sis": 0.3
+    },
+    {
+      "text": "Câhiliye Araplarının inancına göre gûl, geceleyin ıssız çölde yalnız yürüyenlere görünürdü.",
+      "prompt": "A lone traveler with a camel seen from behind crossing moonlit desert ruins at night",
+      "sis": 0.25
+    },
+    {
+      "text": "Anlatılana göre her kılığa, her renge girebilirdi. Bir yolcu, bir kadın, tanıdık biri…",
+      "prompt": "Silhouettes of different travelers on a foggy night road, their shapes blurred and shifting, lantern light",
+      "sicak": true,
+      "sis": 0.45
+    },
+    {
+      "text": "Ama değiştiremediği tek şey ayaklarıydı. Eski kitaplara göre ayakları eşek toynağına benzerdi.",
+      "prompt": "Strange hoof-like footprints in the dust of a moonlit village road beside human footprints, no figure visible",
+      "sis": 0.3
+    },
+    {
+      "text": "Rivayete göre kılıçla bir kez vurulursa ölür, ikinci kez vurulursa yeniden dirilirdi.",
+      "prompt": "An old curved sword lying on a rock beside a dark path at night, mist moving around it",
+      "sis": 0.4
+    },
+    {
+      "text": "Bu inanış Anadolu'ya da geldi. Gulyabani, ıssız yerlerde yolcuyu yolundan çıkaran gece varlığı oldu.",
+      "prompt": "An Anatolian village with a few lit windows seen from a dark hillside road at night, a shadow beside the road",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Kanıtlanan şu: İslam âlimlerinin çoğu gûlün gerçek olmadığını, Câhiliye'den kalma asılsız bir inanç olduğunu söyledi. Ama korkusu dilimizde kaldı.",
+      "prompt": "Old manuscript pages and an oil lamp on a wooden table in a dark room, no readable text",
+      "sicak": true
+    },
+    {
+      "text": "Sen olsan gece yolda yanındakinin ayağına bakar mıydın? Dosya hâlâ açık. Bunu gece yalnız yürüyen birine gönder.",
+      "prompt": "An empty night road disappearing into fog, a single set of footprints that suddenly changes shape",
+      "sis": 0.45
+    }
+  ],
+  "caption": "Gece ıssız yolda yanındaki yolcunun ayaklarına baktın mı? 👣 Gulyabani inanışı Arap çölünden Anadolu köylerine kadar geldi.\n\nSen olsan bakar mıydın?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#gulyabani",
+    "#cinhikayeleri",
+    "#gecehikayeleri",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

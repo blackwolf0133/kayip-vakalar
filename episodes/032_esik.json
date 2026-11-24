@@ -1,0 +1,66 @@
+{
+  "id": "032",
+  "slug": "esik",
+  "title": "Eşik",
+  "seed": 93201,
+  "kanca_yazi": "Eşikte oturana neden kızarlardı?",
+  "scenes": [
+    {
+      "text": "Kapının eşiğine oturunca annen seni neden hemen kaldırırdı? Çünkü orada yalnız olmadığına inanılırdı.",
+      "prompt": "A child seen from behind sitting on the worn stone threshold of an old Anatolian village house at dusk, the dark doorway behind, a faint shadow inside",
+      "yer": "Sivas, Türkiye · Anlatı",
+      "sis": 0.25
+    },
+    {
+      "text": "Sivas'ta derlenen bir inanışa göre kapı eşiği, cinlerin en çok bulunduğu yerdir.",
+      "prompt": "Close view of an old wooden door threshold in a stone house at night, thin mist creeping over it, oil lamp light from inside",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Bu yüzden gece eşiğe basılmaz, üstünden atlanır. Eşikten geçerken besmele çekilir.",
+      "prompt": "A woman seen from behind stepping over a doorway threshold into a dark village house holding a lantern, night",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Van Gölü çevresinde 'gece gezenler' denen cinlerin eşiğin altında yaşadığına inanılır.",
+      "prompt": "Dark gap beneath an old stone threshold, faint movement of shadows in the darkness, lake village at night",
+      "sis": 0.45
+    },
+    {
+      "text": "Bitlis'te anlatılana göre karanlıkta eşikte duran kişiye cin musallat olur.",
+      "prompt": "A lone figure standing in a doorway of a mountain village house at night, seen from far behind, long shadow on the snow",
+      "sis": 0.35
+    },
+    {
+      "text": "Omzunda kazma ya da kürekle eşikten geçilmez. Sivas'ta denir ki o evden ölü çıkar.",
+      "prompt": "A pickaxe and shovel leaning against the doorframe of a dim stone house at night, candle light inside",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Halk arasında, eşikte oturan kızın kısmetinin kapandığına, o evin rızkının kesildiğine de inanılır.",
+      "prompt": "An empty doorway of an old Anatolian house with an open door swinging in the wind at night, no people",
+      "sis": 0.4
+    },
+    {
+      "text": "Kanıtlanan şu: Bu inanç çok eski. Eski Türkler eşiği kutsal saydı; yabancının eşiğe basması hakaret sayılırdı. Eşik, evin içiyle dışarının sınırıydı.",
+      "prompt": "Ancient nomadic felt tent door with a wooden threshold on a windy steppe at dusk, seen from a distance",
+      "sicak": true
+    },
+    {
+      "text": "Sen bu akşam eşikte oturur muydun? Dosya hâlâ açık. Bunu kapı önünde oturmayı seven birine gönder.",
+      "prompt": "A worn stone threshold glowing faintly under moonlight in front of a dark open doorway, mist rising",
+      "sis": 0.45
+    }
+  ],
+  "caption": "Kapı eşiğine oturunca neden hemen kaldırırlardı? 🚪 Sivas'tan Van'a, eşiğin cinlerin yeri olduğuna inanılır.\n\nSen bu akşam eşikte oturur muydun?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#eşik",
+    "#cinhikayeleri",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

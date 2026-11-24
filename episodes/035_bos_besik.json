@@ -1,0 +1,66 @@
+{
+  "id": "035",
+  "slug": "bos_besik",
+  "title": "Boş Beşik",
+  "seed": 93203,
+  "kanca_yazi": "Boş beşiği neden kimse sallamaz?",
+  "scenes": [
+    {
+      "text": "Boş beşiği neden kimse sallamaz? Sallayanı görünce büyükler hemen elini tutar.",
+      "prompt": "An empty wooden cradle rocking slightly by itself in a dim village room lit by an oil lamp, no one near it",
+      "yer": "Uşak, Türkiye · Anlatı",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Uşak'ta derlenen bir inanışa göre boş beşik durduk yere sallanırsa, içine yatacak bebeğin başı döner, ağrır.",
+      "prompt": "A carved Anatolian wooden cradle covered with a lace cloth in the corner of a stone room at night",
+      "sicak": true,
+      "sis": 0.25
+    },
+    {
+      "text": "Orta Asya'da da aynı yasak var. Özbeklerde boş beşiği sallamanın uğursuzluk getirdiğine inanılır.",
+      "prompt": "A traditional painted cradle inside a dark felt yurt on the steppe, wind moving the door flap",
+      "sis": 0.3
+    },
+    {
+      "text": "Bebek ise hiç yalnız bırakılmaz. Yalnız kalacaksa yastığının altına bıçak konur.",
+      "prompt": "A small knife placed under a baby pillow in a dim room, seen from above, no baby visible, candle light",
+      "sicak": true
+    },
+    {
+      "text": "1927'de Eskişehir'den derlenen bir nota göre çocuk odada yalnız kalınca, cinler sıkıştırmasın diye salıncağın üstüne süpürge konurdu.",
+      "prompt": "An old straw broom laid across a hanging cloth cradle in a dark village room, moonlight through a small window",
+      "sis": 0.3
+    },
+    {
+      "text": "Tokat'tan derlenen anlatıya göre Al karısı çocuğu yalnız bulursa ona zarar verirdi.",
+      "prompt": "A tall dark silhouette barely visible in a doorway behind an empty cradle, night, only shadow",
+      "sis": 0.45
+    },
+    {
+      "text": "Erzincan'da Al basmasın diye beşiğe babanın gömleği konur, beşiğin üstüne Kur'an bırakılır.",
+      "prompt": "A man's folded shirt inside a wooden cradle and a closed book wrapped in green cloth hanging above it, lamp light",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Bunlar halkbilimcilerin köylerden derlediği inanışlar. Bebek ölümlerinin çok olduğu çağlarda aileler korkularını bu kurallarla yönetti.",
+      "prompt": "A village of stone houses at dawn, smoke from chimneys, a mother seen from far behind carrying a bundled baby",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Sen hiç boş bir beşiğin kendi kendine sallandığını gördün mü? Dosya hâlâ açık. Bunu beşiği hâlâ evde duran birine gönder.",
+      "prompt": "An empty cradle in a dark room, slight motion blur as it sways, curtain moving in the draft",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Boş beşiği neden kimse sallamaz? 👶 Uşak'tan Özbekistan'a aynı yasak, aynı korku.\n\nSen hiç boş bir beşiğin sallandığını gördün mü?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#boşbeşik",
+    "#alkarısı",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

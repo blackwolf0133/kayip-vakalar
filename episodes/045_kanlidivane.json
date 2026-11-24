@@ -1,0 +1,65 @@
+{
+  "id": "045",
+  "slug": "kanlidivane",
+  "title": "Kanlıdivane",
+  "seed": 93206,
+  "kanca_yazi": "Bu çukura neden 'kanlı' dediler?",
+  "scenes": [
+    {
+      "text": "Halk bu dev çukura neden 'kanlı' adını verdi? Anlatılana göre içine atılan geri çıkmazdı.",
+      "prompt": "A huge oval sinkhole with sheer reddish rock walls surrounded by ancient stone ruins at dusk, deep shadow inside",
+      "yer": "Erdemli, Mersin, Türkiye · MÖ 3. yüzyıl",
+      "sis": 0.3
+    },
+    {
+      "text": "Mersin Erdemli'de 142 metre uzunluğunda, 50 metre derinliğinde bir obruk var. Kenarında antik bir şehir.",
+      "prompt": "Ruined stone walls and broken arches lining the rim of a deep chasm, golden evening light",
+      "sicak": true
+    },
+    {
+      "text": "Antik adı Kanytellis. Milattan önce 3. yüzyıldan milattan sonra 7. yüzyıla kadar burada insanlar yaşadı.",
+      "prompt": "An ancient settlement of stone houses beside a great pit, small figures seen from far away, smoke rising",
+      "sis": 0.2
+    },
+    {
+      "text": "Kenarında bir kule yükseliyor. Yazıtına göre rahip-kral Teukros onu Zeus'a adadı.",
+      "prompt": "A tall square ancient stone tower at the edge of a sinkhole under a stormy sky, no readable inscription",
+      "sis": 0.3
+    },
+    {
+      "text": "Halk rivayetine göre suçlular cezalandırılmak için bu çukura atılırdı.",
+      "prompt": "Hooded figures seen from far behind at the rim of a dark pit at night, torches flickering",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Bir başka anlatıya göre çukurun dibinde onları vahşi hayvanlar beklerdi.",
+      "prompt": "Glowing eyes in deep darkness at the bottom of a rocky chasm, mist, no visible animal shape",
+      "sis": 0.45
+    },
+    {
+      "text": "Ama adın kaynağı tartışmalı. 'Kanlı'nın kayaların kızıl renginden, 'divane'nin Türkmenlerin toplandığı 'divan'dan geldiği de söylenir.",
+      "prompt": "Red-tinted cliff walls of the sinkhole lit by sunset, nomad tents far away on the plateau",
+      "sicak": true
+    },
+    {
+      "text": "Kanıtlanan şu: Suçluların atıldığını gösteren bir belge bilinmiyor; bu bir halk anlatısı. Kesin olan, insanların yüzyıllarca bu uçurumun kenarında yaşaması.",
+      "prompt": "Quiet ancient ruins around the chasm at dawn, mist inside the pit, birds circling",
+      "sis": 0.3
+    },
+    {
+      "text": "Sen bu çukurun kenarında bir gece geçirir miydin? Dosya hâlâ açık. Bunu antik kentleri gezmeyi seven birine gönder.",
+      "prompt": "Moonlight on the rim of a deep pit surrounded by ruins, a single lantern left on a stone",
+      "sicak": true,
+      "sis": 0.4
+    }
+  ],
+  "caption": "Bu çukura neden 'Kanlı' dediler? 🕳️ Erdemli'deki Kanlıdivane obruğu hakkında halk arasında hâlâ aynı rivayet anlatılır.\n\nSen kenarında bir gece geçirir miydin?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#kanlıdivane",
+    "#mersin",
+    "#lanetliyerler",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

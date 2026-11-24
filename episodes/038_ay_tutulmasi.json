@@ -1,0 +1,64 @@
+{
+  "id": "038",
+  "slug": "ay_tutulmasi",
+  "title": "Ay Tutulduğu Gece",
+  "seed": 93204,
+  "kanca_yazi": "Ay kararınca köy neden göğe ateş açardı?",
+  "scenes": [
+    {
+      "text": "Gökte ay kararınca bütün köy neden göğe silah sıkardı?",
+      "prompt": "A dark red eclipsed moon above an Anatolian town of stone houses at night, faint flashes of gunfire in the sky",
+      "yer": "Maraş, Türkiye · 1936",
+      "sis": 0.2
+    },
+    {
+      "text": "8 Ocak 1936 akşamı ay tamamen tutuldu. Maraş'ta birkaç evden karanlık göğe silah atıldı.",
+      "prompt": "Rooftops of an old Turkish town at night under a blood-red moon, small figures seen from far behind on the roofs",
+      "sis": 0.25
+    },
+    {
+      "text": "Minarelerden salâ okundu. Cumhurbaşkanlığı arşivindeki bir yazıya göre bunu yapanlar adliyeye verildi.",
+      "prompt": "A crescent-topped minaret silhouetted against a dark red moon, lamp light at the balcony",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Çünkü Anadolu'da inanılırdı ki ayı gökte tutan bir şey vardı.",
+      "prompt": "The moon slowly covered by a dark shadow over a silent village, clouds glowing red",
+      "sis": 0.35
+    },
+    {
+      "text": "Kırşehir'de ayı cinlerin bağladığına inanılırdı. Silah atılmaz, ezan okunmazsa onu bırakmazlarmış.",
+      "prompt": "A vast dark shape suggested in the clouds around a red moon over the steppe, no clear form, only shadow",
+      "sis": 0.4
+    },
+    {
+      "text": "Ankara'da ayı perilerin sardığı anlatılırdı. Başka yerlerde onu bir ejderhanın yuttuğuna inanılırdı.",
+      "prompt": "Swirling dark clouds like a coiled serpent shadow swallowing the moon over hills, no detailed creature",
+      "sis": 0.4
+    },
+    {
+      "text": "Bu yüzden teneke, davul, bakır kap çalınırdı. Malatya'da tutulma uzun sürerse hatim indirilirdi.",
+      "prompt": "Villagers seen from behind beating copper pots and drums in a dark village square under an eclipsed moon, lantern light",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Kanıtlanan şu: Ay tutulması, Dünya'nın gölgesinin aya düşmesidir. Gürültüyle karanlığı kovma âdeti ise Altaylardan Anadolu'ya uzanan çok eski bir inanç.",
+      "prompt": "The earth's curved shadow crossing the full moon over quiet mountains, stars visible"
+    },
+    {
+      "text": "Sen o gece orada olsan tenekeyi çalar mıydın? Dosya hâlâ açık. Bunu ay tutulmasını hiç kaçırmayan birine gönder.",
+      "prompt": "A dented tin can and a stick lying on a stone wall under a dark red moon, village dark behind",
+      "sis": 0.3
+    }
+  ],
+  "caption": "Ay kararınca köyler neden göğe silah sıkardı? 🌑 1936'da Maraş'ta bu yüzden adliyelik olanlar bile var.\n\nSen o gece tenekeyi çalar mıydın?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#aytutulması",
+    "#cinhikayeleri",
+    "#anadoluinanışları",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

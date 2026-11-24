@@ -1,0 +1,64 @@
+{
+  "id": "039",
+  "slug": "cehennem_obrugu",
+  "title": "Cehennem Obruğu",
+  "seed": 93205,
+  "kanca_yazi": "Bu çukurun dibine neden kimse inemiyor?",
+  "scenes": [
+    {
+      "text": "Bu çukurun adı neden Cehennem? Ve dibine neden hiçbir yoldan inilemiyor?",
+      "prompt": "A gigantic dark sinkhole opening in rocky Mediterranean scrubland at dusk, its depths in total darkness, mist rising from inside",
+      "yer": "Silifke, Mersin, Türkiye · Antik çağ",
+      "sis": 0.35
+    },
+    {
+      "text": "Mersin Silifke'de, Narlıkuyu'nun hemen üstünde iki dev obruk var: Cennet ve Cehennem.",
+      "prompt": "Aerial view of two huge sinkholes side by side in green limestone hills near a blue sea, late afternoon light",
+      "sicak": true
+    },
+    {
+      "text": "Cennet'e yaklaşık 300 basamakla inilir. Dipte, yerin altından akan bir suyun sesi duyulur.",
+      "prompt": "A long rough stone staircase descending into a deep green chasm, a cave mouth glowing at the bottom, tiny figure from behind",
+      "sis": 0.25
+    },
+    {
+      "text": "Cehennem ise 128 metre derinlikte. Ağzının kenarları içe doğru kıvrılıyor; dibine ulaşmanın yolu yok.",
+      "prompt": "Looking down the sheer overhanging walls of a narrow pitch-black sinkhole, ropes of mist curling upward",
+      "sis": 0.45
+    },
+    {
+      "text": "Antik çağda bu çöküntüler kutsal sayıldı.",
+      "prompt": "Ancient stone ruins at the edge of a dark sinkhole at twilight, oil lamps flickering on the rocks",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Mitolojiye göre Zeus, canavar Typhon'u yıldırımlarla yendi ve onu bu çukura kapattı.",
+      "prompt": "Lightning striking into a dark abyss on a stormy night, an enormous shadow suggested in the clouds, no clear figure",
+      "sis": 0.3
+    },
+    {
+      "text": "Anlatılana göre dipten gelen uğultu, yerin altında kıpırdanan Typhon'un iniltisi.",
+      "prompt": "Darkness at the bottom of a deep sinkhole, faint wisps of mist moving like breath, night",
+      "sis": 0.5
+    },
+    {
+      "text": "Kanıtlanan şu: Obruk, yer altı suyunun kireç taşını binlerce yılda eritmesi ve tavanın çökmesiyle oluştu. O ses, suyun ve rüzgârın derinlikte yankılanması olabilir.",
+      "prompt": "Cross-section feel view of limestone cave walls with water trickling into darkness, cold blue light",
+      "sis": 0.2
+    },
+    {
+      "text": "Sen o çukurun kenarında gece tek başına durabilir miydin? Dosya hâlâ açık. Bunu yükseklikten korkan birine gönder.",
+      "prompt": "A lone figure seen from far behind standing at the edge of a huge black sinkhole under a moonlit sky",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Bu çukurun adı neden Cehennem? 🕳️ Silifke'deki 128 metrelik obruğun dibine bugün bile inilemiyor.\n\nSen kenarında gece durabilir miydin?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#cehennemobruğu",
+    "#silifke",
+    "#lanetliyerler",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

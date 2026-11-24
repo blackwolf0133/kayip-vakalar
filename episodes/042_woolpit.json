@@ -1,0 +1,64 @@
+{
+  "id": "042",
+  "slug": "woolpit",
+  "title": "Yeşil Çocuklar",
+  "seed": 93207,
+  "kanca_yazi": "Bu iki çocuğun teni neden yeşildi?",
+  "scenes": [
+    {
+      "text": "Bu iki çocuğun teni neden yemyeşildi? Ve kimsenin bilmediği hangi dili konuşuyorlardı?",
+      "prompt": "Two small children seen from behind standing at the edge of a deep pit in a golden harvest field at dusk, their skin faintly greenish",
+      "yer": "Woolpit, İngiltere · 12. yüzyıl",
+      "sis": 0.2
+    },
+    {
+      "text": "Kral Stephen döneminde, İngiltere'nin Woolpit köyünde köylüler, kurt çukurlarından birinin yanında bir kız ve erkek kardeş buldu.",
+      "prompt": "Medieval English villagers seen from far behind gathering in a wheat field around two small figures, late afternoon",
+      "sicak": true
+    },
+    {
+      "text": "Tuhaf giysiler giymişlerdi. Konuştukları dili kimse anlamıyordu.",
+      "prompt": "Two children in strange old clothes in a dim medieval cottage, seen from behind, villagers watching from the shadows, firelight",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Günlerce hiçbir şey yemediler. Sonunda yalnızca çiğ bakla yediler.",
+      "prompt": "A pile of fresh broad bean pods on a rough wooden table in candlelight",
+      "sicak": true
+    },
+    {
+      "text": "Erkek çocuk hastalandı ve kısa süre sonra öldü. Kız zamanla yeşil rengini kaybetti, dili öğrendi.",
+      "prompt": "A small girl seen from behind standing alone at a cottage window looking at a misty misty field at dawn",
+      "sis": 0.3
+    },
+    {
+      "text": "Anlattığına göre güneşin hiç doğmadığı, alacakaranlık bir ülkeden geliyorlardı. Adı Aziz Martin Toprağı'ydı.",
+      "prompt": "A strange twilight landscape where everything is green and dim, no sun in the sky, distant bright land across a river",
+      "sis": 0.4
+    },
+    {
+      "text": "Hayvan otlatırken büyük bir ses duymuşlar ve kendilerini o çukurun yanında bulmuşlar.",
+      "prompt": "Cattle at the mouth of a dark cave in twilight, two small silhouettes following them inside",
+      "sis": 0.35
+    },
+    {
+      "text": "Kanıtlanan şu: Olayı iki ortaçağ tarihçisi yazdı. En yaygın açıklama: yolunu kaybetmiş, kötü beslenmeden benzi solmuş Flaman göçmen çocuklar.",
+      "prompt": "A medieval scribe's desk with quill and blank parchment by candlelight, no readable text",
+      "sicak": true
+    },
+    {
+      "text": "Peki güneşin hiç doğmadığı o ülke neresiydi? Dosya hâlâ açık. Bunu kardeşine gönder.",
+      "prompt": "An empty wolf pit at the edge of a harvested field under a dim green twilight sky",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Bu iki çocuğun teni neden yeşildi? 🌿 12. yüzyılda İngiltere'de bir tarladan çıkan kardeşlerin anlattığı ülke hâlâ bilinmiyor.\n\nSence nereden gelmişlerdi?\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#yeşilçocuklar",
+    "#woolpit",
+    "#çözülemeyengizemler",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}
