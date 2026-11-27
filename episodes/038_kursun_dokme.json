@@ -1,0 +1,70 @@
+{
+  "id": "038",
+  "slug": "kursun_dokme",
+  "title": "Kurşun Dökme",
+  "seed": 93303,
+  "kanca_yazi": "Başının üstünde eriyen kurşun ne söylüyor?",
+  "scenes": [
+    {
+      "text": "Başının üstünde kurşun suya dökülürken o patlama sesi neyi haber verir? Anadolu'da buna nazar derler, bazen daha fazlası.",
+      "prompt": "Molten lead being poured from a small iron ladle into a copper bowl of water held above a covered head, steam bursting, dim room lit by a hearth",
+      "yer": "Anadolu, Türkiye · Ocak başı",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Kurşunu çoğu zaman 'ocaklı' bir kadın döker. Bu güç anadan kıza el vermeyle geçer.",
+      "prompt": "An old woman seen from behind kneeling by a stone hearth in a village house, melting lead in a ladle over the fire",
+      "sicak": true,
+      "sis": 0.15
+    },
+    {
+      "text": "Başına bir örtü örtülür. Eriyen kurşun, başının üstünde tutulan soğuk su dolu kaba dökülür.",
+      "prompt": "A person seen from behind sitting on the floor with a white cloth over their head, a copper bowl held above, oil lamp light",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Diyarbakır'da kurşun suda çok patlarsa nazarın çok şiddetli olduğuna inanılır.",
+      "prompt": "Close view of a copper bowl where a splash of water and steam explodes, sparks reflected, darkness around",
+      "sicak": true,
+      "sis": 0.25
+    },
+    {
+      "text": "Sonra şekle bakılır. Göz çıkarsa nazar vardır. Mersin'de tabut şekli en kötü işaret sayılır.",
+      "prompt": "A strange twisted piece of grey lead lying in dark water in a copper bowl, shaped faintly like an eye, candle light",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "İstanbul'da cin ve perilerden korunmak için de kurşun dökülürdü.",
+      "prompt": "An old wooden Istanbul house at night, a single lit window, a shadow moving in a dark garden beside it",
+      "sis": 0.4
+    },
+    {
+      "text": "Kalan su dört yol ağzına dökülür. Döken kişi arkasına bakmadan döner.",
+      "prompt": "A woman seen from behind pouring water from a bowl at a dark crossroads outside a village at night, fog, no faces",
+      "sis": 0.4
+    },
+    {
+      "text": "Kanıtlanan şu: Bu gelenek Siirt'ten Tekirdağ'a kayıtlı. Bazı halkbilimciler kökünü İslam öncesi ateş kültüne bağlar.",
+      "prompt": "A hearth fire burning in a dark stone room, an iron ladle resting on the embers, smoke rising",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Sen hiç başının üstünde kurşun döktürdün mü? Dosya hâlâ açık. Bunu annesi kurşun döken arkadaşına gönder.",
+      "prompt": "A copper bowl of dark water with a piece of lead in it left on a windowsill at night, crescent moon outside",
+      "sicak": true,
+      "sis": 0.25
+    }
+  ],
+  "caption": "Başının üstünde eriyen kurşun ne söylüyor? 🫗\n\nAnadolu'da kurşun dökme: ocaklı kadınlar, patlama sesi, şekiller ve dört yol ağzına dökülen su.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#kurşundökme",
+    "#nazar",
+    "#anadoluinanışları",
+    "#halkinanışları",
+    "#kayıpvakalar"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "041",
+  "slug": "cin_carpmasi",
+  "title": "Cin Çarpması",
+  "seed": 93305,
+  "kanca_yazi": "Cin çarpan insana ne olur?",
+  "scenes": [
+    {
+      "text": "Cin çarpan insana ne olur? Anadolu'da bunu gece bir anda ağzı eğrilenleri anlatarak söylerlerdi.",
+      "prompt": "A dark Anatolian village stream at night, a lone figure seen from behind about to step across the water, mist and moonlight",
+      "yer": "Tomarza, Kayseri, Türkiye · Gece",
+      "sis": 0.4
+    },
+    {
+      "text": "Tomarza'da inanılır ki gece akan suyun üstünden besmelesiz atlayanı ya da kuytu yere yaklaşanı cin çarpar.",
+      "prompt": "A narrow stream running between dark rocks at night, reeds moving, faint shadows among the trees",
+      "sis": 0.45
+    },
+    {
+      "text": "İstanbul'da da gece sokağa pis su dökülmez, destur demeden ışıksız çıkılmazdı.",
+      "prompt": "An old wooden Istanbul street at night, a door ajar with a lantern on the doorstep, an empty dark lane",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Halk arasında inanılır ki cinler kızdırılmadıkça dokunmaz. Ama canı yakılanın çarptığı anlatılır.",
+      "prompt": "Steam rising from a dark drain in a stone courtyard at night, shadows gathering in the corner",
+      "sis": 0.4
+    },
+    {
+      "text": "Anlatılan belirtiler hep benzer: Ağız eğrilir, dil tutulur, kol çolak olur.",
+      "prompt": "A dim room lit by an oil lamp, a figure seen from behind sitting stiffly on a cushion, a woman's silhouette watching from the door",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Derlenen anlatılarda kırk gün bayılanlar, günlerce dilsiz kalanlar da var.",
+      "prompt": "An empty bed with a woolen quilt in a dark stone room, a single candle burning low, rain on the window",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Çarpılanı 'nefesi keskin' denen bir hocaya ya da ocaklı birine götürürlerdi. Kurşun dökülürdü.",
+      "prompt": "Two figures seen from behind walking at dawn toward a small village house with a crescent-topped minaret in the distance",
+      "sis": 0.3
+    },
+    {
+      "text": "Kanıtlanan şu: Reşad Ekrem Koçu'ya göre 'cin çarpığı' sözü bilhassa yüz felci için kullanılırdı. Sebebi bilinmeyen ani felç belki de böyle açıklanıyordu.",
+      "prompt": "Old books and an oil lamp on a wooden desk in a dark room, rain outside",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Sen gece akan bir suyun üstünden atlarken bir an durur muydun? Dosya hâlâ açık. Bunu gece dışarı su döken arkadaşına gönder.",
+      "prompt": "A dark stream under moonlight with stepping stones, no one on them, mist rising",
+      "sis": 0.45
+    }
+  ],
+  "caption": "Cin çarpan insana ne olur? 🌑\n\nTomarza'dan İstanbul'a 'cin çarpması' inanışı: çarpılmaya yol açtığı sanılan davranışlar ve kayıtlardaki karşılığı.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#cinçarpması",
+    "#cinler",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "040",
+  "slug": "ev_yilani",
+  "title": "Evin Yılanı",
+  "seed": 93304,
+  "kanca_yazi": "Evdeki yılanı öldürürsen eve ne olur?",
+  "scenes": [
+    {
+      "text": "Evinin duvarında bir yılan yaşıyorsa onu neden öldürmezsin? Çünkü Anadolu'da derler ki o evin asıl sahibidir.",
+      "prompt": "A dark snake slipping into a crack of an old stone wall inside a village house at dusk, oil lamp light on the wall",
+      "yer": "Rize, Türkiye · Anlatı",
+      "sicak": true,
+      "sis": 0.2
+    },
+    {
+      "text": "Halkbilimci Turan Demir'in derlemesine göre Rize'de her evin koruyucu bir yılanı olduğuna inanılır.",
+      "prompt": "An old wooden Black Sea village house on a steep green slope in fog, rain, a dim light inside",
+      "sis": 0.45
+    },
+    {
+      "text": "Harput'ta ona 'ev meleği' denir. Kars'ta evin zemininde yaşar ve ev halkına dokunmaz.",
+      "prompt": "A dim earthen floor of an old house at night, a snake's shadow moving under a wooden beam, a sleeping family far in the background as silhouettes",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Rize'de bu yılan için ahır duvarındaki bir taşın içine süt bırakılır.",
+      "prompt": "A small stone bowl of milk set in a niche of a dark barn wall at night, faint lantern light, hay on the floor",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Anlatılana göre ev yılanını incitmek, eve hastalık hatta ölüm getirir.",
+      "prompt": "A shovel leaning against a stone wall in a dark house, a snake coiled in the shadows nearby, tense atmosphere",
+      "sis": 0.35
+    },
+    {
+      "text": "Balıkesir'de anlatılır ki evde kötülük olursa yılan sık sık görünüp ev halkını korkutur. Dinlemezlerse ailenin kökü kesilir.",
+      "prompt": "An abandoned village house with a cold empty hearth, dust and cobwebs, a snake skin lying on the threshold",
+      "sis": 0.35
+    },
+    {
+      "text": "Cin inanışlarında yılan, cinlerin girdiği kılıklardan biri olarak da sayılır.",
+      "prompt": "A snake's long shadow on a whitewashed wall by candle light, the snake itself not visible",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Kanıtlanan şu: Bu inanış Kars'tan Rize'ye, Azerbaycan'dan Kazan'a kayıtlı. Fare avlayan yılan belki de köyün ambarını gerçekten koruyordu.",
+      "prompt": "A wooden granary on stilts in a misty Black Sea village, a snake on the stone base, morning fog",
+      "sis": 0.35
+    },
+    {
+      "text": "Sen evinde bir yılan görsen ona dokunur muydun? Dosya hâlâ açık. Bunu köy evinde büyüyen arkadaşına gönder.",
+      "prompt": "A village house door slightly open at dusk, a snake resting on the stone threshold, warm light inside",
+      "sicak": true,
+      "sis": 0.25
+    }
+  ],
+  "caption": "Evdeki yılanı öldürürsen eve ne olur? 🐍\n\nAnadolu'da 'ev yılanı' inanışı: evin koruyucusu sayılan yılan, bırakılan süt ve anlatılan uğursuzluklar.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#evyılanı",
+    "#yılan",
+    "#anadoluinanışları",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

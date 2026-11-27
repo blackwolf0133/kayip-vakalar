@@ -1,0 +1,66 @@
+{
+  "id": "043",
+  "slug": "kara_kedi",
+  "title": "Gece Kara Kedi",
+  "seed": 93302,
+  "kanca_yazi": "Gece karşına çıkan kedi gerçekten kedi mi?",
+  "scenes": [
+    {
+      "text": "Gece karşına çıkan kara kedi gerçekten kedi mi? Anadolu'da buna kimse emin olamazdı.",
+      "prompt": "A black cat with glowing eyes sitting in the middle of a narrow stone alley at night, an old Anatolian town, fog and a single lantern",
+      "yer": "Harput, Elazığ, Türkiye · Gece",
+      "sis": 0.35
+    },
+    {
+      "text": "Halkbilimci Ayşe Duvarcı'nın derlemesine göre cinlerin kedi, köpek, yılan kılığına girdiğine inanılır.",
+      "prompt": "Shadows of a cat, a dog and a snake cast on a whitewashed wall by moonlight, no animals visible, an empty village courtyard",
+      "sis": 0.35
+    },
+    {
+      "text": "Harput'ta Kamos denen bir varlık anlatılır. Zaman zaman kara kedi şeklinde görülür.",
+      "prompt": "Ruined stone walls of an old hilltop castle town at night, a small dark animal silhouette on top of the wall, moon behind clouds",
+      "sis": 0.4
+    },
+    {
+      "text": "Anlatılana göre Kamos'un bastığı kişi çarpılır: Ağzı eğrilir, dili tutulur.",
+      "prompt": "A dim room of an old stone house at night, a figure sleeping under a quilt seen from the doorway, a dark shape crouched on the window sill",
+      "sicak": true,
+      "sis": 0.4
+    },
+    {
+      "text": "Bursa'da gece yalnız yürürken karşına aniden kara kedi çıkarsa 'Uzak dur benden, korkmadım senden' denirdi.",
+      "prompt": "A lone man seen from behind on a cobbled Ottoman street at night, wooden houses, a black cat crossing in front of him under a street lamp",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Rumeli'de ölü evinde kedi uzak tutulurdu. İnanışa göre ölünün üstünden kedi atlarsa ölü hortlardı.",
+      "prompt": "A dark room with a single candle on a low table, a closed wooden door, a cat's silhouette waiting outside the window in the rain",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Halk arasında inanılır ki cinler kızdırılmadıkça dokunmaz. Kedi öldürene ise yedi köprü yaptırması söylenirdi.",
+      "prompt": "An old stone bridge over a dark river at night, mist on the water, a cat sitting alone on the bridge rail",
+      "sis": 0.4
+    },
+    {
+      "text": "Kanıtlanan şu: Bu inanışlar Harput'tan Rumeli'ye folklor derlemelerinde kayıtlı. Karanlıkta parlayan gözler ve sessiz adımlar korkuyu kolayca büyütür.",
+      "prompt": "Close view of two glowing cat eyes in total darkness under a wooden staircase of an old house",
+      "sis": 0.3
+    },
+    {
+      "text": "Sen gece karşına çıkan kara kediye ne derdin? Dosya hâlâ açık. Bunu kara kediden korkan arkadaşına gönder.",
+      "prompt": "A black cat seen from behind sitting on a doorstep, looking out at a dark misty village street at night",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Gece karşına çıkan kara kedi gerçekten kedi mi? 🐈‍⬛\n\nHarput'tan Rumeli'ye, kedi kılığındaki cin inanışları ve derlemelerde geçen kurallar.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#karakedi",
+    "#cinler",
+    "#anadoluinanışları",
+    "#korkuhikayeleri",
+    "#kayıpvakalar"
+  ]
+}

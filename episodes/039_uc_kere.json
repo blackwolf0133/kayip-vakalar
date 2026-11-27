@@ -1,0 +1,66 @@
+{
+  "id": "039",
+  "slug": "uc_kere",
+  "title": "Üç Kere Çağır",
+  "seed": 93301,
+  "kanca_yazi": "İlk çağrıya cevap verme. Üçüncüyü bekle.",
+  "scenes": [
+    {
+      "text": "Gece karanlıkta biri adını çağırırsa neden hemen cevap vermezsin? Anadolu'da kural belli: Üç kere çağrılmayı bekle.",
+      "prompt": "A dark Anatolian village lane at night, seen from behind a lone figure who has stopped walking, a faint silhouette far down the lane in the fog, a single oil lamp in a window",
+      "yer": "Anadolu, Türkiye · Gece",
+      "sis": 0.4
+    },
+    {
+      "text": "Halkbilimci Özkul Çobanoğlu bu inancın çok yaygın olduğunu yazar.",
+      "prompt": "Old stone village houses at night under a crescent moon, all doors shut, mist between the walls",
+      "sis": 0.3
+    },
+    {
+      "text": "Anlatılana göre şeytan ve cinler yakın birinin sesine girebilir. Annenin, kardeşinin sesiyle seslenebilir.",
+      "prompt": "A wooden door of a stone house at night, seen from inside by lamp light, a vague tall shadow visible through the gap under the door",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Tekirdağ'da derlenen bir anlatıda bir kadını gece kocasının sesi keçi sağmaya çağırır. Anlatıya göre o ses kocasının değildir.",
+      "prompt": "A woman seen from behind holding a lantern at the door of a dark barn at night, goats restless inside, an empty dark field beyond",
+      "sicak": true,
+      "sis": 0.35
+    },
+    {
+      "text": "Mardin'de kardeş sesiyle çağırdıkları anlatılır. Erzurum Tortum'da kural şu: Arkadan bağırırlarsa dönme.",
+      "prompt": "A snowy mountain path at night in eastern Anatolia, a lone traveler seen from behind walking forward, footprints in the snow, darkness behind him",
+      "sis": 0.4
+    },
+    {
+      "text": "Peki neden üç? İnanışa göre aynı sözü üç kez arka arkaya söyleyebilen, cin ya da şeytan değildir.",
+      "prompt": "Three faint lights of lanterns in a row on a dark hillside village at night, fog rolling over stone roofs",
+      "sis": 0.4
+    },
+    {
+      "text": "Halk arasında inanılır ki ilk seslenişe cevap veren 'şeytanlara karışır'.",
+      "prompt": "An empty village square at night, a dry well in the middle, long shadows, mist, no people",
+      "sis": 0.45
+    },
+    {
+      "text": "Kanıtlanan şu: Bu inanç Rize'den Tekirdağ'a derlemelerde kayıtlı. Karanlıkta yanlış sese koşmamak belki en eski güvenlik önlemiydi.",
+      "prompt": "A village at night seen from a hill, a few warm windows lit, a crescent-topped minaret silhouette against the night sky",
+      "sis": 0.25
+    },
+    {
+      "text": "Sen olsan annenin sesine ilk seferde cevap verir miydin? Dosya hâlâ açık. Bunu gece geç yürüyen arkadaşına gönder.",
+      "prompt": "A child seen from behind standing at an open doorway of a stone house at night, looking out into a dark misty lane",
+      "sicak": true,
+      "sis": 0.4
+    }
+  ],
+  "caption": "Gece adın çağrılırsa ilk seferde cevap verir misin? 🌑\n\nAnadolu'da neden üç kere çağrılmayı beklerler: sesi taklit eden varlık inancı ve kaynakları.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#cinler",
+    "#korkuhikayeleri",
+    "#anadoluinanışları",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}

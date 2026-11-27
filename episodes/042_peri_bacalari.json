@@ -1,0 +1,66 @@
+{
+  "id": "042",
+  "slug": "peri_bacalari",
+  "title": "Perilerin Bacası",
+  "seed": 93306,
+  "kanca_yazi": "Bu kayaların içinde kim yaşıyordu?",
+  "scenes": [
+    {
+      "text": "Bu kayaların içinde kim yaşıyordu? Halk arasında anlatılan cevap tek kelime: periler.",
+      "prompt": "Tall cone-shaped rock pillars with dark cap stones under a stormy night sky, small dark doorways carved into them, fog at their feet",
+      "yer": "Göreme, Nevşehir, Türkiye · Efsane",
+      "sis": 0.35
+    },
+    {
+      "text": "Kapadokya'da yüzlerce kaya, başında şapka gibi bir taşla göğe uzanır.",
+      "prompt": "A valley full of fairy chimneys at dusk, mushroom-shaped rock caps, purple sky, no people",
+      "sis": 0.25
+    },
+    {
+      "text": "Anlatılana göre insanlardan uzak duran periler bu kayaların içinde yaşardı. Adları da buradan gelir.",
+      "prompt": "Faint warm lights glowing inside the dark doorways of rock chimneys at night, no figures visible, mist",
+      "sicak": true,
+      "sis": 0.4
+    },
+    {
+      "text": "Bir anlatıya göre insanlardan bir prens, bir peri kızıyla evlenmek ister. Periler izin vermez, insanlar da onları kovar.",
+      "prompt": "A horse rider seen from far away riding into a misty valley of rock chimneys at night, torches in the distance",
+      "sis": 0.4
+    },
+    {
+      "text": "Periler güvercine dönüşüp uçar. Kayalar bomboş kalır.",
+      "prompt": "A flock of white doves flying out of dark holes in a rock face at dawn, empty carved rooms behind",
+      "sis": 0.25
+    },
+    {
+      "text": "Yaşar Kemal'in 1957'deki gezisinde aktarılan bir anlatıya göre dünyada en çok peri bu diyarda yaşar.",
+      "prompt": "An old dirt road through a moonlit Cappadocian valley, a lone figure seen from behind walking with a lantern",
+      "sicak": true,
+      "sis": 0.3
+    },
+    {
+      "text": "Sonra bu kayalara insanlar yerleşti. Yüzlerce oda, ev ve sığınak oyuldu.",
+      "prompt": "Carved cave dwellings inside a huge rock with small windows, oil lamp light inside one of them, night",
+      "sicak": true,
+      "sis": 0.25
+    },
+    {
+      "text": "Kanıtlanan şu: Kayalar Erciyes, Hasandağı ve Göllüdağ'ın püskürttüğü küllerden oluştu. Sert başlık yağmuru tutar, altındaki yumuşak taş aşınır.",
+      "prompt": "Wind and rain eroding soft volcanic rock pillars with hard dark caps, a snow-capped volcano far in the background",
+      "sis": 0.3
+    },
+    {
+      "text": "Sen gece bu kayaların arasında yalnız kalabilir miydin? Dosya hâlâ açık. Bunu Kapadokya'ya gitmek isteyen arkadaşına gönder.",
+      "prompt": "A lone figure seen from behind standing among dark rock chimneys at night under a crescent moon, mist rising",
+      "sis": 0.4
+    }
+  ],
+  "caption": "Bu kayaların içinde kim yaşıyordu? 🪨\n\nKapadokya'ya adını veren peri anlatıları ve kayaların gerçek hikâyesi.\n\nHer gün yeni dosyalar için takip et 🗂️",
+  "hashtags": [
+    "#peribacaları",
+    "#kapadokya",
+    "#anadoluefsaneleri",
+    "#gizemliolaylar",
+    "#kayıpvakalar"
+  ]
+}
